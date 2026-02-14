@@ -16,7 +16,7 @@
 - **1.5** — The Castle / yurt from the other bed / princess riff at Chepstow (Persephone POV)
 - **1.6** — Sergey after the castle / the riff that broke the system / processing what she knows (Sergey POV) ✍️
 - **1.7** — TikTok explosion / overnight sensation / Kathleen behind the camera (Persephone POV)
-- **1.8** — & Amateur Cartography blows up / both rising / Kathleen shrinking (Sergey POV)
+- **1.8** — & Amateur Cartography blows up / solo live looping / both rising / Kathleen shrinking (Sergey POV)
 - **1.9** — The fame entanglement / Persephone and Sergey amplifying each other / Kathleen as sidekick (Persephone POV)
 - **1.10** — The betrayal: Sergey and Persephone sleep together / Kathleen transfers, gone forever (Sergey POV)
 - **1.11** — The famous couple / built on wreckage / the wrong relationship (Persephone POV)
