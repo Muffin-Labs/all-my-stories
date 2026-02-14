@@ -13,14 +13,16 @@
 - **1.2** — The drive to Hay-on-Wye / why the festival matters / Sergey sees Persephone (Sergey POV) ✍️
 - **1.3** — How The Light Gets In / gaslighting chain / Sergey's McGilchrist (Persephone POV) ✍️
 - **1.4** — The Yurt / Muffin quest / first sex / closed eyes / two lights (Sergey POV) ✍️
-- **1.5** — TikTok explosion / COVID lockdown / brand born in bedroom (Persephone POV)
-- **1.6** — & Amateur Cartography blows up / both rising / Kathleen shrinking (Sergey POV)
-- **1.7** — The fame entanglement / Persephone and Sergey amplifying each other / Kathleen as sidekick (Persephone POV)
-- **1.8** — The betrayal: Sergey and Persephone sleep together / Kathleen transfers, gone forever (Sergey POV)
-- **1.9** — The famous couple / built on wreckage / the wrong relationship (Persephone POV)
-- **1.10** — Sergey in the relationship: the Emissary with everything he wanted (Sergey POV)
-- **1.11** — Damian enters / Persephone cheats / she leaves Sergey (Persephone POV)
-- **1.12** — Sergey alone, famous, knowing what the mirror feels like (Sergey POV)
+- **1.5** — The Castle / yurt from the other bed / princess riff at Chepstow (Persephone POV)
+- **1.6** — Sergey after the castle / the riff that broke the system / processing what she knows (Sergey POV)
+- **1.7** — TikTok explosion / COVID lockdown / brand born in bedroom (Persephone POV)
+- **1.8** — & Amateur Cartography blows up / both rising / Kathleen shrinking (Sergey POV)
+- **1.9** — The fame entanglement / Persephone and Sergey amplifying each other / Kathleen as sidekick (Persephone POV)
+- **1.10** — The betrayal: Sergey and Persephone sleep together / Kathleen transfers, gone forever (Sergey POV)
+- **1.11** — The famous couple / built on wreckage / the wrong relationship (Persephone POV)
+- **1.12** — Sergey in the relationship: the Emissary with everything he wanted (Sergey POV)
+- **1.13** — Damian enters / Persephone cheats / she leaves Sergey (Persephone POV)
+- **1.14** — Sergey alone, famous, knowing what the mirror feels like (Sergey POV)
 
 ---
 
@@ -110,5 +112,6 @@ Chapter detail files: `ch_1.1.md`, `ch_1.2.md`, etc.
 | 1.3 | "Kids are the best scientists: curious, playful, observing without agenda." | Science & the Cult of Personality |
 | 1.4 | "By paying a certain kind of attention, you can humanise or dehumanise, cherish or strip of all value. By a kind of alienating, fragmenting and focal attention, you can reduce humanity — or art, sex, humour, or religion — to nothing." | Iain McGilchrist, *The Master and His Emissary* |
 | 1.5 | "Sometimes the most precise thing you can say is a fiction." | Science & the Cult of Personality |
+| 1.6 | "Circumnavigate this body / Of wonder and uncertainty / Armed with every precious failure / And amateur cartography" | The Weakerthans, "Aside" |
 
 *(Remaining epigraphs TBD)*
