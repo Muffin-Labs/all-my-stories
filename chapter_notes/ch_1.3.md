@@ -1,0 +1,49 @@
+# Chapter 1.3 — How The Light Gets In
+
+**POV:** Persephone (third person limited)
+**Setting:** How The Light Gets In festival, Hay-on-Wye, England. Summer 2019.
+**Time span:** 11 AM arrival → ~5:30 PM
+
+**Epigraph:** TBD — from "Science and the Cult of Personality"
+
+**Prose status:** ✍️ DRAFTED — see `chapter_02_festival.md`
+
+---
+
+## What This Chapter Does
+
+1. George as original cult leader of personality — charming, drinking, ignoring family
+2. Gaslighting chain: George → Rosemary → Persephone
+3. Tender-headed core memory triggered
+4. McGilchrist introduced (adorable, boring)
+5. First crack in Kathleen friendship — Kathleen chooses Sergey over their shared play
+6. Master/Emissary delivered through Sergey's labored poetic translation
+7. Persephone connects it effortlessly — "why someone can feel something and be told they're not feeling it"
+
+---
+
+## Scene Breakdown
+
+### Scene A — The day unfolds (~11 AM - 3:30 PM)
+George at pub all day. Rosemary at picnic table. Sergey at every talk. Girls goofing off. McGilchrist talk at 4.
+
+### Scene B — The McGilchrist talk (4 PM)
+McGilchrist adorable but boring. Persephone tries to riff with Kathleen. Kathleen shuts her down. Nobody looking at Persephone. She leaves alone.
+
+### Scene C — The pub / gaslighting chain (~4:30 PM)
+Overhears Rosemary wanting the castle. George charms her into staying. Rosemary surrenders. Persephone approaches as ally. Rosemary repeats George's words. Tender-headed flash. "Okay." Walks out alone.
+
+### Scene D — Alone / Sergey's explanation (~5 PM)
+Wanders. Stone wall. Sergey finds her, buzzing. The effortful translation: king and servant. Persephone sees it instantly. "Why someone can feel something and be told they're not feeling it." Match lit in a dark room. "Can we get food?"
+
+---
+
+## Key Lines
+- "He looked like Sheepey if Sheepey were a human and had tenure."
+- "Persephone. Stop."
+- "He was something worse than angry. He was charming."
+- "Like a document saved over, the old file gone."
+- "The castle was right there. They both wanted to go. And neither of them would."
+- "You're just tender-headed."
+- "Why someone can feel something and be told they're not feeling it."
+- "Can we get food? I'm starving."
