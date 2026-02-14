@@ -4,7 +4,7 @@ Single source of truth for how characters look. Reference this when writing scen
 
 ---
 
-## Persephone
+## Persephone Minton
 
 **Age in Act 1:** 15 (born November 2003, Pensacola, Florida)
 **Height:** 5'8"
@@ -18,7 +18,7 @@ Single source of truth for how characters look. Reference this when writing scen
 
 ---
 
-## George
+## George Minton
 
 **Age in Act 1:** Mid-40s
 **Height:** 6'4"
@@ -32,7 +32,7 @@ Single source of truth for how characters look. Reference this when writing scen
 
 ---
 
-## Rosemary
+## Rosemary Minton
 
 **Age in Act 1:** Early 40s
 **Height:** 5'2"
@@ -43,7 +43,7 @@ Single source of truth for how characters look. Reference this when writing scen
 
 ---
 
-## Sergey Volkov
+## Sergey Feldman
 
 **Age in Act 1:** 15 (same as Persephone and Kathleen)
 **Height:** 5'6" — taller than Kathleen, shorter than Persephone. This matters. He is eye-level with the girl he's dating and has to look up at the one he wants.
@@ -52,11 +52,11 @@ Single source of truth for how characters look. Reference this when writing scen
 **Style:** Eccentric in his self-expression. The kind of kid who wears a vintage blazer to school not because it's cool but because he found it at Goodwill and it had a pocket the right size for a notebook. A poet's wardrobe — slightly wrong, slightly deliberate, never quite fitting.
 **Overall:** His body is a vehicle for his mind. He forgets to eat. He forgets to stand up straight. But when he's talking about something that matters to him, his face becomes the most alive thing in the room — eyes bright, hands moving, that skinny George Clooney bone structure suddenly making sense.
 
-**Parents:** Dr. Viktor Volkov (semiconductor process development, Intel) and mother — both academics. They love him abstractly.
+**Parents:** Dr. Oscar Feldman (semiconductor process development, Intel) and mother — both academics. They love him abstractly.
 
 ---
 
-## Kathleen
+## Kathleen Unckles
 
 **Age in Act 1:** 15
 **Height:** 5'3"
