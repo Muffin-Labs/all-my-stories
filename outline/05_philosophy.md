@@ -179,6 +179,35 @@
 
 ---
 
+## Symbolic Pairs — The Motif System
+
+The Master/Emissary framework is encoded in recurring sensory motifs throughout the book. These accumulate unconsciously until the mural scene (Act 3, holding cell) makes the mapping explicit.
+
+| Symbol | Master (Right Brain) | Emissary (Left Brain) |
+|--------|---------------------|----------------------|
+| Element | Wind | Stone |
+| Color | Red | Blue |
+| Character | Kathleen | Sergey |
+| Attention | Gathering (open, receive) | Grasping (close, seize) |
+
+**Wind / Stone:**
+- Wind moves through without seizing. It bends and releases. It arrives without agenda. (Act 1: "never grabbing anything, never holding on")
+- Stone stays, labels, holds, endures. Stonehenge: built to be heard, but everyone just looks. Stone is structure and rigidity.
+- The pair evolves: what begins as landscape becomes philosophical, then personal, then the mural makes it visible.
+
+**Red / Blue:**
+- Red = warmth, body, direct perception. Firelight, sunsets, copper curls in lantern light, blood, the desert.
+- Blue = cool, cerebral, classification. Sky, water, intellectual distance.
+- In the mural: Blue/Emissary side = Sergey. Red/Master side = Kathleen.
+- Red and blue should appear naturally throughout Acts 1-2 so the mural feels like recognition, not introduction.
+
+**Kathleen / Sergey:**
+- Kathleen lives in the Master's territory — intuitive, relational, present. She can't explain why she knows things. She just knows.
+- Sergey lives in the Emissary's territory — classifying, labeling, building frameworks. He can explain everything except how to feel it.
+- Neither is complete alone. The mural shows Persephone that she needs both.
+
+---
+
 ## How It Maps to the Novel
 
 ### The Master and the Emissary (McGilchrist)

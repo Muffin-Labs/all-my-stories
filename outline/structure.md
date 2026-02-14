@@ -1,7 +1,7 @@
 # All My Stories — Master Structure
 
 **Narrative Mode:** Third person limited, alternating POV per act
-**Epigraphs:** Every chapter opens with a quote from "Science and the Cult of Personality" (the book-within-the-book)
+**Epigraphs:** Every chapter opens with an epigraph — a mix of quotes from "Science & the Cult of Personality" (the book-within-the-book) and real-world sources (McGilchrist, Cohen, etc.). The blend makes "Science & the Cult of Personality" feel like a real book by placing it alongside actual texts.
 
 ---
 
@@ -101,8 +101,13 @@ Chapter detail files: `ch_1.1.md`, `ch_1.2.md`, etc.
 
 ---
 
-## EPIGRAPH FOR CHAPTER 1.1:
-*"The truth cannot be found in words. So take this book with a grain of salt."*
-— Science and the Cult of Personality
+## EPIGRAPHS
 
-*(Remaining epigraphs TBD — drawn from the book-within-the-book)*
+| Chapter | Quote | Source |
+|---------|-------|--------|
+| 1.1 | "The truth cannot be found in words. So take this book with a grain of salt." | Science & the Cult of Personality |
+| 1.2 | "There is a crack, a crack in everything / That's how the light gets in." | Leonard Cohen, "Anthem" |
+| 1.3 | "Kids are the best scientists: curious, playful, observing without agenda." | Science & the Cult of Personality |
+| 1.4 | "By paying a certain kind of attention, you can humanise or dehumanise, cherish or strip of all value. By a kind of alienating, fragmenting and focal attention, you can reduce humanity — or art, sex, humour, or religion — to nothing." | Iain McGilchrist, *The Master and His Emissary* |
+
+*(Remaining epigraphs TBD)*

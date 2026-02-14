@@ -45,6 +45,27 @@ Every chapter must be audited against these before considered complete:
 - Rosemary: TBD
 - Eric: TBD
 
+## Motif Pairs (Master / Emissary)
+
+The following symbolic pairs represent the Master and Emissary throughout the book. They should be woven into every chapter — evolving, not repeating. The mural scene (Act 3, holding cell) makes the mapping explicit; before that, the motifs accumulate unconsciously.
+
+| Symbol | Master (Right Brain) | Emissary (Left Brain) |
+|--------|---------------------|----------------------|
+| Element | Wind | Stone |
+| Color | Red | Blue |
+| Character | Kathleen | Sergey |
+| Attention | Gathering (open, receive) | Grasping (close, seize) |
+
+**Wind** moves through without grabbing. It bends the grass and lets go. It arrives without being summoned. It's the mode of attention that precedes classification.
+
+**Stone** stays. It labels, holds, endures. Stonehenge is the first stone — built to be listened to, but everyone just looks at it. Stone is the Emissary's gift (structure, permanence) and its trap (rigidity, weight).
+
+**Red** is warmth, blood, the body, direct perception. It appears in firelight, sunsets, Persephone's curls turning copper in lantern light. It should be present before the mural names it.
+
+**Blue** is cool, cerebral, classification. It appears in sky, water, Sergey's intellectual gaze. It should be present before the mural names it.
+
+The pairs should never be explained in the prose. They accumulate so the reader feels the pattern before the mural confirms it. After the mural, they can be used more consciously by Persephone.
+
 ## Key Files
 - `outline/structure.md` — master chapter list and status
 - `outline/characters.md` — physical descriptions (single source of truth)
