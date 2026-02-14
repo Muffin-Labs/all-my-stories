@@ -98,6 +98,47 @@ The triangle in Act 1: Sergey looks up at Persephone and down at Kathleen. Liter
 
 ---
 
+## Dialogue Voice Guide
+
+How each character sounds when they speak — in their own POV chapters and in others'.
+
+### Persephone — Dialogue Voice
+- **Short and direct.** She doesn't explain or deconstruct. She goes straight to the image.
+- **Never meta-analytical.** She wouldn't say "think about what those words are doing." She'd say "A muffin, Kathleen. A muffin. And the passage of time."
+- **Arrives at the destination without showing her work.** "Like a church made out of sound" — one sentence, no preamble, no reasoning.
+- **Deadpan delivery.** Her humor is dry, stated as fact. "Horses in the Victorian era were terrible snobs — everyone knows this."
+- **Clipped commands.** "Don't." "No." "Do keep up."
+- **Builds characters through assertion, not description.** She doesn't explain Sheepey's backstory — she declares it. "He lost them with *dignity.*"
+- **The Sheepey/Muffin bits use British accent and understatement.** "He finds the mule rather common." "That's rather the point."
+- **Her insights are accidental.** She says the profound thing and moves on without noticing it was profound. "Why someone can feel something and be told they're not feeling it" — said like it was nothing.
+- **Contrast with Sergey:** He deconstructs, she constructs. He takes things apart to understand them. She makes things real just by talking about them. If Sergey would need a paragraph to explain a concept, Persephone nails it in one sentence — and doesn't realize she's done it.
+
+### Sergey — Dialogue Voice
+- Tends toward over-explanation. Uses too many words. Gets precise when emotional.
+- His spoken voice is less polished than his internal voice — he stumbles, restarts, reaches.
+- When excited (the McGilchrist explanation in 1.3), his hands move faster than his words.
+- "That's not — that doesn't — " (trails off when outmatched).
+
+### Kathleen — Dialogue Voice
+- Warm, game, quick to join a bit. "The goat farmer had land."
+- Matches Persephone's energy in the Sheepey bits — she's the straight man who's also funny.
+- When hurt or scared, gets quiet. "Shh." "I'm listening." — short, clipped, a door closing.
+- Calls Sergey "babe." Casual affection in her speech.
+
+### George — Dialogue Voice
+- Big, warm, immediate. "Beautiful, baby." "You kids have fun."
+- Says yes to everything. Makes everything sound like the best idea he's ever heard.
+- His bad British accent is enthusiastic and terrible. "Well, Sheepey ol' chap."
+- Fills silence with generosity. Asks follow-up questions. Remembers what you said.
+
+### Rosemary — Dialogue Voice
+- Sweet, trying, slightly off. "Cheerio, Sheep-EYE!"
+- Echoes George's words without knowing she's doing it. "Let's just enjoy being here" — his words, her mouth.
+- Genuinely confused by things. "What am I saying wrong?"
+- "My hero" — the same way every time.
+
+---
+
 ## Notes for Prose
 
 - Persephone's POV won't describe herself directly. Her physicality comes through: how people react to her, what she catches in reflections, physical actions (her curls, her height relative to others).

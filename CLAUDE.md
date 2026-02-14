@@ -38,7 +38,7 @@ Every chapter must be audited against these before considered complete:
 - "He thinks it's a bit rustic" not "I say, rather rustic"
 
 ### 6. Character Voice Consistency
-- Each POV has a distinct internal voice (see outline/characters.md for physical reference)
+- Each POV has a distinct internal voice; each character has a distinct dialogue voice (see outline/characters.md for physical reference AND dialogue voice guide)
 - Sergey: technical, taxonomic, classifying, effortfully poetic
 - Persephone: intuitive, sensory, playful, effortlessly insightful
 - Damian: TBD
