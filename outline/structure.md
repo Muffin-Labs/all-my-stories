@@ -10,17 +10,17 @@
 *Sergey mirrors her intellect*
 
 - **1.1** — Stonehenge / Sheepey (Persephone POV) ✍️
-- **1.2** — The drive to Hay-on-Wye / why the festival matters / Sergey sees Persephone (Sergey POV)
+- **1.2** — The drive to Hay-on-Wye / why the festival matters / Sergey sees Persephone (Sergey POV) ✍️
 - **1.3** — How The Light Gets In / gaslighting chain / Sergey's McGilchrist (Persephone POV) ✍️
-- **1.4** — TBD (Sergey POV) — processing the festival, watching Persephone understand
+- **1.4** — The Yurt / Muffin quest / first sex / closed eyes / two lights (Sergey POV) ✍️
 - **1.5** — TikTok explosion / COVID lockdown / brand born in bedroom (Persephone POV)
-- **1.6** — Sergey watching from the outside as she goes viral (Sergey POV)
-- **1.7** — The friendship / the imbalance / Kathleen (Persephone POV)
-- **1.8** — The betrayal: Sergey and Persephone sleep together (Sergey POV)
-- **1.9** — The fallout: two years of wrong relationship / Kathleen gone (Persephone POV)
-- **1.10** — The English teacher / Cat's Cradle (Sergey POV? or Persephone POV — break pattern for thematic reason?)
-- **1.11** — The separation: Stanford vs. St. Pete / Sergey gives her the book (Persephone POV)
-- **1.12** — Sergey at Stanford, alone, knowing what he lost (Sergey POV)
+- **1.6** — & Amateur Cartography blows up / both rising / Kathleen shrinking (Sergey POV)
+- **1.7** — The fame entanglement / Persephone and Sergey amplifying each other / Kathleen as sidekick (Persephone POV)
+- **1.8** — The betrayal: Sergey and Persephone sleep together / Kathleen transfers, gone forever (Sergey POV)
+- **1.9** — The famous couple / built on wreckage / the wrong relationship (Persephone POV)
+- **1.10** — Sergey in the relationship: the Emissary with everything he wanted (Sergey POV)
+- **1.11** — Damian enters / Persephone cheats / she leaves Sergey (Persephone POV)
+- **1.12** — Sergey alone, famous, knowing what the mirror feels like (Sergey POV)
 
 ---
 
@@ -28,7 +28,7 @@
 **POV: Persephone & Damian (strict alternation)**
 *Damian mirrors her personality*
 
-- **2.1** — St. Pete loft / brand ascending / George & Rosemary follow (Persephone POV)
+- **2.1** — St. Pete loft / post-Sergey / brand ascending / George & Rosemary follow (Persephone POV)
 - **2.2** — Damian's world: who he is before they meet (Damian POV)
 - **2.3** — Meeting Damian / the power couple begins (Persephone POV)
 - **2.4** — Damian sees Persephone / what draws him / his own cult of personality (Damian POV)
@@ -109,5 +109,6 @@ Chapter detail files: `ch_1.1.md`, `ch_1.2.md`, etc.
 | 1.2 | "There is a crack, a crack in everything / That's how the light gets in." | Leonard Cohen, "Anthem" |
 | 1.3 | "Kids are the best scientists: curious, playful, observing without agenda." | Science & the Cult of Personality |
 | 1.4 | "By paying a certain kind of attention, you can humanise or dehumanise, cherish or strip of all value. By a kind of alienating, fragmenting and focal attention, you can reduce humanity — or art, sex, humour, or religion — to nothing." | Iain McGilchrist, *The Master and His Emissary* |
+| 1.5 | "Sometimes the most precise thing you can say is a fiction." | Science & the Cult of Personality |
 
 *(Remaining epigraphs TBD)*

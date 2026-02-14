@@ -52,6 +52,14 @@ Single source of truth for how characters look. Reference this when writing scen
 **Style:** Eccentric in his self-expression. The kind of kid who wears a vintage blazer to school not because it's cool but because he found it at Goodwill and it had a pocket the right size for a notebook. A poet's wardrobe — slightly wrong, slightly deliberate, never quite fitting.
 **Overall:** His body is a vehicle for his mind. He forgets to eat. He forgets to stand up straight. But when he's talking about something that matters to him, his face becomes the most alive thing in the room — eyes bright, hands moving, that skinny George Clooney bone structure suddenly making sense.
 
+**Band:** & Amateur Cartography — freak folk, heavy on lyrics and storytelling. Named after a line from The Weakerthans' "Aside": *"Armed with every precious failure and amateur cartography."* He kept the subordinate clause and put an ampersand in front of it — because of course he did. The precious failures, the maps that are wrong but cherished, the attempts at understanding that don't quite land — that's his whole project.
+
+**The Weakerthans connection:** Sergey played them "Virtue the Cat Explains Her Departure" first — the cat who's left home and can't remember "the sound that you found for me" (her name, her identity, given by someone else). Kathleen thought it was cute ("the cat song"). Persephone couldn't speak. She heard the most devastating thing she'd ever heard — an animal who lost the word someone loved her with. She made him play it three times, then found the prequel ("Plea from a Cat Named Virtue") herself. The cat narrating with total sincerity is what Persephone does (Sheepey, Muffin, the princess). The gap between what Persephone heard in the song and what Kathleen heard is a gap she'd never noticed before and couldn't stop noticing after. This resonates across Persephone's whole arc: the cult of personality gives you a name, and when you leave it, who are you?
+
+Persephone and Kathleen are the band's biggest genuine fans — they think it's the best music they've ever heard. Sergey never believes them.
+
+**Arc:** Never goes academic. The band blows up during COVID lockdown — same window as Persephone's TikTok explosion. They amplify each other's fame but each is famous on their own merit. By 18, Sergey is touring, equally famous, the two of them publicly entangled. They sleep together, Kathleen is gone forever. They become a couple — the famous couple, built on betrayal. Then Persephone cheats on him with Damian and leaves. The mirror: what he did to Kathleen, done to him. The Emissary with all the knowledge and none of the immunity.
+
 **Parents:** Dr. Oscar Feldman (semiconductor process development, Intel) and mother — both academics. They love him abstractly.
 
 ---
