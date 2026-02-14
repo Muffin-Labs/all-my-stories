@@ -33,7 +33,7 @@
 - The group: Persephone, her mom, her dad, Kathleen, and Sergey (Kathleen's boyfriend)
 **The Group:**
 - Persephone (15), Kathleen, Sergey (Kathleen's boyfriend)
-- **George** — Persephone's dad. From Alabama. Southern accent.
+- **George** — Persephone's dad. From Georgia. Southern accent.
   - Devoted, does everything for his family: groceries, laundry, all decisions
   - Absolutely in love with Rosemary — she's the most beautiful woman in the world to him
   - Treats Persephone like a princess — the origin of her expectation that the world serves her
