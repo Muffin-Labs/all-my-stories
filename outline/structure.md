@@ -115,5 +115,6 @@ Chapter detail files: `ch_1.1.md`, `ch_1.2.md`, etc.
 | 1.6 | "Circumnavigate this body / Of wonder and uncertainty / Armed with every precious failure / And amateur cartography" | The Weakerthans, "Aside" |
 | 1.7 | "Nobody becomes famous. They just wake up inside someone else's story." | Science & the Cult of Personality |
 | 1.8 | "I don't mean to seem like I knew what was there — / Like I'd measured the dark — / I just wanted the room with the two of you near. / I was careless." | & Amateur Cartography, "Careless" |
+| 1.9 | "Being known feels so much like being held that the body can't tell the difference." | Science & the Cult of Personality |
 
 *(Remaining epigraphs TBD)*
