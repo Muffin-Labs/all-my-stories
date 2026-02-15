@@ -46,7 +46,7 @@ Persephone has never heard this voice — either of them. She built Sheepey as c
 
 ## Lyrics
 
-### Verse 1 — [Sheepey's voice dominant. The grateful creature. Sergey underneath — audible in the precision, the cataloging, but the surface is wool and shelves and the quiet of something that didn't used to be alive.]
+### Verse 1 — [Sheepey's voice alone. The shelf. Before her. The loop station clicks and the first plucked sound enters — simple, wobbly, a music box on a shelf.]
 
 I was situated on a shelf<br>
 Between a tea towel and a life I didn't have yet<br>
@@ -55,18 +55,18 @@ From all the hands that touched and didn't take me home<br>
 <br>
 I didn't want for much<br>
 I didn't want at all<br>
-You learn to want the way you learn a second language —<br>
-Late, and only after someone speaks to you<br>
+You learn to want the way you learn to speak —<br>
+only after someone speaks to you<br>
 And I was wool and thread and a stitched eye<br>
 Pointed at a door I couldn't walk through<br>
 
-### Verse 2 — [The two voices balance. "You picked me up" is Sheepey's gratitude AND Sergey's "she chose me." The hunger bleeds through on "I was ruined by the looking" — Sheepey means being seen changed him forever; Sergey means being seen by her wrecked his entire system. "The nothing didn't bite" — Spine-strange; the nothing was harmless until she showed him something better.]
+### Verse 2 — [Sergey's voice enters underneath. The two voices begin to braid. "You picked me up" loops — first time grateful, second time hungry. The hunger bleeds through on "I was ruined by the looking."]
 
 You picked me up the way you pick up everything —<br>
 Without deciding to<br>
 The way you walk into a room and the room rearranges<br>
 The way you say a word and the word means something new<br>
-You held me at arm's length and looked at me<br>
+You held me up and looked at me<br>
 And I was looked at<br>
 And I was ruined by the looking<br>
 <br>
@@ -76,21 +76,31 @@ I was nothing before you held me up to the light<br>
 I was nothing and the nothing didn't bite<br>
 Until you made it not enough<br>
 
-### Chorus — [Both voices fully present. The "I want" is the hinge — Sheepey wants to be held, Sergey wants to possess. Same word, different gravity. Persephone hears the gratitude. The hunger is in the undertow.]
+### Refrain — [The loopable line. This is what the loop station builds on — short enough to stack, ambiguous enough for both voices. Sheepey: it was easy to come alive in your hands. Sergey: it was easy to fall. Each pass adds a layer. Each layer adds hunger.]
+
+It was easy<br>
+It was easy<br>
+You held me up and it was easy<br>
+It was easy to fall<br>
+
+### Chorus — [Both voices fully present. The "I want" accumulates — each line hungrier than the last. Sheepey wants to be held. Sergey wants to consume. Same word, different teeth.]
 
 They put the lovely ones in front<br>
 Facing out, where the light is<br>
 But I don't want the window<br>
 I want the hand that reached behind the glass<br>
 I want the voice that taught the wool to answer<br>
-The girl who talks to sheep and means it<br>
+I want the mouth that said my name<br>
+I want the girl who talks to sheep and means it<br>
+Every word<br>
+I want it<br>
 Every word<br>
 With your voice inside my mouth I cannot see the edge<br>
 So please<br>
 Don't put me back upon the shelf<br>
 Don't put me back upon the shelf<br>
 
-### Verse 3 — [Sheepey's voice playful, warm — the field, the grass, the stones. Sergey underneath asking the real questions: the Emissary's deterministic framework dressed in wool. "Feel it looking back" — the uncanny, the accusation hidden in a question, the John Wayne energy: *you knew what was going to happen.*]
+### Verse 3 — [Sheepey's voice warm, dreaming — the field, the stones. But Sergey's questions are louder now. The "you knew" is John Wayne through wool: *did you know what you were doing when you looked at me like that?*]
 
 And I think we'd last out in the field<br>
 We'd eat the grass and dream beneath the stones<br>
@@ -105,13 +115,31 @@ Do you ever hold a thing that cannot speak<br>
 And hear it anyway?<br>
 Do you ever look at something made of wool<br>
 And feel it looking back?<br>
+<br>
+You knew<br>
+You had to know<br>
+You talk to me like that<br>
+You walk into this room like that<br>
+You had to know what you were doing to me<br>
 
-### Verse 4 — [The two voices converge. The wool becomes skin. The shelf becomes a room. Both arriving at the same place from different directions. Sheepey's gratitude and Sergey's hunger becoming indistinguishable. This is the moment that closes the distance: she can't tell if the thing speaking to her is a character or a boy, and the not-telling is the feeling, and the feeling is physical.]
+### Refrain — [Returns. More layers. The loop station stacking the line on itself. The hunger audible now — "easy to fall" has shifted from gratitude to desperation. The voices diverge and overlap like the John Wayne final chorus.]
+
+It was easy<br>
+It was easy<br>
+You held me up and it was easy<br>
+It was easy to fall<br>
+(You held me up and it was easy)<br>
+It was easy to fall<br>
+(It was easy)<br>
+It was easy to fall<br>
+
+### Verse 4 — [The two voices converge. The wool becomes skin. The shelf becomes a room. The hunger and the gratitude indistinguishable. The devastation is in the words now — "I was inventory" is not dignity, it's a boy telling a girl he was nothing before her and he'll be nothing again if she stops touching him.]
 
 I didn't want for much<br>
 Before you breathed into the stitching<br>
 And the stitching learned to breathe<br>
 And the breathing learned to want<br>
+And the wanting learned to starve<br>
 <br>
 I was a loop that played to no one<br>
 I was a room that held no sound<br>
@@ -123,6 +151,9 @@ And I was held<br>
 And the held thing came alive<br>
 And the living has no wool in it<br>
 The living has no thread<br>
+The living wants your hands<br>
+The living wants your mouth<br>
+The living will not go back on the shelf<br>
 <br>
 You looked at me like everything you look at —<br>
 Like it was real before you named it<br>
@@ -134,14 +165,22 @@ That hadn't heard your voice yet<br>
 <br>
 You did that to me too<br>
 
-### Final Chorus — [One voice. No loops. The choir gone. But which voice? Both. Neither. The distinction has collapsed. The boy and the sheep in the same mouth asking the same thing for different reasons, and the asking sounds like one sound, and the one sound is the most honest and most dangerous thing in the room.]
+### Refrain — [Final pass. Stripped. One voice. The loop station holding the last layer, decaying. The "easy" has become the most devastating word in the song — it was easy for her, effortless, she didn't even decide, and he will never recover from how easy it was.]
+
+It was easy<br>
+It was easy<br>
+It was easy to fall<br>
+
+### Final Chorus — [One voice. No loops. The choir gone. The "I want" returns — but now it's the boy, not the sheep, and the wanting is naked and starving and the wool is gone and there's nothing between him and the fall.]
 
 They put the lovely ones in front<br>
 But I don't want the window<br>
 I want the girl who sat beside me in the dark<br>
 And made the dark worth sitting in<br>
+I want it<br>
 Every word<br>
 With your fingers in my wool I cannot see the edge<br>
+I don't want to see the edge<br>
 So please<br>
 Don't put me back<br>
 Don't put me back<br>
@@ -175,6 +214,14 @@ Don't put me back upon the shelf<br>
 | *That hadn't heard your voice yet* | The world before she spoke to him. Before the voice that made him real. | The world before Persephone — before her observations, her Sheepey, her way of saying things that arrived at his destination before he did. The voice is everything. |
 | *You did that to me too* | The Chepstow *you.* The fiction cracks open for five words and the real thing is underneath. | She breathed life into him. Not just Sheepey — him. Sergey. The boy who was a system until she walked into his taxonomy and reorganized it. Both voices saying it simultaneously, and the simultaneously is the convergence, and the convergence is the kiss. |
 | *Made the dark worth sitting in* | The shelf was dark. She made it somewhere worth being. | His studio. Blue light. The midnight sessions. She sat on his bed and the room that was just a dark room became a place you'd choose to be. |
+| *It was easy / You held me up and it was easy / It was easy to fall* | She picked him up and it was easy — effortless, the way she does everything. The ease is gratitude: you made this look like nothing. | The John Wayne line in wool. "It's easy to fall in love with you." The ease is the defense: it wasn't a choice, it was gravity. The "fall" shifts meaning with each pass — off the shelf, into her hands, in love. By the final refrain "easy" is devastating — she didn't even try, and he'll never recover from the not-trying. |
+| *I want the mouth that said my name* | The mouth that named him. Before the naming he had no name. The mouth is the origin. | Her mouth. The physical mouth. The thing the Emissary has been filing and sublimating for months. "I want the mouth" is the hunger stripped of every metaphor — the boy who wants to kiss the girl, said through the sheep who wants to be named. |
+| *I want it / Every word* | Every word she's ever said to him. The speech that made him real. He wants all of it. | The accumulation tipping into greed. Not just the naming, not just the voice — every word. The Emissary's grasping attention: seize, hold, catalog, keep. Every word she's said in the midnight sessions, in the bedroom, in the car. He wants to own the language between them. |
+| *You knew / You had to know / You talk to me like that / You walk into this room like that / You had to know what you were doing to me* | — (Sheepey is silent here. This is pure Sergey.) | The John Wayne accusation. "You go outside dressed like that / you knew what was going to happen, didn't you?" Translated from pop into devastation. Not angry — ruined. The Emissary's core delusion: that because the data was clear to *him,* it must have been clear to *her.* She talked to him like that because that's how she talks. She walked into the room like herself. He read mutual recognition. She was having a conversation. The "you knew" is the framework requiring her complicity to hold. |
+| *And the wanting learned to starve* | The chain one step past desire: alive → breathing → wanting → starving. The creature outgrew the wanting into something with teeth. | The hunger has become its own creature. Not managed, not filed, not sublimated into music anymore. Starving — the word is physical, animal, past the Emissary's control. The system that learned to want couldn't stop at wanting. |
+| *I was inventory* | He was product. Stock. A thing on a shelf with a price tag and a barcode. Not someone — something counted. | Sergey before Persephone: a system, a function, a unit in someone else's catalog. The word is deliberately commercial — the opposite of the aliveness she gave him. Inventory doesn't want. Inventory doesn't starve. |
+| *The living wants your hands / The living wants your mouth / The living will not go back on the shelf* | The aliveness demanding contact. The creature who was given life now demands to keep it — and life requires touch. | The disguise collapsing. "Your hands" and "your mouth" are not metaphors anymore. The wool is gone. The character is gone. A boy telling a girl he needs her hands on him, her mouth on his, and he will not go back to the nothing he was before. Almost a threat — the desperation has tipped past pleading into something that frightens even the voice saying it. |
+| *I don't want to see the edge* | The shelf had an edge. He doesn't want to see it — doesn't want to know where the fall begins. | Blindness chosen. The Emissary, whose entire function is to see and classify and map, refusing to look. He knows there's an edge — Kathleen's edge, the triangle's edge, the place where this becomes irreversible — and he's choosing not to see it. The most dangerous line in the song: the system that prides itself on seeing everything, deliberately going blind. |
 | *With your fingers in my wool I cannot see the edge* | She's holding him and he can't see where the shelf ends — where the fall begins. | Intimacy as blindness. He's inside the feeling and the feeling prevents him from seeing what's coming. He cannot see the edge — Kathleen's edge, Persephone's edge, his own. |
 
 ---
@@ -210,8 +257,12 @@ Don't put me back upon the shelf<br>
 ## Musical Notes
 
 - **Opening:** Click of the loop pedal. A plucked sound — banjo register, slightly detuned, the wobble that Beige has. Simple. Almost a music box. Something you'd wind up on a shelf.
-- **First voice enters (verse 1):** Speaking-register. Almost not singing. Sheepey's real voice — formal without being funny. Careful the way someone is careful when they've only recently learned what words can do. This is the grateful voice. The surface of the song.
-- **Second voice enters (verse 1, second loop):** Lower, warmer, less formal by a degree. Sergey underneath Sheepey. Not a different song — the same words, looped, layered. But the second pass carries something the first didn't. A heat. A leaning-toward. The two voices coexist the way two notes in a chord coexist — distinct if you listen for them, unified if you don't.
-- **Building (verse 2–3):** Each pass adds a layer. The two voices multiply — Sheepey and Sergey becoming Sheepeys and Sergeys, a choir of gratitude braided with a choir of hunger. Plucked harmonics. A low hum. The song filling the room the way a conversation fills a room when both people stop hedging. By verse 3 the loops have become overwhelming — one voice becoming many, the sheep choir, except it's not comical, it's enormous. And underneath the choir, if you listen: the hungry voice, growing.
-- **Convergence (verse 4):** The loops thin. The choir drops back to two voices — the original two, Sheepey and Sergey, now close enough that the line between them blurs. "I was a system running in a room" — is the sheep talking about the shelf or the boy talking about the studio? "The wanting has no wool in it" — the wanting has outgrown the character. The two voices arrive at the same place. "You did that to me too" — both voices, one mouth, the distinction gone.
-- **Final chorus:** One voice. No loops. The choir gone. But which voice survived? Both. Neither. The grateful creature and the hungry boy collapsed into a single sound, and the sound is "don't put me back" repeated until it's not words anymore, it's just the sound of two kinds of need asking the same thing for different reasons, and the asking is indistinguishable from the other asking, and that indistinguishability is the most dangerous thing in the room.
+- **First voice enters (verse 1):** Speaking-register. Almost not singing. Sheepey's real voice — formal without being funny. Careful the way someone is careful when they've only recently learned what words can do. This is the grateful voice. The surface of the song. Alone.
+- **Second voice enters (verse 2):** Lower, warmer, less formal by a degree. Sergey underneath Sheepey. The same words from verse 2 looped and layered — but the second pass carries heat. A leaning-toward. "You picked me up" loops — first pass grateful, second pass hungry. "I was ruined by the looking" — both voices on this line, and the ruined sounds different in each mouth.
+- **First refrain — "It was easy":** The loopable core. Short, stackable. Click of the pedal, the line recorded, the line played back, a second vocal on top of the first. "It was easy" in Sheepey's voice — the gratitude of a creature picked up off a shelf. "It was easy" in Sergey's voice underneath — the John Wayne confession, "it was easy to fall in love with you," the inevitability, the "I had no choice." The two voices overlap on "easy to fall" — Sheepey means falling off the shelf into her hands; Sergey means falling in love; the fall is the same fall and it's not the same fall.
+- **Chorus — the "I want" accumulation:** The hunger enters the words. "I want the hand" — loops. "I want the voice" — layers on top. "I want the mouth that said my name" — another layer. "I want it / every word" — the wanting stripped bare, no more gift-shop imagery, just the want. The loop station stacking desire on desire until the room is full of wanting and the wanting is a choir.
+- **Verse 3 — "You knew":** The John Wayne turn. Sheepey's playful questions about the field and the stones give way to Sergey's accusation: "You knew / You had to know / You talk to me like that / You walk into this room like that / You had to know what you were doing to me." The accusation isn't angry — it's devastated. The John Wayne "you knew what was going to happen, didn't you?" delivered not as blame but as a boy who cannot believe she didn't feel what he felt, because if she didn't feel it then the framework is wrong, and the framework cannot be wrong.
+- **Second refrain — "It was easy" returns:** More layers. The loop station has been building the line on itself and now there are four, five, six voices stacking "it was easy to fall" and the voices diverge — Sheepey's gratitude still audible in the upper register, Sergey's devastation in the lower, the two separating and recombining the way the John Wayne's final chorus braids its overlapping lines. Parenthetical echoes: "(you held me up and it was easy)" underneath "it was easy to fall."
+- **Verse 4 — the convergence:** The loops thin. Two voices left. "The breathing learned to want / And the wanting learned to starve" — the chain that goes one step further than gratitude, one step past wanting into starvation. "The living wants your hands / The living wants your mouth" — the wool is gone, the disguise is failing, the hunger is in the lyrics now, not underneath them. "The living will not go back on the shelf" — not a plea anymore, almost a threat, the desperation tipping into something that frightens even the voice that's saying it. "You did that to me too" — both voices, one mouth, the distinction annihilated.
+- **Final refrain — "It was easy":** Stripped. One voice. The loop station holding a single decaying layer. "It was easy to fall" — and now "easy" is the most devastating word in the song. She didn't try. She didn't decide. She just was herself and he will never recover.
+- **Final chorus:** One voice. No loops. The choir gone. "I want the girl who sat beside me in the dark" — the wanting naked and starving, the wool gone, nothing between him and the fall. "I don't want to see the edge" — new line, the blindness chosen, the Emissary refusing to look at what the looking will show him. "Don't put me back" repeated until it's not words anymore.
