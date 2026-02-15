@@ -7,38 +7,38 @@
 
 ## Lyrics
 
-You were my beliefs all rusting over
-And I was disappoint within your spine
-We noticed that the stars were all exploding
-So we stared into the sky till we were blind
-Then cut off both our arms and reached for nothing
-And rewound the frames that twisted in our minds
-And we watched their separate lives in backwards motion
-So we ended up connected at the sides
-
-And I wondered if the sky was just a ceiling
-And you wondered if the ground was just a floor
-Oh, how the world will make a fool of a believer
-I was a believer once before
-
-You will come home
-You will come home
-You will come home
-You will come home
-(x many)
-
-But the airwaves in our stomachs never seem to find it funny
-As we float above the ocean
-While I loved you from a corner through the bridge and through the borders
-Without motions
-
-So we'll place all our remains within a freezer
-And believe that they won't spoil
-And I'll trade being your spine with another one
-Who thinks that he can keep your bones alive
-And I'll watch him till he finds that I'm your home
-
-You will come home
+You were my beliefs all rusting over<br>
+And I was the support within your spine<br>
+We noticed that the stars were all exploding<br>
+So we stared into the sky till we were blind<br>
+Then cut off both our arms and reached for nothing<br>
+And rewound the frames that twisted in our minds<br>
+And we watched their separate lives in backwards motion<br>
+So we ended up connected at the sides<br>
+<br>
+And I wondered if the sky was just a ceiling<br>
+And you wondered if the ground was just a floor<br>
+Oh, how the world will make a fool of a believer<br>
+I was a believer once before<br>
+<br>
+You will come home<br>
+You will come home<br>
+You will come home<br>
+You will come home<br>
+(x many)<br>
+<br>
+But the airwaves in our stomachs never seem to find it funny<br>
+As we float above the ocean<br>
+While I loved you from a corner through the bridge and through the borders<br>
+Without motions<br>
+<br>
+So we'll place all our remains within a freezer<br>
+And believe that they won't spoil<br>
+And I'll trade being your spine with another one<br>
+Who thinks that he can keep your bones alive<br>
+And I'll watch him till he finds that I'm your home<br>
+<br>
+You will come home<br>
 
 ---
 

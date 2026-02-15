@@ -7,47 +7,47 @@
 
 ## Lyrics
 
-I don't wanna see you smile
-I want you in the morning
-Before you go performing
-Tell me something I don't know
-And lead me to the place where no one ever goes
-Let me go under your skin
-Let me find the demons that drive those heavenly limbs
-
-You know you're beautiful
-But that ain't half the gold treasure in your soul what you got 'cause I want it all
-With your fingers in my mouth, I fail to see your faults
-So please don't let me fall
-So please don't let me fall
-
-And I think we'd survive in the wild
-We would eat plants and roots and dream about electric fans
-Baby, could you kill a man?
-Could you look in his eyes and feel the fire drain out of his hands?
-Baby do you think about the past?
-Do you wonder if every stupid little thing has led us to this
-
-You know you're beautiful
-But that ain't half the gold treasure in your soul what you got 'cause I want it all
-With your fingers in my mouth, I fail to see your faults
-So please don't let me fall
-So please don't let me fall
-
-You know you're beautiful (you're beautiful)
-But that ain't half the gold treasure in your soul what you got 'cause I want it all (want it all)
-With your fingers in my mouth, I fail to see your faults
-So please don't let me fall
-So please don't let me fall
-
-Don't let me fall
-Don't let me fall
-Don't let me fall
-Don't let me fall
-Don't let me fall
-Don't let me fall
-Don't let me fall
-Don't let me fall
+I don't wanna see you smile<br>
+I want you in the morning<br>
+Before you go performing<br>
+Tell me something I don't know<br>
+And lead me to the place where no one ever goes<br>
+Let me go under your skin<br>
+Let me find the demons that drive those heavenly limbs<br>
+<br>
+You know you're beautiful<br>
+But that ain't half the gold treasure in your soul what you got 'cause I want it all<br>
+With your fingers in my mouth, I fail to see your faults<br>
+So please don't let me fall<br>
+So please don't let me fall<br>
+<br>
+And I think we'd survive in the wild<br>
+We would eat plants and roots and dream about electric fans<br>
+Baby, could you kill a man?<br>
+Could you look in his eyes and feel the fire drain out of his hands?<br>
+Baby do you think about the past?<br>
+Do you wonder if every stupid little thing has led us to this<br>
+<br>
+You know you're beautiful<br>
+But that ain't half the gold treasure in your soul what you got 'cause I want it all<br>
+With your fingers in my mouth, I fail to see your faults<br>
+So please don't let me fall<br>
+So please don't let me fall<br>
+<br>
+You know you're beautiful (you're beautiful)<br>
+But that ain't half the gold treasure in your soul what you got 'cause I want it all (want it all)<br>
+With your fingers in my mouth, I fail to see your faults<br>
+So please don't let me fall<br>
+So please don't let me fall<br>
+<br>
+Don't let me fall<br>
+Don't let me fall<br>
+Don't let me fall<br>
+Don't let me fall<br>
+Don't let me fall<br>
+Don't let me fall<br>
+Don't let me fall<br>
+Don't let me fall<br>
 
 ---
 

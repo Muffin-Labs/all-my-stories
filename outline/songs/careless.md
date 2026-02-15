@@ -12,49 +12,49 @@
 
 ### Verse (×4, building layers each pass)
 
-There isn't much that I need to keep
-A steady hand and a map to read
-With the lights drawn low and the walls worn thin
-I only wanted to let you in
+There isn't much that I need to keep<br>
+A steady hand and a map to read<br>
+With the lights drawn low and the walls worn thin<br>
+I only wanted to let you in<br>
 
 ### Bridge (×2)
 
-I didn't mean to be careless
-Or to draw with a shaking hand
-But to hold what I found in the dark
-I would need you to understand
+I didn't mean to be careless<br>
+Or to draw with a shaking hand<br>
+But to hold what I found in the dark<br>
+I would need you to understand<br>
 
 ### Mantra (×8, building)
 
-To understand
-To understand
-To understand
-To understand
-To understand
-To understand
-To understand
-To understand
+To understand<br>
+To understand<br>
+To understand<br>
+To understand<br>
+To understand<br>
+To understand<br>
+To understand<br>
+To understand<br>
 
 ### Chorus
 
-I don't mean to seem like I knew what was there
-Like I'd measured the dark
-I just wanted the room with the two of you near
-I was careless
+I don't mean to seem like I knew what was there<br>
+Like I'd measured the dark<br>
+I just wanted the room with the two of you near<br>
+I was careless<br>
 
 ### [Cycle repeats — verse, bridge, mantra, chorus — each pass louder, more layered, more urgent]
 
 ### Final chorus (×4, the wave cresting)
 
-I don't mean to seem like I knew what was there
-Like I'd measured the dark
-I just wanted the room with the two of you near
-I was careless
-
-I don't mean to seem like I knew what was there
-Like I'd measured the dark
-I just wanted the room with the two of you near
-I was careless
+I don't mean to seem like I knew what was there<br>
+Like I'd measured the dark<br>
+I just wanted the room with the two of you near<br>
+I was careless<br>
+<br>
+I don't mean to seem like I knew what was there<br>
+Like I'd measured the dark<br>
+I just wanted the room with the two of you near<br>
+I was careless<br>
 
 ---
 

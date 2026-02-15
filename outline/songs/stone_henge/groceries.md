@@ -8,58 +8,58 @@
 
 ## Lyrics
 
-Real sorry about your broken heart
-I'm trying to walk on broken glass
-Do it all again for art
-Like had to write a song about it
-
-I'll go if you go, if you're cool with that
-I'll go if you go, I have hope that you know that
-I'll go if you go, if you're cool with that
-I'll go if you go, I have hope that you know that
-
-I just wanna get groceries
-I'll pray you wanna get close to me
-I'll give it some, give it some, give it some time
-But I think we're supposed to be
-And if you wanna get groceries
-And if you wanna get close to me
-Just gimme some, gimme some, gimme some sign
-I think that we're supposed to be
-
-I wish that I could let it pass
-I don't mind that you put it last
-I made it worse, I put you first
-We're laughing like it didn't hurt
-
-I'll go if you go, if you're cool with that
-I'll go if you go, I have hope that you know that
-I'll go if you go, if you're cool with that
-I'll go if you go, I have hope that you know that
-
-I just wanna get groceries
-I'll pray you wanna get close to me
-I'll give it some, give it some, give it some time
-But I think we're supposed to be
-And if you wanna get groceries
-And if you wanna get close to me
-Just gimme some, gimme some, gimme some sign
-I think that we're supposed to be
-
-This sucks, I'm lovesick, too important to rush this
-I'd miss our kiss if it ever left my lips
-No one I know is sticky on my mind when I go
-Except ya, but you're just friends with Miss Independent
-
-And this sucks, I'm lovesick, too important to rush this
-I'd miss our kiss if it ever left my lips
-No one I know is sticky on my mind when I go
-Heart broke, but I spend it, 'cause I'm Miss Independent
-
-I just wanna get groceries
-I'll pray you wanna get close to me
-I'll give it some, give it some, give it some time
-But I think we're supposed to be
+Real sorry about your broken heart<br>
+I'm trying to walk on broken glass<br>
+Do it all again for art<br>
+Like had to write a song about it<br>
+<br>
+I'll go if you go, if you're cool with that<br>
+I'll go if you go, I have hope that you know that<br>
+I'll go if you go, if you're cool with that<br>
+I'll go if you go, I have hope that you know that<br>
+<br>
+I just wanna get groceries<br>
+I'll pray you wanna get close to me<br>
+I'll give it some, give it some, give it some time<br>
+But I think we're supposed to be<br>
+And if you wanna get groceries<br>
+And if you wanna get close to me<br>
+Just gimme some, gimme some, gimme some sign<br>
+I think that we're supposed to be<br>
+<br>
+I wish that I could let it pass<br>
+I don't mind that you put it last<br>
+I made it worse, I put you first<br>
+We're laughing like it didn't hurt<br>
+<br>
+I'll go if you go, if you're cool with that<br>
+I'll go if you go, I have hope that you know that<br>
+I'll go if you go, if you're cool with that<br>
+I'll go if you go, I have hope that you know that<br>
+<br>
+I just wanna get groceries<br>
+I'll pray you wanna get close to me<br>
+I'll give it some, give it some, give it some time<br>
+But I think we're supposed to be<br>
+And if you wanna get groceries<br>
+And if you wanna get close to me<br>
+Just gimme some, gimme some, gimme some sign<br>
+I think that we're supposed to be<br>
+<br>
+This sucks, I'm lovesick, too important to rush this<br>
+I'd miss our kiss if it ever left my lips<br>
+No one I know is sticky on my mind when I go<br>
+Except ya, but you're just friends with Miss Independent<br>
+<br>
+And this sucks, I'm lovesick, too important to rush this<br>
+I'd miss our kiss if it ever left my lips<br>
+No one I know is sticky on my mind when I go<br>
+Heart broke, but I spend it, 'cause I'm Miss Independent<br>
+<br>
+I just wanna get groceries<br>
+I'll pray you wanna get close to me<br>
+I'll give it some, give it some, give it some time<br>
+But I think we're supposed to be<br>
 
 ---
 

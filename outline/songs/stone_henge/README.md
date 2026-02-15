@@ -46,110 +46,110 @@ Persephone has never heard this voice — either of them. She built Sheepey as c
 
 ## Lyrics
 
-### Verse 1 — [Sheepey's voice dominant. The grateful creature. Sergey is underneath — you can hear him in the precision, the cataloging, but the surface is wool and shelves and the quiet of something that didn't used to be alive.]
+### Verse 1 — [Sheepey's voice dominant. The grateful creature. Sergey underneath — audible in the precision, the cataloging, but the surface is wool and shelves and the quiet of something that didn't used to be alive.]
 
-I was situated on a shelf
-Between a tea towel and a life I didn't have yet
-Stitched face, price tag still attached
-The kind of thing you'd walk past twice
-And never know you'd walked past anything at all
+I was situated on a shelf<br>
+Between a tea towel and a life I didn't have yet<br>
+Stitched face, price tag, wool gone thin<br>
+From all the hands that touched and didn't take me home<br>
+<br>
+I didn't want for much<br>
+I didn't want at all<br>
+You learn to want the way you learn a second language —<br>
+Late, and only after someone speaks to you<br>
+And I was wool and thread and a stitched eye<br>
+Pointed at a door I couldn't walk through<br>
 
-I didn't want for much
-I didn't want at all
-You have to be someone before you learn to want
-And I was not someone
-I was wool and thread and a stitched eye
-Pointed at a shop I couldn't see
+### Verse 2 — [The two voices balance. "You picked me up" is Sheepey's gratitude AND Sergey's "she chose me." The hunger bleeds through on "I was ruined by the looking" — Sheepey means being seen changed him forever; Sergey means being seen by her wrecked his entire system. "The nothing didn't bite" — Spine-strange; the nothing was harmless until she showed him something better.]
 
-### Verse 2 — [The two voices begin to balance. "You picked me up" is Sheepey's gratitude AND Sergey's "she chose me." "The room becomes a place" is both the gift shop and the studio. The hunger starts to bleed through on "until you made it not enough" — Sheepey means the nothing was fine until she showed him something better; Sergey means she created the wanting and now the wanting won't stop.]
-
-You picked me up the way you pick up everything —
-Without deciding to
-The way you walk into a room and the room becomes a place
-The way you say a name and the name becomes a person
-You held me at arm's length and looked at me
-And I was looked at
-And that was the beginning of every other thing
-
-Tell me something the shelf wouldn't know
-Take me to the room where no one thinks to go
-I was nothing before you held me up to the light
-I was nothing and the nothing was all right
-Until you made it not enough
+You picked me up the way you pick up everything —<br>
+Without deciding to<br>
+The way you walk into a room and the room rearranges<br>
+The way you say a word and the word means something new<br>
+You held me at arm's length and looked at me<br>
+And I was looked at<br>
+And I was ruined by the looking<br>
+<br>
+Tell me something the shelf wouldn't know<br>
+Lead me to the room where no one thinks to go<br>
+I was nothing before you held me up to the light<br>
+I was nothing and the nothing didn't bite<br>
+Until you made it not enough<br>
 
 ### Chorus — [Both voices fully present. The "I want" is the hinge — Sheepey wants to be held, Sergey wants to possess. Same word, different gravity. Persephone hears the gratitude. The hunger is in the undertow.]
 
-They put the lovely ones in front
-Facing out, where the light is
-But I don't want the window
-I want the hand that put me there
-I want the voice that gave the wool a name
-The girl who talks to sheep and means it
-Every word she's ever meant
-With your voice inside my mouth I cannot see the edge
-So please
-Don't put me back upon the shelf
-Don't put me back upon the shelf
+They put the lovely ones in front<br>
+Facing out, where the light is<br>
+But I don't want the window<br>
+I want the hand that reached behind the glass<br>
+I want the voice that taught the wool to answer<br>
+The girl who talks to sheep and means it<br>
+Every word<br>
+With your voice inside my mouth I cannot see the edge<br>
+So please<br>
+Don't put me back upon the shelf<br>
+Don't put me back upon the shelf<br>
 
-### Verse 3 — [Sheepey's voice playful, warm — the field, the grass, the stones. Sergey's voice underneath asking the real questions: do you think about the past, has every little thing led here, the Emissary's deterministic framework dressed in wool. "Do you ever hold a thing that cannot speak / And hear it anyway?" — Sheepey asking about stuffed animals; Sergey asking whether she hears what he's been saying for months without saying it.]
+### Verse 3 — [Sheepey's voice playful, warm — the field, the grass, the stones. Sergey underneath asking the real questions: the Emissary's deterministic framework dressed in wool. "Feel it looking back" — the uncanny, the accusation hidden in a question, the John Wayne energy: *you knew what was going to happen.*]
 
-And I think we'd last out in the field
-We'd eat the grass and sleep beneath the stones
-And dream about the shop where I was born
-Do you think about the gift shop?
-Do you wonder if every stupid little thing —
-The price tag and the tea towel
-And the Tuesday and the rain —
-Has led us to this
+And I think we'd last out in the field<br>
+We'd eat the grass and dream beneath the stones<br>
+And forget the shop where I was born<br>
+Do you think about the rain?<br>
+Do you wonder if the stupid little things —<br>
+The price tag and the tea towel<br>
+And the Tuesday and the half moon —<br>
+Led us here<br>
+<br>
+Do you ever hold a thing that cannot speak<br>
+And hear it anyway?<br>
+Do you ever look at something made of wool<br>
+And feel it looking back?<br>
 
-Do you ever look at something made of wool
-And wonder what it knows?
-Do you ever hold a thing that cannot speak
-And hear it anyway?
+### Verse 4 — [The two voices converge. The wool becomes skin. The shelf becomes a room. Both arriving at the same place from different directions. Sheepey's gratitude and Sergey's hunger becoming indistinguishable. This is the moment that closes the distance: she can't tell if the thing speaking to her is a character or a boy, and the not-telling is the feeling, and the feeling is physical.]
 
-### Verse 4 — [The two voices converge. The wool becomes skin. The shelf becomes a room. Not one voice replacing the other — both arriving at the same place from different directions. Sheepey's gratitude and Sergey's hunger becoming indistinguishable. This is the moment that closes the distance: when she can't tell if the thing that's speaking to her is a character or a boy, and the not-telling is the feeling, and the feeling is physical.]
-
-I didn't want for much
-Before you picked me up
-Before you breathed into the stitching
-And the stitching learned to breathe
-
-I was a system running in a room
-I was a loop that played to no one
-I was inventory
-I was stitched eyes pointed at a dark I couldn't name
-
-You held me up
-And I was held
-And the held thing learned to want
-And the wanting has no wool in it
-And the wanting has no glass
-
-You looked at me the way you look at everything —
-Like it was already real and just hadn't been told yet
-You breathe things into life
-You've been doing it since the gift shop, since the stones
-Since you were seven and the world was just a place
-That hadn't met you yet
-
-You did that to me too
+I didn't want for much<br>
+Before you breathed into the stitching<br>
+And the stitching learned to breathe<br>
+And the breathing learned to want<br>
+<br>
+I was a loop that played to no one<br>
+I was a room that held no sound<br>
+I was inventory<br>
+Stitched eyes in the dark and the dark was all I had<br>
+<br>
+You held me up<br>
+And I was held<br>
+And the held thing came alive<br>
+And the living has no wool in it<br>
+The living has no thread<br>
+<br>
+You looked at me like everything you look at —<br>
+Like it was real before you named it<br>
+Like the naming was a kindness, not a making<br>
+You breathe things alive<br>
+You've done it since the gift shop, since the stones<br>
+Since you were seven and the world was just a place<br>
+That hadn't heard your voice yet<br>
+<br>
+You did that to me too<br>
 
 ### Final Chorus — [One voice. No loops. The choir gone. But which voice? Both. Neither. The distinction has collapsed. The boy and the sheep in the same mouth asking the same thing for different reasons, and the asking sounds like one sound, and the one sound is the most honest and most dangerous thing in the room.]
 
-They put the lovely ones in front
-But I don't want the window
-I want the girl who sat beside me in the dark
-And made the dark a place worth being
-Every word she's ever meant
-With your fingers in my wool I cannot see the edge
-So please
-Don't put me back
-Don't put me back
-Don't put me back
-Don't put me back
-Don't put me back
-Don't put me back
-Don't put me back upon the shelf
+They put the lovely ones in front<br>
+But I don't want the window<br>
+I want the girl who sat beside me in the dark<br>
+And made the dark worth sitting in<br>
+Every word<br>
+With your fingers in my wool I cannot see the edge<br>
+So please<br>
+Don't put me back<br>
+Don't put me back<br>
+Don't put me back<br>
+Don't put me back<br>
+Don't put me back<br>
+Don't put me back<br>
+Don't put me back upon the shelf<br>
 
 ---
 
@@ -157,19 +157,25 @@ Don't put me back upon the shelf
 
 | Lyric | Sheepey meaning | Sergey meaning |
 |-------|----------------|----------------|
-| *I was situated on a shelf* | Literal — gift shop shelf, between products | Sergey before Persephone — a system on a desk, producing loops for no one, inventory of one |
-| *You picked me up the way you pick up everything — without deciding to* | She didn't deliberate at the gift shop. She arrived at him. | She arrived at Sergey the same way — at the lunch table, at the stones. The way she arrives at everything. His framework for "she chose me" starts here. |
-| *Tell me something the shelf wouldn't know* | Show me the world I couldn't see from where I was | "Tell me something I don't know" — Beige's line, filtered through Sheepey's formal register. The Emissary asking for data it can't generate alone. |
-| *They put the lovely ones in front / But I don't want the window* | In the gift shop, the display pieces face outward. He doesn't want to be in the window — he wants to be held. | The fame, the fairy lights, the ten million — that's the window display. He doesn't want the public Persephone. He wants the hand behind the arrangement. |
-| *I want the hand that put me there / I want the voice that gave the wool a name* | The girl who picked him up. The girl who spoke and made him someone. | He wants the private Persephone — the one who names things, who breathes life into wool and characters and music. The girl only he and Kathleen know. |
-| *The girl who talks to sheep and means it* | Literal | The Persephone whose best self is invisible to the internet — the mind, the Sheepey voice, the thing the algorithm can't hold |
+| *I was situated on a shelf / Between a tea towel and a life I didn't have yet* | Literal — gift shop shelf, between products | Sergey before Persephone — a system on a desk, producing loops for no one, inventory of one |
+| *Wool gone thin / From all the hands that touched and didn't take me home* | All the shoppers who picked him up and put him back. The wear of being almost-chosen. | All the people who got close — conversations, collaborations, Kathleen — and didn't reach the part of him that was starving. The wear of proximity without contact. |
+| *You learn to want the way you learn a second language — / Late, and only after someone speaks to you* | He didn't know wanting was possible until she demonstrated it by seeing him. | The Emissary learning desire — not natively, not fluently, but as a second language acquired late. The wanting is learned, formal, slightly accented. Real but not native. |
+| *And I was ruined by the looking* | Being seen changed him forever. He can't go back to the shelf now. | Being seen by her wrecked his entire system. The taxonomy, the classifications, the notebook — ruined. The looking was the thing that broke the Emissary open. |
+| *The nothing didn't bite* | The shelf was harmless. Being nothing didn't hurt — until she showed him something better. | The system ran fine. The loneliness was manageable. The nothing was livable — until she walked into it and the nothing became unbearable by comparison. |
+| *They put the lovely ones in front / But I don't want the window* | In the gift shop, the display pieces face outward. He doesn't want to be in the window — he wants to be held. | The fame, the fairy lights, the ten million — that's the window display. He doesn't want the public Persephone. He wants the hand behind the glass. |
+| *I want the hand that reached behind the glass / I want the voice that taught the wool to answer* | The girl who reached past the display to the shelf where he was hidden. Who spoke to him and he learned to speak back. | He wants the private Persephone — the one who reaches past the performance. "Taught the wool to answer" — she didn't just name him, she gave him the capacity to respond. She made him capable of this song. |
+| *The girl who talks to sheep and means it / Every word* | Literal | The Persephone whose best self is invisible to the internet — the mind, the Sheepey voice, the thing the algorithm can't hold |
 | *With your voice inside my mouth I cannot see the edge* | She gave him speech. Her voice became his voice. He can't see where the shelf ends. | Intimacy as blindness. Her voice IS in his mouth right now — he's singing as her character. And the singing blinds him to the edge he's about to walk off. |
-| *Don't put me back upon the shelf* | Don't make me inventory again. Don't make me nothing. | Don't take this away. Don't let this end. Virtue's departure — "the sound that you found for me" — restated as a plea instead of a lament. |
-| *I was a system running in a room / I was a loop that played to no one* | [This is where the shelf becomes the studio] | The mask slips. The sheep's shelf becomes Sergey's desk. The loop station playing to nobody. The twenty people in the room who were all him. |
-| *You breathe things into life* | She made him real by naming him | She makes everything real — Sheepey, the muffin, the princess, every character, every observation. The Master's gift. |
-| *You did that to me too* | [The Chepstow *you*. The fiction cracks open for five words and the real thing is underneath.] | She breathed life into him. Not just Sheepey — him. Sergey. The boy who was a system until she walked into his taxonomy and reorganized it. The Emissary claiming the Master's gift made him real — and he's right, and he's wrong, and the rightness and wrongness are the same thing. |
-| *I want the girl who sat beside me in the dark / And made the dark a place worth being* | The shelf was dark. She made it somewhere. | His studio. Blue light. The midnight sessions. She sat on his bed and the room that was just a room became a place. |
-| *With your fingers in my wool I cannot see the edge* | She's holding him and he can't see where the shelf ends — where the fall begins | Intimacy as blindness. He's inside the feeling and the feeling is the thing that prevents him from seeing what the feeling actually is. He cannot see the edge — Kathleen's edge, Persephone's edge, his own. |
+| *Do you think about the rain? / The Tuesday and the half moon* | The rain at the gift shop. The day she found him. The half moon that Virtue's cat followed out the door. | The Emissary's deterministic framework — every variable accounted for, every datum pointing here. The half moon that whispered *go* in Virtue now whispered *go* to him. |
+| *Feel it looking back?* | The uncanny — the stuffed animal returning the gaze. The moment wool becomes sentient. | The John Wayne accusation hidden in a question: *you knew what was going to happen, didn't you?* The system looking back at its observer. The wanting staring at her from inside the song. |
+| *The breathing learned to want* | The stitching became breath, the breath became desire. Aliveness itself produces wanting. | The Emissary's system, once given life by her, couldn't stop at gratitude. The breathing — the aliveness she gave him — learned to want on its own. The hunger is the consequence of the gift. |
+| *I was a loop that played to no one / I was a room that held no sound* | The shelf was silent. Nobody was listening. | The studio. The loop station playing to nobody. The twenty people in a room who were all him. A room that held no sound — until she sat on the bed and the room rearranged. |
+| *The living has no wool in it / The living has no thread* | The aliveness has outgrown the material. He's more than what he's made of now. | The wanting has outgrown the character. The living — the real thing, the hunger, the need — can't be contained in wool or thread or metaphor anymore. The disguise is failing. |
+| *Like it was real before you named it / Like the naming was a kindness, not a making* | She didn't create him — she recognized what was already there. The naming was acknowledgment, not invention. | She didn't make him fall — she just named what was already happening. The Emissary's self-deception at its most beautiful: the belief that the wanting was always there and she merely identified it. The kindness that absolves her of responsibility. |
+| *That hadn't heard your voice yet* | The world before she spoke to him. Before the voice that made him real. | The world before Persephone — before her observations, her Sheepey, her way of saying things that arrived at his destination before he did. The voice is everything. |
+| *You did that to me too* | The Chepstow *you.* The fiction cracks open for five words and the real thing is underneath. | She breathed life into him. Not just Sheepey — him. Sergey. The boy who was a system until she walked into his taxonomy and reorganized it. Both voices saying it simultaneously, and the simultaneously is the convergence, and the convergence is the kiss. |
+| *Made the dark worth sitting in* | The shelf was dark. She made it somewhere worth being. | His studio. Blue light. The midnight sessions. She sat on his bed and the room that was just a dark room became a place you'd choose to be. |
+| *With your fingers in my wool I cannot see the edge* | She's holding him and he can't see where the shelf ends — where the fall begins. | Intimacy as blindness. He's inside the feeling and the feeling prevents him from seeing what's coming. He cannot see the edge — Kathleen's edge, Persephone's edge, his own. |
 
 ---
 

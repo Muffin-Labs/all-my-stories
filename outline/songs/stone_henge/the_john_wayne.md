@@ -8,52 +8,52 @@
 
 ## Lyrics
 
-It's easy to fall in love
-It's easy to fall in love with you
-It's easy to fall in love
-It's easy to fall in love with you
-
-You go outside dressed like that
-You knew what was going to happen, didn't you?
-You talk to me like that
-You knew I was slowly falling in love with you
-
-And I... ooh
-And I... ooh
-
-You know it's your neglect
-Is the reason that I'm so obsessed with you
-And when I asked you your name you said John Wayne
-And I guess it's true
-'Cause then you shot me down
-Doubled over and I hit the ground right in front of you
-
-I guess in the Wild West
-It's ok to shoot the pest that's annoying you
-
-And I... ooh
-And I... ooh
-
-It's easy to fall in love
-It's easy to be alone
-It's easy to hate yourself
-When all your love is inside someone else
-It's easy to take it all
-It's easy to give it to
-When there's more people out there to love
-Than people who love you
-
-And I... ohh
-
-It's easy to fall in love
-(It's easy to fall in love with you)
-The reason that I'm so obsessed
-(You knew what was going to happen didn't you)
-I guess in the Wild West
-(You knew I was slowly falling in love with you)
-
-It's easy to fall in love
-It's easy to fall in love with you
+It's easy to fall in love<br>
+It's easy to fall in love with you<br>
+It's easy to fall in love<br>
+It's easy to fall in love with you<br>
+<br>
+You go outside dressed like that<br>
+You knew what was going to happen, didn't you?<br>
+You talk to me like that<br>
+You knew I was slowly falling in love with you<br>
+<br>
+And I... ooh<br>
+And I... ooh<br>
+<br>
+You know it's your neglect<br>
+Is the reason that I'm so obsessed with you<br>
+And when I asked you your name you said John Wayne<br>
+And I guess it's true<br>
+'Cause then you shot me down<br>
+Doubled over and I hit the ground right in front of you<br>
+<br>
+I guess in the Wild West<br>
+It's ok to shoot the pest that's annoying you<br>
+<br>
+And I... ooh<br>
+And I... ooh<br>
+<br>
+It's easy to fall in love<br>
+It's easy to be alone<br>
+It's easy to hate yourself<br>
+When all your love is inside someone else<br>
+It's easy to take it all<br>
+It's easy to give it to<br>
+When there's more people out there to love<br>
+Than people who love you<br>
+<br>
+And I... ohh<br>
+<br>
+It's easy to fall in love<br>
+(It's easy to fall in love with you)<br>
+The reason that I'm so obsessed<br>
+(You knew what was going to happen didn't you)<br>
+I guess in the Wild West<br>
+(You knew I was slowly falling in love with you)<br>
+<br>
+It's easy to fall in love<br>
+It's easy to fall in love with you<br>
 
 ---
 

@@ -8,40 +8,40 @@
 
 ## Lyrics
 
-It had something to do with the rain
-Leaching loamy dirt
-And the way the back lane came alive
-Half moon whispered, "Go"
-
-For a while I heard you
-Missing steps in the street
-And your anger pleading
-In an uncertain key
-Singing the sound that you found for me
-
-When the winter took the tips of my ears
-Found this noisy home
-Full of pigeons and places to hide
-And when the voices die
-I emerged to watch abandoned machines
-Waiting for their men to return
-
-I remember the way
-I would wait for you
-To arrive with kibble
-And a box full of beer
-How I'd scratch the empties
-Desperate to hear
-You make the sound that you found for me
-
-After scrapping with the ferals and the tabby
-Let you brush my matted fur
-How I'd knead into your chest while you were sleeping
-Shallow breathing made me purr
-
-But I can't remember the sound that you found for me
-I can't remember the sound that you found for me
-I can't remember the sound
+It had something to do with the rain<br>
+Leaching loamy dirt<br>
+And the way the back lane came alive<br>
+Half moon whispered, "Go"<br>
+<br>
+For a while I heard you<br>
+Missing steps in the street<br>
+And your anger pleading<br>
+In an uncertain key<br>
+Singing the sound that you found for me<br>
+<br>
+When the winter took the tips of my ears<br>
+Found this noisy home<br>
+Full of pigeons and places to hide<br>
+And when the voices die<br>
+I emerged to watch abandoned machines<br>
+Waiting for their men to return<br>
+<br>
+I remember the way<br>
+I would wait for you<br>
+To arrive with kibble<br>
+And a box full of beer<br>
+How I'd scratch the empties<br>
+Desperate to hear<br>
+You make the sound that you found for me<br>
+<br>
+After scrapping with the ferals and the tabby<br>
+Let you brush my matted fur<br>
+How I'd knead into your chest while you were sleeping<br>
+Shallow breathing made me purr<br>
+<br>
+But I can't remember the sound that you found for me<br>
+I can't remember the sound that you found for me<br>
+I can't remember the sound<br>
 
 ---
 
