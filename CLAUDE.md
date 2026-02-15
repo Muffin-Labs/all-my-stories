@@ -33,15 +33,18 @@ Every chapter must be audited against these before considered complete:
 - Humor and heartbreak should coexist — this book is funny and devastating simultaneously
 
 ### 5. Sheepey Convention
-- Kathleen and Persephone never speak AS Sheepey (no first-person Sheepey voice)
+- Kathleen and Persephone never speak AS Sheepey (no first-person Sheepey voice, no dialogue in his "voice")
 - They discuss Sheepey in third person, always directed to each other or someone else
 - "He thinks it's a bit rustic" not "I say, rather rustic"
+- The Sheepey bit is telling stories ABOUT him — his history, adventures, his life before Stonehenge. Not opinions about current events or things happening around the characters. If he has opinions, they're about timeless absurdities (Victorian horse breeds, the quality of wool in Salisbury)
+- Sheepey never "delivers" lines, "asserts himself," or "speaks." The girls narrate his world. The comedy is in their telling.
+- One exception: the song "Stone-HENGE" where Sheepey has a sung voice
 
 ### 6. Character Voice Consistency
 - Each POV has a distinct internal voice; each character has a distinct dialogue voice (see outline/characters.md for physical reference AND dialogue voice guide)
 - Sergey: technical, taxonomic, classifying, effortfully poetic
 - Persephone: intuitive, sensory, playful, effortlessly insightful
-- Damian: TBD
+- Démion: TBD
 - Rosemary: TBD
 - Eric: TBD
 

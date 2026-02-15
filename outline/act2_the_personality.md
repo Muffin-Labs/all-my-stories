@@ -1,7 +1,7 @@
 # Act 2: The Personality (Ages 18-26, St. Pete/LA)
 
-**POV alternates: Persephone & Damian**
-*Damian mirrors her personality — the Cult of Personality at full power*
+**POV alternates: Persephone & Démion**
+*Démion mirrors her personality — the Cult of Personality at full power*
 
 **Chapter Epigraphs:** Each chapter opens with a quote from "Science and the Cult of Personality"
 
@@ -35,8 +35,8 @@
   - The gaslighting is so foundational she can't separate harm from devotion
   - She doesn't see what George did to her until she meets Eric — and maybe not even fully then
 
-### Damian Reyes (Persephone POV & Damian POV)
-- In her early twenties, starts dating Damian Reyes — the ultimate power couple
+### Démion Reyes (Persephone POV & Démion POV)
+- In her early twenties, starts dating Démion Reyes — the ultimate power couple
 - Half Latino, incredibly attractive, incredibly smart
 - First language Spanish; Hispanic cultural background
 - The breakout best NFL player to ever exist
@@ -47,7 +47,7 @@
 - Also driven by personality — mirrors Persephone
 - The world sees them as Travis Kelce / Taylor Swift equivalent
 - They date ~4 years, then marry
-- **Damian's POV chapters:**
+- **Démion's POV chapters:**
   - We see the power couple from the inside
   - His charm, his control, his own version of the Cult of Personality
   - We see him as a full person, not just a villain
@@ -66,14 +66,14 @@
 ## The Breaking Point (Age ~26)
 
 ### The Wedding Night
-- Damian rapes Persephone on their wedding night
+- Démion rapes Persephone on their wedding night
 - She was passed out; he claims to be so drunk he can't remember
 - **The Ambiguity — this is key:**
   - She doesn't know the full truth
   - He claims not to remember, but cracks in his story
   - She can't trust or believe him
   - "Does it even count as rape if you're married?"
-- **Damian's POV of the wedding night — devastating**
+- **Démion's POV of the wedding night — devastating**
 
 ### The Morning-After Confrontation
 - She confronts him; he denies everything
@@ -83,7 +83,7 @@
 - Her inner scientist flickers: she *observes* the contradiction
 - Impossible for her to stay
 
-### Damian's Counter-Narrative
+### Démion's Counter-Narrative
 - While she protects his career with silence, he goes on the offensive
 - Fabricated story: she cheated at the wedding with a random person
 - Painting her as crazy — preemptively destroying credibility
@@ -92,7 +92,7 @@
 ### The Cascade
 - Ennui was already there
 - Wedding night shatters her last narrative
-- Damian's lies destroy her reputation
+- Démion's lies destroy her reputation
 - Personality's playbook exhausted — no moves left
 
 ### The Yoga Teacher
@@ -101,7 +101,7 @@
 - She wants what he has so badly she looks past every surface signal
 - **Key moment:** first act of observation over narrative
 - He recommends a 10-day silent Vipassana meditation retreat
-- She floats it to Damian as a spiritual honeymoon — he laughs in her face
+- She floats it to Démion as a spiritual honeymoon — he laughs in her face
 - **First time in her life she follows someone else's instructions**
 
 ### Wedding → Retreat (Act 2 Ending)

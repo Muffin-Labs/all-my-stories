@@ -14,6 +14,8 @@ Single source of truth for how characters look. Reference this when writing scen
 **Eyes:** Pale green. Hypnotizing. The feature people remember — unexpected against her skin, almost unsettling in how they hold you.
 **Overall:** She got the best of both parents and then some. George's height and presence, Rosemary's delicacy in her features. At sixteen she already looks like the woman she'll become. People stare. She's used to it.
 
+**Inherited from George:** "Roll Tide" / "Roll Damn Tide". She loves watching 'Bama games with her dad — it's their thing, the call-and-response that predates everything. Every game since she was eleven, she wears the same cartoon elephant 'Bama tee, faded and too small, the shirt that belongs to the version of her that existed before the camera.
+
 **In Act 3 (post-retreat):** Shaves her head. 130 lbs. The shaved head terrifies Rosemary but becomes her disguise — nobody recognizes her without the curls.
 
 ---
@@ -24,7 +26,7 @@ Single source of truth for how characters look. Reference this when writing scen
 **Height:** 6'4"
 **Build:** Handsome. Commanding. Looks like Idris Elba — that same easy, magnetic physicality.
 **Skin:** Black
-**Origin:** Southern, from Alabama. Works as a technician at Intel in Beaverton.
+**Origin:** Southern, from Alabama. Works as a technician at Intel in Beaverton. HUGE Alabama football fan — lifelong, the kind that's in the blood, the kind where Crimson Tide isn't a team but a family identity.
 **Voice:** Deep, Southern. The kind of voice that makes people lean in.
 **Overall:** A big man who fills a room without trying. The warmth isn't just personality — it's physical. When he puts his arm around you, you feel held. When he laughs, your chest vibrates. He carries himself like a man who knows he's the most interesting person in the room and is generous enough to make you feel like you are instead.
 
@@ -63,7 +65,7 @@ Single source of truth for how characters look. Reference this when writing scen
 
 Persephone and Kathleen are the band's biggest genuine fans — they think it's the best music they've ever heard. Sergey never believes them.
 
-**Arc:** Never goes academic. The band blows up during COVID lockdown — same window as Persephone's TikTok explosion. They amplify each other's fame but each is famous on their own merit. By 18, Sergey is touring, equally famous, the two of them publicly entangled. They sleep together, Kathleen is gone forever. They become a couple — the famous couple, built on betrayal. Then Persephone cheats on him with Damian and leaves. The mirror: what he did to Kathleen, done to him. The Emissary with all the knowledge and none of the immunity.
+**Arc:** Never goes academic. The band blows up during COVID lockdown — same window as Persephone's TikTok explosion. They amplify each other's fame but each is famous on their own merit. By 18, Sergey is touring, equally famous, the two of them publicly entangled. They sleep together, Kathleen is gone forever. They become a couple — the famous couple, built on betrayal. Then Persephone cheats on him with Démion and leaves. The mirror: what he did to Kathleen, done to him. The Emissary with all the knowledge and none of the immunity.
 
 **Parents:** Dr. Oscar Feldman (semiconductor process development, Intel) and mother — both academics. They love him abstractly. They pushed for early kindergarten enrollment (he missed the September 1 cutoff by two days), putting him in the same grade as Persephone and Kathleen.
 
@@ -81,12 +83,15 @@ Persephone and Kathleen are the band's biggest genuine fans — they think it's 
 
 ---
 
-## Damian Reyes (Act 2)
+## Démion Reyes (Act 2)
 
-**Height:** TBD
-**Build:** NFL-caliber athlete. The breakout best player to ever exist. Physical and mental force.
+**Age when drafted:** 20 (born 2001). Freshman starting QB at Alabama, won the National Championship — basically single-handedly. Drafted by Tampa Bay Buccaneers, April 29, 2021 (first overall pick).
+**Height:** 6'6"
+**Weight:** 250 lbs
+**Build:** Classically handsome, super buff, athletic in a way that makes other professional athletes look small. Think Saquon Barkley's physicality with Patrick Mahomes's improvisational genius and Tom Brady's competitive ruthlessness. A dominant runner and passer — improvisational on a level never seen before. Seems to know what will happen before it happens, always one step ahead. The body is a weapon and a monument.
+**Face:** Movie-star handsome. Strong jaw, perfect smile, the kind of face that sells watches and cologne without trying. When he walks into a room, everyone recalibrates.
 **Skin/Heritage:** Half Latino. First language Spanish. Hispanic cultural background.
-**Overall:** Incredibly attractive, incredibly smart. The perfect man from all outward appearances.
+**Overall:** The breakout best NFL player to ever exist. Physical and mental force. At 6'6", 250, he towers over Persephone (5'8") the way George towers over Rosemary — and that echo matters. He is the physical opposite of Sergey in every dimension: where Sergey is skinny, cerebral, 5'6", Démion is massive, instinctual, 6'6". Persephone's type — the football players she dated before Sergey — made flesh at the highest possible magnitude.
 
 ---
 
@@ -99,15 +104,17 @@ Persephone and Kathleen are the band's biggest genuine fans — they think it's 
 
 ## Height Chart (for blocking scenes)
 
-| Character | Height |
-|-----------|--------|
-| George | 6'4" |
-| Persephone | 5'8" |
-| Sergey | 5'6" |
-| Kathleen | 5'3" |
-| Rosemary | 5'2" |
+| Character | Height | Weight |
+|-----------|--------|--------|
+| Démion | 6'6" | 250 lbs |
+| George | 6'4" | — |
+| Persephone | 5'8" | ~130 lbs (Act 3) |
+| Sergey | 5'6" | — |
+| Kathleen | 5'3" | — |
+| Rosemary | 5'2" | — |
 
 The triangle in Act 1: Sergey looks up at Persephone and down at Kathleen. Literally.
+In Act 2: Démion towers over Persephone the way George towers over Rosemary — and that echo matters. The physical opposite of Sergey in every dimension.
 
 ---
 

@@ -228,7 +228,7 @@
   - Not heroic — just "I'm tired of being afraid"
   - The most practical, unglamorous reason to be courageous
 - **She picks up the phone and calls Cassandra**
-  - The first call. Not the internet, not Damian, not Kathleen.
+  - The first call. Not the internet, not Démion, not Kathleen.
   - Cassandra is the gateway back to public life
   - Picking up this phone means the machine starts again
 
@@ -248,7 +248,7 @@
 - The book ends here — or near here
 - She's ready. She's not running anymore.
 - **The book does NOT resolve neatly:**
-  - No clean resolution with Damian
+  - No clean resolution with Démion
   - No triumphant return to social media
   - No cult formation shown on-page (implied, or sequel)
   - No public reckoning
@@ -278,7 +278,7 @@
 - Can she point at the moon without them worshipping her finger?
 
 ### The Divorce
-- She divorces Damian. Details TBD.
+- She divorces Démion. Details TBD.
 
 ### Open Questions
 - Does the wedding night truth ever come out publicly?

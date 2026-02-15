@@ -81,7 +81,7 @@
   - Learned in the worst classroom: a place where being too honest gets you sedated
   - She's not lying. She's not compromising. She's surviving while staying whole.
 - She carries this skill everywhere after the psych ward:
-  - Talks to Damian this way — rejects his reconciliation outright, but in language he can't weaponize
+  - Talks to Démion this way — rejects his reconciliation outright, but in language he can't weaponize
   - Navigates the public, lawyers, doctors the same way
   - Most people don't notice the truth slipping through
 
@@ -122,9 +122,9 @@
 - Late 2019/early 2020: TikTok dance videos go viral (Charli D'Amelio timeline)
 - March 2020: COVID lockdowns hit — fame explodes while locked down
 - Fall 2021 (age 18, turning 19): Moves to St. Petersburg, Florida. George & Rosemary follow.
-- 2022: Meets Damian Reyes (Tampa Bay Buccaneers, breakout season)
+- 2022: Meets Démion Reyes (Tampa Bay Buccaneers, breakout season)
 - Fall 2021 - March 2026: St. Pete/Tampa years (~4.5 years)
-- March 2026: Damian joins LA Chargers, they move to LA — she buys Santa Monica house
+- March 2026: Démion joins LA Chargers, they move to LA — she buys Santa Monica house
 - ~2026: George dies of a heart attack. Rosemary nearly dies of broken heart. George & Rosemary don't follow to LA.
 - 2026-2030: LA years — brand at full power, power couple at peak
 - 2030: Persephone is 26. Wedding, retreat, everything falls apart.
@@ -136,8 +136,8 @@
 **Key Settings:**
 - Pensacola, Florida — born here. George (Alabama) and Rosemary (Pensacola) roots.
 - Beaverton, Oregon (suburb of Portland) — childhood from age 7. George gets Intel job. PNW summers, woods, BLM land behind home. Meets Kathleen at school.
-- St. Petersburg, Florida — moves here at 17/18. Loft in a downtown tower. Where she meets Damian. (~4.5 years)
-- Los Angeles / Santa Monica — moves with Damian March 2026 when he joins the Chargers. House in Santa Monica. Brand HQ.
+- St. Petersburg, Florida — moves here at 17/18. Loft in a downtown tower. Where she meets Démion. (~4.5 years)
+- Los Angeles / Santa Monica — moves with Démion March 2026 when he joins the Chargers. House in Santa Monica. Brand HQ.
 - Joshua Tree — the wedding location. Adjacent to the retreat.
 - 29 Palms / Joshua Tree — Vipassana retreat. Desert, ancient, vast.
 - Desert Hot Springs — waypoint. The pariah moment.
@@ -176,7 +176,7 @@
 - Extremely charismatic, natural personality, born leader
 - Influencer — massive Instagram/TikTok following from teens onward
 - Millionaire by 18; gets loft in downtown St. Pete tower
-- Buys Santa Monica house at 22 when she moves to LA with Damian
+- Buys Santa Monica house at 22 when she moves to LA with Démion
 - **Tarot background:** custom deck, readings for followers — engaged at narrative/aesthetic level until the retreat makes it experiential
 - The cult of personality operating at full power
 
@@ -336,7 +336,7 @@
 - His language + her experience = the synthesis she needs to write her book
 - **Relationship progression:**
   - Sergey = Emissary (mind, consumed as entertainment)
-  - Damian = personality at peak (mirrored her)
+  - Démion = personality at peak (mirrored her)
   - Eric = sees through observation, values play and curiosity over narrative
 
 ### Gaia — Owner of Inan Itah Eco Village
@@ -350,9 +350,9 @@
 - Persephone took him and kept him for 2 years — never really wanted him
 - Everyone loses. The cult of personality at its most casually devastating.
 
-### Damian Reyes — The Husband
+### Démion Reyes — The Husband
 - Half Latino, first language Spanish, Hispanic cultural background
-- Name meaning: "to tame/subdue" + "kings"
+- Name: Démion — a spelling that looks like "demon" on the page. Surname Reyes (kings). The name reads as a warning nobody heeds.
 - Best NFL player ever — QB/running back, academic achievements, built a business in HS
 - Perfect man on the surface; also driven by personality
 - Power couple (Kelce/Swift equivalent); date ~4 years, marry
@@ -395,10 +395,10 @@
 - **Ends with:** the separation. Two paths diverge.
 
 **Act 2: The Personality (Ages 18-26, St. Pete/LA)**
-- **POV alternates: Persephone & Damian**
-- Damian mirrors her personality — the Cult of Personality at full power
+- **POV alternates: Persephone & Démion**
+- Démion mirrors her personality — the Cult of Personality at full power
 - → See `act2_the_personality.md`
-- St. Pete loft, building the brand, meeting Damian
+- St. Pete loft, building the brand, meeting Démion
 - George and Rosemary follow to Florida
 - George's death — healthcare system failure — Rosemary nearly dies
 - Power couple ascent — the Kelce/Swift of their generation
@@ -406,8 +406,8 @@
 - Brand at full peak, spiritual influencer era, tarot content
 - The emptiness underneath — she has everything and feels nothing
 - Yoga teacher recommends Vipassana retreat
-- The wedding — Damian's POV of the wedding night (devastating)
-  - We see Damian as a full person, not just a villain, before the betrayal is revealed
+- The wedding — Démion's POV of the wedding night (devastating)
+  - We see Démion as a full person, not just a villain, before the betrayal is revealed
 - **Ends with:** the wedding night. The crack.
 
 **Act 3: The Crack (Age 26, Desert/Santa Monica)**
@@ -457,7 +457,7 @@
 **Why These Pairings:**
 - Each co-narrator mirrors where Persephone is in her journey
 - Sergey mirrors her intellect (Act 1)
-- Damian mirrors her personality (Act 2)
+- Démion mirrors her personality (Act 2)
 - Rosemary mirrors her blindness (Act 3)
 - Eric mirrors her awakening (Act 4)
 - The co-narrators ARE the thesis — each shows a different face of the Cult of Personality
@@ -477,6 +477,6 @@
 - Cult formation on-page or implied?
 - Does the book end with the phone call to Cassandra or slightly after?
 - Mom's name?
-- Does Damian return? Reckoning?
+- Does Démion return? Reckoning?
 - Does Sergey reappear?
 - Body cam footage — goes viral?

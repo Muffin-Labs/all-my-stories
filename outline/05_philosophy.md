@@ -36,7 +36,7 @@
 
 **In the Novel:**
 - Persephone is the Cult of Personality made flesh — she IS the system at its most successful
-- Damian uses narrative warfare: his cheating story preempts hers
+- Démion uses narrative warfare: his cheating story preempts hers
 - The retreat center protects its narrative at Persephone's expense
 - Cassandra's instinct is always: control the narrative, fight competing narratives
 - The psych ward: comply with the consensus narrative or be detained
@@ -114,7 +114,7 @@
   - Only wants to take responsibility for things that went well
   - Only wants credit for what makes it look good
   - Dodges blame, deflects, rewrites the story
-  - Damian: takes credit for the devoted husband image, dodges responsibility for the wedding night
+  - Démion: takes credit for the devoted husband image, dodges responsibility for the wedding night
   - The retreat center: takes credit for transformation, dodges responsibility when it goes sideways
 - **The Scientist's relationship with accountability:**
   - Accountability is just acknowledgment of facts
@@ -228,7 +228,7 @@ The Master/Emissary framework is encoded in recurring sensory motifs throughout 
   - Her entire life is narrative: brand, image, story, performance
   - She navigates every situation by narrating it — even relationships
   - Sergey was consumed as entertainment (narrative about a person, not the person)
-  - Damian was the power couple story (two personalities at peak)
+  - Démion was the power couple story (two personalities at peak)
   - She's never observed without narrating. Never seen without telling.
 
 ### The Scientist in the Novel

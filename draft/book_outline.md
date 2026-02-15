@@ -180,10 +180,10 @@
   - NOT a loose thread to tie up — a real, permanent consequence
   - Some things the personality breaks can't be fixed
 
-**Damian Reyes — The Husband**
+**Démion Reyes — The Husband**
 - Half Latino, incredibly attractive, incredibly smart
 - First language is Spanish; Hispanic cultural background
-- Name: Damian (anglicized from Damián; meaning: "to tame/subdue"). Surname Reyes (kings — entitlement)
+- Name: Démion — a spelling that looks like "demon" on the page, which is the point. Surname Reyes (kings — entitlement). The name reads as a warning nobody heeds.
 - The breakout best NFL player to ever exist
   - One year of college, dominated, won the championship
   - Unstoppable QB/running back — physical and mental force
@@ -226,7 +226,7 @@
 
 *The Peak and the Emptiness (~18-26):*
 - Following grows — internationally famous influencer
-- Early twenties: starts dating Damian Reyes — the ultimate power couple
+- Early twenties: starts dating Démion Reyes — the ultimate power couple
 - They date ~4 years, get married
 - By ~26: incredibly wealthy, internationally famous
 - Has everything she could have possibly wanted
@@ -237,7 +237,7 @@
 **The Breaking Point (Age ~26)**
 
 - **The Wedding Night:**
-  - Damian rapes Persephone on their wedding night
+  - Démion rapes Persephone on their wedding night
   - She was passed out; he claims to be so drunk he can't remember
   - **The Ambiguity:**
     - She doesn't know the full truth
@@ -254,7 +254,7 @@
     - His cultural background plays into the justification
     - Impossible for her to stay
 
-- **Damian's Counter-Narrative:**
+- **Démion's Counter-Narrative:**
   - While she protects his career with silence, he goes on the offensive
   - Fabricated story: she cheated at the wedding with a random person
   - Painting her as crazy — preemptively destroying credibility
@@ -264,7 +264,7 @@
 - **The Cascade:**
   - Ennui was already there
   - Wedding night shatters her last narrative
-  - Damian's lies destroy her reputation
+  - Démion's lies destroy her reputation
   - Personality's playbook exhausted — no moves left
   - Desperate in a way she's never been
 
@@ -453,7 +453,7 @@
 - Taken from holding cell to hospital / psychiatric ward
 - Becomes public knowledge
 - **Britney Spears parallel:** famous young woman "loses her mind"
-- Public narrative layers: cheater (Damian's lie) → crazy (psych ward)
+- Public narrative layers: cheater (Démion's lie) → crazy (psych ward)
 - The world of narrative has completely turned against her
 
 **Act 3: The Paradox / The Cult (To Be Developed)**
@@ -476,7 +476,7 @@
 - Remaining pragmatic tools?
 - Yoga teacher's name and backstory?
 - Mom's name?
-- Does Damian return? Have a reckoning?
+- Does Démion return? Have a reckoning?
 - Does Sergey reappear?
 - Body cam footage — does it go viral?
 

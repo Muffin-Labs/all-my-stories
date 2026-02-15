@@ -67,7 +67,7 @@ Identify the POV character of each chapter and audit the pair against each crite
 - How is it received, distorted, or passed along?
 - Does the reader see the distortion that the characters can't?
 - Is there a moment where a character accepts someone else's narrative as their own reality?
-- Connect to the gaslighting chain if applicable (George → Rosemary → Persephone, Damian → public, etc.)
+- Connect to the gaslighting chain if applicable (George → Rosemary → Persephone, Démion → public, etc.)
 
 ## Output Format
 

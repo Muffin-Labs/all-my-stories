@@ -43,7 +43,7 @@
 - Key scene contrasts:
   - Desert Hot Springs (pariah, unseen = pain) ↔ Desert night (unseen = liberation)
   - The door that won't budge ↔ the cops who can't lift her
-  - Damian's narrative (fabricated, destructive) ↔ God's note (found, healing)
+  - Démion's narrative (fabricated, destructive) ↔ God's note (found, healing)
 
 ---
 

@@ -19,29 +19,29 @@
 - **1.8** — & Amateur Cartography blows up / solo live looping / both rising / Kathleen shrinking (Sergey POV) ✍️
 - **1.9** — Lockdown / brand pivot to Instagram / creative entanglement / "Stone-HENGE" / the betrayal from Persephone's side (Persephone POV) ✍️
 - **1.10** — The betrayal from Sergey's side / the morning after / Kathleen finds out / Kathleen disappears, gone forever (Sergey POV) ✍️
-- **1.11** — The famous couple / hollowness / Sheepey goes public / the life raft (Persephone POV)
-- **1.12** — Sergey in the relationship: the Emissary with everything he wanted (Sergey POV)
-- **1.13** — Damian enters / Persephone cheats / she leaves Sergey (Persephone POV)
+- **1.11** — The morning after (her side) / smoke apocalypse / hollowness / Sheepey goes public / the life raft / Démion's DM / school reopens — she only goes for Kathleen / Kathleen's house (the kind parents, the sealed door) / she goes to Florida and never comes back / doesn't graduate (Persephone POV)
+- **1.12** — Sergey in the relationship: the Emissary with everything he wanted / she's gone (Sergey POV)
+- **1.13** — TBD — may need restructuring now that Démion and the departure are in 1.11 (Persephone POV)
 - **1.14** — Sergey alone, famous, knowing what the mirror feels like (Sergey POV)
 
 ---
 
 ## ACT 2: THE PERSONALITY (Ages 18-26, St. Pete/LA)
-**POV: Persephone & Damian (strict alternation)**
-*Damian mirrors her personality*
+**POV: Persephone & Démion (strict alternation)**
+*Démion mirrors her personality*
 
 - **2.1** — St. Pete loft / post-Sergey / brand ascending / George & Rosemary follow (Persephone POV)
-- **2.2** — Damian's world: who he is before they meet (Damian POV)
-- **2.3** — Meeting Damian / the power couple begins (Persephone POV)
-- **2.4** — Damian sees Persephone / what draws him / his own cult of personality (Damian POV)
+- **2.2** — Démion's world: who he is before they meet (Démion POV)
+- **2.3** — Meeting Démion / the power couple begins (Persephone POV)
+- **2.4** — Démion sees Persephone / what draws him / his own cult of personality (Démion POV)
 - **2.5** — George's death / Rosemary's broken heart / the healthcare failure (Persephone POV)
-- **2.6** — Damian during the grief: how he handles her pain (Damian POV)
+- **2.6** — Démion during the grief: how he handles her pain (Démion POV)
 - **2.7** — Move to LA / Santa Monica house / brand at peak (Persephone POV)
-- **2.8** — The emptiness from Damian's side / cracks he won't acknowledge (Damian POV)
+- **2.8** — The emptiness from Démion's side / cracks he won't acknowledge (Démion POV)
 - **2.9** — The emptiness / ennui / the yoga teacher / first observation over narrative (Persephone POV)
-- **2.10** — The wedding (Damian POV)
+- **2.10** — The wedding (Démion POV)
 - **2.11** — The wedding night / the morning-after confrontation (Persephone POV)
-- **2.12** — Damian's counter-narrative / the cascade / she walks into the desert (Damian POV)
+- **2.12** — Démion's counter-narrative / the cascade / she walks into the desert (Démion POV)
 
 ---
 
@@ -52,7 +52,7 @@
 - **3.1** — Desert Hot Springs / pariah moment (Persephone POV)
 - **3.2** — Rosemary at the Santa Monica house: day 1, daughter gone (Rosemary POV)
 - **3.3** — Retreat days 1-4: Anapana / grasping vs. gathering / concentration peace (Persephone POV)
-- **3.4** — Rosemary: days 3-5 / panic / calling Damian, calling everyone (Rosemary POV)
+- **3.4** — Rosemary: days 3-5 / panic / calling Démion, calling everyone (Rosemary POV)
 - **3.5** — Retreat days 5-7: body scanning / the deer / the Master (Persephone POV)
 - **3.6** — Rosemary: days 6-10 / alone in a way she's never been (Rosemary POV)
 - **3.7** — Retreat days 8-10: stars / Ho'oponopono / leaving (Persephone POV)
@@ -63,7 +63,7 @@
 - **3.12** — Rosemary after the arrest: what has she done (Rosemary POV)
 - **3.13** — Jail cell / fast food vision / the door / holding cell / balancing experiment (Persephone POV)
 - **3.14** — Rosemary during the psych ward: carrying George's will (Rosemary POV)
-- **3.15** — Psych ward: purgatory / Pam / navigating with integrity / Damian's visit (Persephone POV)
+- **3.15** — Psych ward: purgatory / Pam / navigating with integrity / Démion's visit (Persephone POV)
 - **3.16** — Rosemary when Persephone is released: relief and fear (Rosemary POV)
 - **3.17** — Release / two trees / car ride / "don't panic" (Persephone POV) ✍️
 - **3.18** — Rosemary watching her daughter navigate the legal battle (Rosemary POV)

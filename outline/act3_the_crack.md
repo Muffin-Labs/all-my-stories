@@ -48,7 +48,7 @@
 
 - Rosemary came for the wedding. Then her daughter vanished. No phone. No note. Gone.
 - **Day 1-2:** Assumes she'll hear from her. Nothing.
-- **Day 3-4:** Panic. Calls Damian — useless, angry.
+- **Day 3-4:** Panic. Calls Démion — useless, angry.
 - **Day 5-7:** Calling everyone — agent, friends, hospitals. Nobody knows anything.
   - Alone in this big house. Can't handle practical things. George always handled everything.
   - George is dead. Daughter is gone. She's alone in a way she's never been.
@@ -134,7 +134,7 @@
 - **Everyone believes the same story:** doctors have a solution. She sees the inverse.
 - **Navigating With Integrity:** act normal, edit language, hold truth inside
   - First real integration: Master holds truth, Emissary navigates the world
-- **Damian's Visit:** deeply concerned on surface. Actually thinks he's off the hook.
+- **Démion's Visit:** deeply concerned on surface. Actually thinks he's off the hook.
   - She sees right through him.
 
 ### Release
