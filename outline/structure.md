@@ -17,8 +17,8 @@
 - **1.6** — Sergey after the castle / the riff that broke the system / processing what she knows (Sergey POV) ✍️
 - **1.7** — TikTok explosion / overnight sensation / Kathleen behind the camera (Persephone POV)
 - **1.8** — & Amateur Cartography blows up / solo live looping / both rising / Kathleen shrinking (Sergey POV) ✍️
-- **1.9** — Lockdown / brand pivot to Instagram / creative entanglement / "Stone-HENGE" / the betrayal from Persephone's side (Persephone POV)
-- **1.10** — The betrayal from Sergey's side / the morning after / Kathleen finds out / Kathleen transfers, gone forever (Sergey POV)
+- **1.9** — Lockdown / brand pivot to Instagram / creative entanglement / "Stone-HENGE" / the betrayal from Persephone's side (Persephone POV) ✍️
+- **1.10** — The betrayal from Sergey's side / the morning after / Kathleen finds out / Kathleen disappears, gone forever (Sergey POV)
 - **1.11** — The famous couple / built on wreckage / the wrong relationship (Persephone POV)
 - **1.12** — Sergey in the relationship: the Emissary with everything he wanted (Sergey POV)
 - **1.13** — Damian enters / Persephone cheats / she leaves Sergey (Persephone POV)

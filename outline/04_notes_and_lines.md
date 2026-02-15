@@ -7,6 +7,7 @@
 - **"An experience with no audience"** (Desert night, day 4)
 - **"Heaven is all around you and hell is the inability to realize that. I wish I could start at the beginning and tell you all my stories."** (The note / God's message)
 - **"True science is play."** (Book theme)
+- **"The Personality has never experienced being seen without wanting something from the seeing."** (Science & the Cult of Personality)
 - **"Don't panic... unless you have a very, very good reason."** (Car ride to hospital — tongue-in-cheek philosophical checkmate: if you actually engage with what constitutes a "good reason" to panic, you discover there isn't one)
 - **"If you want to keep running forever, I'll be right there by your side. And if you get tired, you can jump on my back."** (Eric to Persephone on the train — no fixing, no agenda, just presence)
 - **"The story of a woman learning to open her hands."** (The whole book as metaphor — from grasping to gathering, from closed fist to open arms)
