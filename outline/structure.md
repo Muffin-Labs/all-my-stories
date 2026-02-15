@@ -16,9 +16,9 @@
 - **1.5** — The Castle / yurt from the other bed / princess riff at Chepstow (Persephone POV)
 - **1.6** — Sergey after the castle / the riff that broke the system / processing what she knows (Sergey POV) ✍️
 - **1.7** — TikTok explosion / overnight sensation / Kathleen behind the camera (Persephone POV)
-- **1.8** — & Amateur Cartography blows up / solo live looping / both rising / Kathleen shrinking (Sergey POV)
-- **1.9** — The fame entanglement / Persephone and Sergey amplifying each other / Kathleen as sidekick (Persephone POV)
-- **1.10** — The betrayal: Sergey and Persephone sleep together / Kathleen transfers, gone forever (Sergey POV)
+- **1.8** — & Amateur Cartography blows up / solo live looping / both rising / Kathleen shrinking (Sergey POV) ✍️
+- **1.9** — Lockdown / brand pivot to Instagram / creative entanglement / "Stone-HENGE" / the betrayal from Persephone's side (Persephone POV)
+- **1.10** — The betrayal from Sergey's side / the morning after / Kathleen finds out / Kathleen transfers, gone forever (Sergey POV)
 - **1.11** — The famous couple / built on wreckage / the wrong relationship (Persephone POV)
 - **1.12** — Sergey in the relationship: the Emissary with everything he wanted (Sergey POV)
 - **1.13** — Damian enters / Persephone cheats / she leaves Sergey (Persephone POV)
@@ -113,5 +113,7 @@ Chapter detail files: `ch_1.1.md`, `ch_1.2.md`, etc.
 | 1.4 | "By paying a certain kind of attention, you can humanise or dehumanise, cherish or strip of all value. By a kind of alienating, fragmenting and focal attention, you can reduce humanity — or art, sex, humour, or religion — to nothing." | Iain McGilchrist, *The Master and His Emissary* |
 | 1.5 | "Sometimes the most precise thing you can say is a fiction." | Science & the Cult of Personality |
 | 1.6 | "Circumnavigate this body / Of wonder and uncertainty / Armed with every precious failure / And amateur cartography" | The Weakerthans, "Aside" |
+| 1.7 | "Nobody becomes famous. They just wake up inside someone else's story." | Science & the Cult of Personality |
+| 1.8 | "I don't mean to seem like I knew what was there — / Like I'd measured the dark — / I just wanted the room with the two of you near. / I was careless." | & Amateur Cartography, "Careless" |
 
 *(Remaining epigraphs TBD)*
