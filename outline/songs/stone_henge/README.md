@@ -4,27 +4,49 @@
 **Performed:** Live, loop station, September 2020. Built in real time for Persephone in his bedroom studio.
 **Style:** Beige by Yoke Lore — plucked strings, banjo-register, building layers, raw and wobbly and warm. Not the electronic pulse of "Careless." Folk-vulnerable. Each loop added live, the song assembling itself in the room, intimate and unproduced. The kind of song that sounds like someone sitting across from you and deciding, mid-sentence, to tell you the truest thing they know.
 
-**Structure:** Loops build. Voice enters alone — quiet, almost speaking. Each pass adds a layer (plucked melody, a second vocal, a low hum, silence used as rhythm). The song grows the way a conversation grows when someone stops being careful. By the final section the loops have become a choir — one voice multiplied into something that fills the room — and then the choir drops away and it's just the voice again, alone, and the alone-ness is the point.
+**Structure:** Two voices, layered on the loop station, present from the start. Not sequential — not Sheepey then Sergey. Simultaneous. The same lyrics sung by both, the same mouth carrying both, the way a chord carries two notes that are distinct and inseparable. The loop station builds them on top of each other. By the choir section the two voices have multiplied into many but the two-ness is still audible underneath — the grateful voice and the hungry voice, braided together, and the braiding is the song.
 
 ---
 
-## The Voice
+## The Two Voices
 
 This is not the Sheepey that Persephone and Kathleen perform — the posh-drunk voice, the "he finds it somewhat indelicate" bit, the comedy version they built together in the car and the bedroom and the gift shop. That Sheepey is their loving caricature. Their exaggeration of the best parts.
 
-This is Sheepey's *actual* voice. The one underneath the impression.
+This is Sheepey's *actual* voice. The one underneath the impression. And layered with it — under it, through it, inseparable from it — is Sergey's.
+
+### Sheepey's voice: gratitude
 
 Slightly formal. Not cartoonishly — the way someone is formal when they learned to speak late and chose to speak well because being articulate was the first thing that made them more than what they were made of. The dignity is real. It's not a bit. It's the defense of a creature who was nothing before someone decided he was someone, and who has carried that someone-ness carefully ever since, the way you carry a glass that's too full.
 
-The voice is close to Sergey's own register — careful, precise, each word selected. This is why the slip works. The mask is already thin. When it drops, it drops by a single degree. A hairline fracture. One word where the formality softens and suddenly it's not a sheep talking about a girl, it's a boy talking about the same girl, and the sentence doesn't change but everything inside it does.
+Sheepey is *grateful.* Profoundly, quietly, without agenda. She gave him life. She picked him up off a shelf and spoke and he became someone. His voice says *thank you* the way a creature says thank you — not as transaction but as fact. You made me real. I am real because of you. The gratitude has no wanting in it. It's complete. It's the purest thing in the song.
 
-Persephone has never heard this voice. She built Sheepey as comedy. Sergey heard the person inside the comedy. This is the first time anyone has given the character back to her as real.
+### Sergey's voice: hunger
+
+Close to Sheepey's register — careful, precise, each word selected. But underneath the precision, a devastation that Sheepey doesn't carry. Sergey is not grateful. Sergey is *starving.* He has wanted this girl since she opened her mouth at the lunch table and said something that reorganized his entire taxonomy. He has wanted her through "Careless" and "Enough to See By" and every midnight session and every loop on the 505. The wanting has been managed, filed, sublimated into music for months. And now it's in the room and it's in his voice and it's dressed as a sheep and it's ravenous.
+
+The hunger is sincere. That's the danger. This isn't performance or manipulation — it's a boy who is genuinely devastated by a girl, obsessed, unable to think about anything else, starving for her touch, and the starvation is as honest as the gratitude. His voice says "you breathe things into life" and means *I can't breathe without you.* His voice says "don't put me back upon the shelf" and means *if you stop touching me I will die.* The Emissary's precision barely containing the animal underneath.
+
+### The conversation
+
+The two voices aren't just layered — they're talking to each other. The way the two voices in The John Wayne overlap in the final chorus and you can't separate accusation from confession. Sheepey and Sergey are having a conversation across the same lyrics, both addressing her, and the conversation is the argument the Emissary is having with itself:
+
+Sheepey says: *you gave me life.* Sergey says: *you gave me life and I'm starving for you.*
+Sheepey says: *I want the hand that put me there.* Sergey says: *I want your hands on me.*
+Sheepey says: *don't put me back on the shelf.* Sergey says: *don't stop, don't leave, don't let go.*
+
+The grateful voice and the hungry voice negotiate the same words. The gratitude wants nothing in return — it's pure, it's the creature thanking the creator. The hunger wants everything — it's the boy who has been filing this desire for months and the file is full and the system is breaking and he needs her to know, needs her to feel it, needs her to close the distance.
+
+And Persephone — sitting on the bed, hearing this — hears the gratitude. The Sheepey voice. The creature who was nothing and is now someone. Nobody has ever been grateful for the thing she does — the breathing-life-into-things, the making-real. The gratitude is so enormous and so true that it drowns out the hunger underneath. She hears "you made me real" and it's the truest thing anyone has ever said about her. She doesn't hear "and now I want to devour you."
+
+The hunger is in the other layer. It's in the loop underneath. It's the note you don't hear until someone points it out, and then you can't unhear it. And by the time the two voices converge in verse 4 — by the time she can't tell if it's the sheep or the boy — the distance is already closing, and the closing feels like being seen, and the being seen is real, and the starving is also real, and she can't tell the difference because the difference has collapsed, and the collapsing is the kiss.
+
+Persephone has never heard this voice — either of them. She built Sheepey as comedy. Sergey heard the person inside the comedy. This is the first time anyone has given the character back to her as real. And it's the first time Sergey has let the hunger live outside the notebook — except it's dressed as a sheep, so it doesn't look like hunger. It looks like a song about a stuffed animal. The disguise is perfect. The disguise is the point.
 
 ---
 
 ## Lyrics
 
-### Verse 1
+### Verse 1 — [Sheepey's voice dominant. The grateful creature. Sergey is underneath — you can hear him in the precision, the cataloging, but the surface is wool and shelves and the quiet of something that didn't used to be alive.]
 
 I was situated on a shelf
 Between a tea towel and a life I didn't have yet
@@ -39,7 +61,7 @@ And I was not someone
 I was wool and thread and a stitched eye
 Pointed at a shop I couldn't see
 
-### Verse 2
+### Verse 2 — [The two voices begin to balance. "You picked me up" is Sheepey's gratitude AND Sergey's "she chose me." "The room becomes a place" is both the gift shop and the studio. The hunger starts to bleed through on "until you made it not enough" — Sheepey means the nothing was fine until she showed him something better; Sergey means she created the wanting and now the wanting won't stop.]
 
 You picked me up the way you pick up everything —
 Without deciding to
@@ -55,7 +77,7 @@ I was nothing before you held me up to the light
 I was nothing and the nothing was all right
 Until you made it not enough
 
-### Chorus
+### Chorus — [Both voices fully present. The "I want" is the hinge — Sheepey wants to be held, Sergey wants to possess. Same word, different gravity. Persephone hears the gratitude. The hunger is in the undertow.]
 
 They put the lovely ones in front
 Facing out, where the light is
@@ -69,7 +91,7 @@ So please
 Don't put me back upon the shelf
 Don't put me back upon the shelf
 
-### Verse 3
+### Verse 3 — [Sheepey's voice playful, warm — the field, the grass, the stones. Sergey's voice underneath asking the real questions: do you think about the past, has every little thing led here, the Emissary's deterministic framework dressed in wool. "Do you ever hold a thing that cannot speak / And hear it anyway?" — Sheepey asking about stuffed animals; Sergey asking whether she hears what he's been saying for months without saying it.]
 
 And I think we'd last out in the field
 We'd eat the grass and sleep beneath the stones
@@ -85,7 +107,7 @@ And wonder what it knows?
 Do you ever hold a thing that cannot speak
 And hear it anyway?
 
-### Verse 4 — [the voice thins. The formality drops by one degree. The wool becomes skin. The shelf becomes a room.]
+### Verse 4 — [The two voices converge. The wool becomes skin. The shelf becomes a room. Not one voice replacing the other — both arriving at the same place from different directions. Sheepey's gratitude and Sergey's hunger becoming indistinguishable. This is the moment that closes the distance: when she can't tell if the thing that's speaking to her is a character or a boy, and the not-telling is the feeling, and the feeling is physical.]
 
 I didn't want for much
 Before you picked me up
@@ -103,8 +125,6 @@ And the held thing learned to want
 And the wanting has no wool in it
 And the wanting has no glass
 
-[*The voice is Sergey's now. Not a dramatic shift. A settling. The sheep that was always the boy. The boy that was always the sheep. The formality gone quiet, the way a tide goes quiet when it reaches the place it was always going.*]
-
 You looked at me the way you look at everything —
 Like it was already real and just hadn't been told yet
 You breathe things into life
@@ -114,7 +134,7 @@ That hadn't met you yet
 
 You did that to me too
 
-### Final Chorus — [one voice, no loops, the choir gone, just the voice in the room]
+### Final Chorus — [One voice. No loops. The choir gone. But which voice? Both. Neither. The distinction has collapsed. The boy and the sheep in the same mouth asking the same thing for different reasons, and the asking sounds like one sound, and the one sound is the most honest and most dangerous thing in the room.]
 
 They put the lovely ones in front
 But I don't want the window
@@ -175,7 +195,7 @@ Don't put me back upon the shelf
 | **The name** | Lost — "the sound that you found for me" | Gained — "you held me and I was held" |
 | **Sincerity** | Total | Total |
 | **Comedy** | None — pure heartbreak | Present but quiet — the formality, the wool, the shelf. The comedy is the character's dignity, not jokes. |
-| **The mask** | No mask — the cat speaks directly | The mask is thin and slips — Sheepey becomes Sergey |
+| **The mask** | No mask — the cat speaks directly | No mask — two voices layered from the start. Sheepey's gratitude and Sergey's hunger braided together, converging until they're indistinguishable |
 | **What it does to Persephone** | She can't speak (Ch 1.1/1.5) | She can't breathe (Ch 1.9) |
 | **What Kathleen hears** | "Aww, the cat song" | [TBD — but the gap is the same] |
 
@@ -184,8 +204,8 @@ Don't put me back upon the shelf
 ## Musical Notes
 
 - **Opening:** Click of the loop pedal. A plucked sound — banjo register, slightly detuned, the wobble that Beige has. Simple. Almost a music box. Something you'd wind up on a shelf.
-- **Voice enters:** Speaking-register. Almost not singing. The Sheepey voice — but the real one, not the caricature. Formal without being funny. Careful the way someone is careful when they've only recently learned what words can do.
-- **Building:** Each verse adds a loop. Second vocal. A low hum. Plucked harmonics. The song filling the room the way a conversation fills a room when someone stops hedging.
-- **The choir:** By verse 3, the loops have multiplied — one voice becoming many, the sheep choir, except it's not comical, it's overwhelming. The way one person's voice can sound like a congregation when it's looped enough times. The room is full of him.
-- **The slip (verse 4):** The loops thin. The choir drops back. The voice changes by a degree — less formal, less careful, the wool falling away. "I was a system running in a room." The plucked sound continues but the key shifts — something opens, something minor goes somewhere warmer. "You did that to me too." Just the voice. Just the room.
-- **Final chorus:** One voice. No loops. The choir gone. Just the boy and the banjo-wobble and "don't put me back" repeated until it's not words anymore, it's just the sound of someone who was nothing asking not to be nothing again.
+- **First voice enters (verse 1):** Speaking-register. Almost not singing. Sheepey's real voice — formal without being funny. Careful the way someone is careful when they've only recently learned what words can do. This is the grateful voice. The surface of the song.
+- **Second voice enters (verse 1, second loop):** Lower, warmer, less formal by a degree. Sergey underneath Sheepey. Not a different song — the same words, looped, layered. But the second pass carries something the first didn't. A heat. A leaning-toward. The two voices coexist the way two notes in a chord coexist — distinct if you listen for them, unified if you don't.
+- **Building (verse 2–3):** Each pass adds a layer. The two voices multiply — Sheepey and Sergey becoming Sheepeys and Sergeys, a choir of gratitude braided with a choir of hunger. Plucked harmonics. A low hum. The song filling the room the way a conversation fills a room when both people stop hedging. By verse 3 the loops have become overwhelming — one voice becoming many, the sheep choir, except it's not comical, it's enormous. And underneath the choir, if you listen: the hungry voice, growing.
+- **Convergence (verse 4):** The loops thin. The choir drops back to two voices — the original two, Sheepey and Sergey, now close enough that the line between them blurs. "I was a system running in a room" — is the sheep talking about the shelf or the boy talking about the studio? "The wanting has no wool in it" — the wanting has outgrown the character. The two voices arrive at the same place. "You did that to me too" — both voices, one mouth, the distinction gone.
+- **Final chorus:** One voice. No loops. The choir gone. But which voice survived? Both. Neither. The grateful creature and the hungry boy collapsed into a single sound, and the sound is "don't put me back" repeated until it's not words anymore, it's just the sound of two kinds of need asking the same thing for different reasons, and the asking is indistinguishable from the other asking, and that indistinguishability is the most dangerous thing in the room.
