@@ -99,7 +99,7 @@
 
 ✍️ = prose drafted
 POV noted per chapter
-Chapter detail files: `ch_1.1.md`, `ch_1.2.md`, etc.
+Chapter detail files: `ch_1.01.md`, `ch_1.02.md`, etc.
 
 ---
 

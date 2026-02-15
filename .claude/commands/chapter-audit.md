@@ -3,7 +3,7 @@
 Audit the chapter at the given path against All My Stories writing criteria.
 
 ## Input
-$ARGUMENTS — path to the chapter file (e.g., `book/1.2_drive.md`)
+$ARGUMENTS — path to the chapter file (e.g., `book/1.02_drive.md`)
 
 ## Process
 

@@ -1,0 +1,5 @@
+# Careless — Style Reference for Suno
+
+## Style Prompt (under 1000 characters)
+
+High-energy danceable experimental pop. Pounding four-on-the-floor kick hits hard from beat one — urgent, propulsive, impossible to ignore. Driving bass pulse that pins you to the floor and bounces you off it. Tempo is relentless, 132 BPM, the groove grabbing your hips before you decide to move. Bright, stabbing synth arpeggios over the top, frantic and joyful. Breathy male vocals pushing against the beat, confessional words riding a wave of pure physical momentum. Each cycle explodes with new layers — claps, shouts, choral swells, voices stacking into a wall of ecstatic sound. Verses chant and build like a crowd finding its rhythm. Bridge drops to half the texture then slams back. Chorus is arena-huge, arms-in-the-air, every element at full force. Warm analog synths, percussive loops, reverb-drenched vocals. Dense, sweaty, alive. The production is massive but human — you hear breath, you hear effort, you hear joy. A song that grabs you by the chest and doesn't let go. You're crying on the dance floor.

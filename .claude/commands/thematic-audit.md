@@ -3,7 +3,7 @@
 Audit two consecutive chapters for thematic coherence, narrative tension, and embodiment of the book's philosophy.
 
 ## Input
-$ARGUMENTS — paths to two consecutive chapter files (e.g., `book/1.1_opening.md book/1.2_drive.md`)
+$ARGUMENTS — paths to two consecutive chapter files (e.g., `book/1.01_opening.md book/1.02_drive.md`)
 
 ## Context
 
