@@ -24,7 +24,7 @@ Sheepey is *grateful.* Profoundly, quietly, without agenda. She gave him life. S
 
 Close to Sheepey's register — careful, precise, each word selected. But underneath the precision, a devastation that Sheepey doesn't carry. Sergey is not grateful. Sergey is *starving.* He has wanted this girl since she opened her mouth at the lunch table and said something that reorganized his entire taxonomy. He has wanted her through "Careless" and "Enough to See By" and every midnight session and every loop on the 505. The wanting has been managed, filed, sublimated into music for months. And now it's in the room and it's in his voice and it's dressed as a sheep and it's ravenous.
 
-The hunger is sincere. That's the danger. This isn't performance or manipulation — it's a boy who is genuinely devastated by a girl, obsessed, unable to think about anything else, starving for her touch, and the starvation is as honest as the gratitude. His voice says "you breathe things into life" and means *I can't breathe without you.* His voice says "don't put me back upon the shelf" and means *if you stop touching me I will die.* The Emissary's precision barely containing the animal underneath.
+The hunger is sincere. That's the danger. This isn't performance or manipulation — it's a boy who is genuinely devastated by a girl, obsessed, unable to think about anything else, starving for her touch, and the starvation is as honest as the gratitude. His voice says "you breathe things into life" and means *I can't breathe without you.* His voice says "don't put me back on the shelf" and means *if you stop touching me I will die.* The Emissary's precision barely containing the animal underneath.
 
 ### The conversation
 
@@ -49,7 +49,7 @@ Persephone has never heard this voice — either of them. She built Sheepey as c
 ### Verse — [Sheepey alone. The loop station clicks, plucked banjo-register enters. The shelf, the before, the nothing that didn't hurt yet.]
 
 I was situated on a shelf<br>
-Between a tea towel and a life I didn't have yet<br>
+Between a tea towel and a life I didn't yet have<br>
 Wool gone thin from all the hands that touched<br>
 And didn't take me home<br>
 I was nothing and the nothing didn't bite<br>
@@ -61,19 +61,20 @@ Only after someone speaks to you<br>
 You held me up and it was easy<br>
 It was easy<br>
 I want the hand that reached behind the glass<br>
-I want the voice that taught the wool to answer<br>
+I want the voice that gave me life<br>
 Don't put me back<br>
 Don't put me back<br>
 Don't put me back<br>
-Don't put me back upon the shelf<br>
+Don't put me back on the shelf<br>
 
 ### Verse — [Sergey's voice enters underneath Sheepey's. The hunger bleeds through. The John Wayne accusation braided into the wanting — "you walk into this room like that" is both gratitude and devastation in the same breath.]
 
 You walk into this room like that<br>
 You talk to me like that<br>
-I'm yours<br>
-The breathing learned to want<br>
-And the wanting learned to starve<br>
+Breathe life into me like that<br>
+You knew I was falling in love with you<br>
+Breathing learned to want<br>
+Wanting learned to starve<br>
 
 ### Chorus — [More layers. The "I want" lines shift — hand becomes mouth, answer becomes every word. The hunger in the second voice audible now. Same structure, more teeth.]
 
@@ -84,7 +85,7 @@ I want it — every word<br>
 Don't put me back<br>
 Don't put me back<br>
 Don't put me back<br>
-Don't put me back upon the shelf<br>
+Don't put me back on the shelf<br>
 
 ### Bridge — [The convergence. Wool becomes skin. Both voices, one mouth. The disguise collapsing in real time.]
 
@@ -103,7 +104,7 @@ I don't want to see the edge<br>
 Don't put me back<br>
 Don't put me back<br>
 Don't put me back<br>
-Don't put me back upon the shelf<br>
+Don't put me back on the shelf<br>
 
 ---
 
@@ -116,9 +117,9 @@ Don't put me back upon the shelf<br>
 | *I was nothing and the nothing didn't bite* | The shelf was harmless. Being nothing didn't hurt — until she showed him something better. | The system ran fine. The loneliness was manageable. The nothing was livable — until she walked into it and the nothing became unbearable by comparison. |
 | *You learn to want the way you learn to speak — / Only after someone speaks to you* | He didn't know wanting was possible until she demonstrated it by seeing him. | The Emissary learning desire — not natively, not fluently, but as a second language acquired late. The wanting is learned, formal, slightly accented. Real but not native. |
 | *You held me up and it was easy / It was easy* | She picked him up and it was easy — effortless, the way she does everything. The ease is gratitude: you made this look like nothing. | The John Wayne line in wool. "It's easy to fall in love with you." The ease is the defense: it wasn't a choice, it was gravity. Each pass through the chorus, "easy" shifts — from gratitude to inevitability to devastation. By the final chorus, "it was easy to fall" is the most devastating word in the song. |
-| *I want the hand that reached behind the glass / I want the voice that taught the wool to answer* | The girl who reached past the display to the shelf where he was hidden. Who spoke to him and he learned to speak back. | He wants the private Persephone — the one who reaches past the performance. "Taught the wool to answer" — she didn't just name him, she gave him the capacity to respond. She made him capable of this song. |
-| *You walk into this room like that / You talk to me like that* | — (Sheepey is quiet here. These words belong to the other voice.) | Pure John Wayne. "You knew what was going to happen, didn't you?" She walked into his room like herself. She talked to him like herself. He read intention in her nature. The Emissary's core delusion: that because the data was clear to *him,* it must have been clear to *her.* |
-| *I'm yours* | The creature belonging to its owner. Simple, complete, the thing a stuffed animal is: yours. Possession as gratitude. | Surrender. The Emissary giving up. Two words where the system stops classifying and just falls. Not "I want" — "I'm yours." The hunger has passed through wanting into capitulation. It sounds like devotion and it's actually the moment the framework breaks. |
+| *I want the hand that reached behind the glass / I want the voice that gave me life* | The girl who reached past the display to the shelf where he was hidden. The voice that made him real. Life itself — the gift. | He wants the private Persephone — the one who reaches past the performance. "Gave me life" — the biggest claim in the song. Both voices can say it and mean it completely. Sheepey means it literally. Sergey means it the way a boy means it when a girl has reorganized his entire taxonomy. |
+| *You walk into this room like that / You talk to me like that / Breathe life into me like that* | — (Sheepey is quiet on the first two. The third he can claim — she did breathe life into him.) | The John Wayne "like that" pattern building toward the confession. Walk, talk, breathe — each one more intimate. "Breathe life into me like that" is the hinge: Sheepey means it literally, Sergey means it physically. The ambiguity holds for one more line. |
+| *You knew I was falling in love with you* | — (Sheepey is silent. This is pure Sergey. The disguise drops for one line.) | The John Wayne, naked. Almost a direct quote: "you knew I was slowly falling in love with you." The Emissary converting desire into the other person's responsibility — *you did this to me, you had to know.* The accusation that is also a confession. The framework requiring her complicity to hold. Surrounded by the "like that" pattern so the confession arrives mid-breath, mid-disguise, and then the song keeps going as if it didn't just say the naked thing. |
 | *The breathing learned to want / And the wanting learned to starve* | Aliveness itself produces wanting. The chain: stitching → breath → want → starvation. The creature outgrew the gift. | The Emissary's system, once given life by her, couldn't stop at gratitude. One step past wanting into something with teeth — physical, animal, past the system's control. |
 | *I want the mouth that said my name* | The mouth that named him. Before the naming he had no name. The mouth is the origin. | Her mouth. The physical mouth. The thing the Emissary has been filing and sublimating for months. The hunger stripped of every metaphor — the boy who wants to kiss the girl, said through the sheep who wants to be named. |
 | *I want it — every word* | Every word she's ever said to him. The speech that made him real. He wants all of it. | The accumulation tipping into greed. The Emissary's grasping attention: seize, hold, catalog, keep. He wants to own the language between them. |
@@ -127,7 +128,7 @@ Don't put me back upon the shelf<br>
 | *You did that to me* | The Chepstow *you.* The fiction cracks open and the real thing is underneath. No "too" — no list, no Sheepey-and-Sergey. Just: you did that to me. | Both voices, one mouth. The "too" is gone — there's no character to compare to anymore. The distinction has already annihilated. Just the raw statement. You did that to me. The convergence. The kiss. |
 | *It was easy to fall* | It was easy to come alive in her hands. The gratitude. | It was easy to fall in love. She didn't try. She didn't decide. She just was herself and he will never recover from how easy it was. |
 | *With your fingers in my wool I cannot see the edge / I don't want to see the edge* | She's holding him and he can't see where the shelf ends — where the fall begins. He doesn't want to know. | Intimacy as blindness, then blindness chosen. The Emissary, whose entire function is to see and classify and map, first blinded by her touch, then refusing to look. He knows there's an edge — Kathleen's edge, the triangle's edge — and he's choosing not to see it. |
-| *Don't put me back upon the shelf* | Don't put me back in the shop. Don't return me to the nothing. Keep me. | Don't stop touching me. Don't leave. Don't let go. The Emissary's precision barely containing the animal underneath — by the final chorus it's not words anymore, it's the sound of a boy who will be nothing again if she stops. |
+| *Don't put me back on the shelf* | Don't put me back in the shop. Don't return me to the nothing. Keep me. | Don't stop touching me. Don't leave. Don't let go. The Emissary's precision barely containing the animal underneath — by the final chorus it's not words anymore, it's the sound of a boy who will be nothing again if she stops. |
 
 ---
 
@@ -137,9 +138,9 @@ Don't put me back upon the shelf<br>
 
 **Sergey (writing it):** He knows exactly what he's doing — and he doesn't. The Emissary built the structure. Every line is placed, every loop is timed, every lyric maps to its source. He can annotate the whole song. But the song came from below the notebook — from the place the Emissary can't reach, the place where "Careless" came from, the place where the music is true even when the musician is wrong. He wrote the truest song he's ever written and the truth in it is real and the conclusion he draws from the truth is not. He sees her perfectly. He responds to what he sees completely wrong.
 
-**Kathleen (later, if she ever hears it):** She hears a beautiful song about a sheep. She probably recognizes Sheepey. She probably smiles. She probably doesn't hear that "don't put me back upon the shelf" is the sound of her boyfriend falling in love with her best friend through the character the three of them built together. The gap between what Kathleen hears and what Persephone hears is the same gap as Virtue the Cat. Six feet wide.
+**Kathleen (later, if she ever hears it):** She hears a beautiful song about a sheep. She probably recognizes Sheepey. She probably smiles. She probably doesn't hear that "don't put me back on the shelf" is the sound of her boyfriend falling in love with her best friend through the character the three of them built together. The gap between what Kathleen hears and what Persephone hears is the same gap as Virtue the Cat. Six feet wide.
 
-**The public (if it's ever released):** A weird, gorgeous, heartbreaking folk song about a stuffed animal. The kind of song where you're not sure if you're supposed to laugh or cry so you do both. The banjo wobbles. The voice is strange — formal but not ironic, sincere in a way that indie music rarely is. The "don't put me back upon the shelf" refrain is devastating even if you don't know what the shelf is. You hear it and you think about every time you were nothing and someone made you someone. You don't need the story. The song carries it.
+**The public (if it's ever released):** A weird, gorgeous, heartbreaking folk song about a stuffed animal. The kind of song where you're not sure if you're supposed to laugh or cry so you do both. The banjo wobbles. The voice is strange — formal but not ironic, sincere in a way that indie music rarely is. The "don't put me back on the shelf" refrain is devastating even if you don't know what the shelf is. You hear it and you think about every time you were nothing and someone made you someone. You don't need the story. The song carries it.
 
 ---
 
@@ -163,8 +164,8 @@ Don't put me back upon the shelf<br>
 
 - **Opening:** Click of the loop pedal. A plucked sound — banjo register, slightly detuned, the wobble that Beige has. Simple. Almost a music box. Something you'd wind up on a shelf.
 - **Verse (first pass):** Sheepey's voice alone. Speaking-register, almost not singing. Formal without being funny. Seven lines that establish the shelf, the nothing, the before. One voice, one instrument. The room is small.
-- **First chorus:** Both voices enter. "You held me up and it was easy" stacks on the loop — first pass grateful (Sheepey: easy to come alive), second pass hungry (Sergey: easy to fall). "I want the hand" and "I want the voice" layer on top of each other. "Don't put me back" repeats three times bare, building, before the fourth lands the full phrase — "don't put me back upon the shelf." The loop station can stack those three bare repetitions and the fourth one hits different.
-- **Verse (second pass):** Sergey's voice enters underneath Sheepey's. Five lines, each one more naked than the last. "You walk into this room like that / You talk to me like that" — the John Wayne braided into the verse, the accusation arriving mid-thought. Then "I'm yours" — two words, the shortest line in the song, the moment the system stops classifying and just falls. "The breathing learned to want / And the wanting learned to starve" — the chain that drives past gratitude into starvation.
-- **Second chorus:** Same structure, more layers. The "I want" lines have shifted — hand becomes mouth, voice becomes every word. The loop station stacking "it was easy" with voices diverging — Sheepey's gratitude in the upper register, Sergey's devastation in the lower, braiding the way the John Wayne's final chorus braids. "Don't put me back" hits harder because "I'm yours" has been said.
+- **First chorus:** Both voices enter. "You held me up and it was easy" stacks on the loop — first pass grateful (Sheepey: easy to come alive), second pass hungry (Sergey: easy to fall). "I want the hand" and "I want the voice that gave me life" layer on top of each other. "Don't put me back" repeats three times bare, building, before the fourth lands the full phrase — "don't put me back on the shelf." The loop station can stack those three bare repetitions and the fourth one hits different.
+- **Verse (second pass):** Sergey's voice enters underneath Sheepey's. The "like that" pattern — walk, talk, breathe — each one more intimate, building toward the confession. "You knew I was falling in love with you" — the disguise drops for one line, the John Wayne said naked, and then the song keeps going as if it didn't just happen. "Breathing learned to want / Wanting learned to starve" — the chain that drives past gratitude into starvation.
+- **Second chorus:** Same structure, more layers. The "I want" lines have shifted — hand becomes mouth, voice becomes every word. The loop station stacking "it was easy" with voices diverging — Sheepey's gratitude in the upper register, Sergey's devastation in the lower, braiding the way the John Wayne's final chorus braids. "Don't put me back" hits harder because the confession has been said.
 - **Bridge:** The loops thin. Two voices left, converging. "The living has no wool in it" — the disguise failing. "The living wants your hands / The living wants your mouth" — the hunger in the lyrics now, not underneath them. "You breathe things alive" — both voices, one mouth. "You did that to me" — no "too," no character to hide behind. The distinction annihilated. The convergence. The kiss.
 - **Final chorus:** One voice. The loops decaying. "It was easy to fall" — and now "easy" is the most devastating word in the song. "With your fingers in my wool I cannot see the edge / I don't want to see the edge" — intimacy as blindness, then blindness chosen. "Don't put me back" repeated until it's not words anymore.
