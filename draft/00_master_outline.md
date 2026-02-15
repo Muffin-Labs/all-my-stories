@@ -115,13 +115,13 @@
 **Structure:** Four acts, each defined by a relationship and what it mirrors
 
 **Timeline:**
-- Persephone born November 2003, Pensacola, Florida. Scorpio.
-- Family moves to Beaverton, Oregon when she's 7 (~2010) — George gets job at Intel as a technician
+- Persephone born November 2002, Pensacola, Florida. Scorpio.
+- Family moves to Beaverton, Oregon when she's 7 (~2009) — George gets job at Intel as a technician
 - Meets Kathleen at school in Beaverton
-- Summer 2019: England trip — Stonehenge, How The Light Gets In festival (age 15)
+- Summer 2019: England trip — Stonehenge, How The Light Gets In festival (age 16)
 - Late 2019/early 2020: TikTok dance videos go viral (Charli D'Amelio timeline)
 - March 2020: COVID lockdowns hit — fame explodes while locked down
-- Fall 2021 (age 17/18): Moves to St. Petersburg, Florida. George & Rosemary follow.
+- Fall 2021 (age 18, turning 19): Moves to St. Petersburg, Florida. George & Rosemary follow.
 - 2022: Meets Damian Reyes (Tampa Bay Buccaneers, breakout season)
 - Fall 2021 - March 2026: St. Pete/Tampa years (~4.5 years)
 - March 2026: Damian joins LA Chargers, they move to LA — she buys Santa Monica house
@@ -164,7 +164,7 @@
 ## Characters
 
 ### Persephone (Protagonist)
-- Born November 2003, Pensacola, Florida. **Scorpio.**
+- Born November 2002, Pensacola, Florida. **Scorpio.**
 - Family moves to Beaverton, Oregon when she's 7 — George gets a job at Intel as a technician
 - Meets Kathleen at school in Beaverton
 - **Physical:** 5'8", mixed race — Black father, white mother

@@ -156,7 +156,7 @@
 - Kathleen and Sergey start dating at age 14
 - By 16, they've been together two years; Kathleen tells Persephone she wants to marry him
 - Meanwhile Persephone has been dating a string of football players — the most masculine guys available
-- Age 16: Persephone starts taking off on TikTok and Instagram
+- Age 17: Persephone starts taking off on TikTok and Instagram
 - One night, Persephone and Sergey hang out one-on-one and "accidentally" have sex
   - Sergey confesses: always loved Persephone, never loved Kathleen, was only dating Kathleen to get closer to Persephone — dream come true
   - Sergey's confession = the Emissary at its most brutal — using a person as a tool

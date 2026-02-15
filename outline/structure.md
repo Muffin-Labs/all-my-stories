@@ -5,7 +5,7 @@
 
 ---
 
-## ACT 1: THE TRIANGLE (Ages 15-18, Beaverton/England)
+## ACT 1: THE TRIANGLE (Ages 15-19, Beaverton/England)
 **POV: Persephone & Sergey (strict alternation)**
 *Sergey mirrors her intellect*
 
@@ -19,7 +19,7 @@
 - **1.8** — & Amateur Cartography blows up / solo live looping / both rising / Kathleen shrinking (Sergey POV) ✍️
 - **1.9** — Lockdown / brand pivot to Instagram / creative entanglement / "Stone-HENGE" / the betrayal from Persephone's side (Persephone POV) ✍️
 - **1.10** — The betrayal from Sergey's side / the morning after / Kathleen finds out / Kathleen disappears, gone forever (Sergey POV) ✍️
-- **1.11** — The famous couple / built on wreckage / the wrong relationship (Persephone POV)
+- **1.11** — The famous couple / hollowness / Sheepey goes public / the life raft (Persephone POV)
 - **1.12** — Sergey in the relationship: the Emissary with everything he wanted (Sergey POV)
 - **1.13** — Damian enters / Persephone cheats / she leaves Sergey (Persephone POV)
 - **1.14** — Sergey alone, famous, knowing what the mirror feels like (Sergey POV)

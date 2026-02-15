@@ -6,13 +6,13 @@ Single source of truth for how characters look. Reference this when writing scen
 
 ## Persephone Minton
 
-**Age in Act 1:** 15 (born November 2003, Pensacola, Florida)
+**Age in Act 1:** 16 (born November 2002, Pensacola, Florida)
 **Height:** 5'8"
 **Build:** Stunning. The kind of beautiful that reorganizes a room.
 **Skin:** Golden brown — biracial (Black father, white mother)
 **Hair:** Chocolate curls with natural blonde highlights. The kind of hair that catches light from across a parking lot.
 **Eyes:** Pale green. Hypnotizing. The feature people remember — unexpected against her skin, almost unsettling in how they hold you.
-**Overall:** She got the best of both parents and then some. George's height and presence, Rosemary's delicacy in her features. At fifteen she already looks like the woman she'll become. People stare. She's used to it.
+**Overall:** She got the best of both parents and then some. George's height and presence, Rosemary's delicacy in her features. At sixteen she already looks like the woman she'll become. People stare. She's used to it.
 
 **In Act 3 (post-retreat):** Shaves her head. 130 lbs. The shaved head terrifies Rosemary but becomes her disguise — nobody recognizes her without the curls.
 
@@ -45,7 +45,8 @@ Single source of truth for how characters look. Reference this when writing scen
 
 ## Sergey Feldman
 
-**Age in Act 1:** 15 (same as Persephone and Kathleen)
+**Age in Act 1:** 15 (born September 3, 2003)
+**Dating Kathleen:** Since March 2017
 **Height:** 5'6" — taller than Kathleen, shorter than Persephone. This matters. He is eye-level with the girl he's dating and has to look up at the one he wants.
 **Build:** Skinny. All brain, not much body.
 **Face:** High hairline. Looks vaguely like a skinny George Clooney — the bone structure is there, the charm is there in a different register. Handsome in a way that requires you to pay attention.
@@ -64,13 +65,13 @@ Persephone and Kathleen are the band's biggest genuine fans — they think it's 
 
 **Arc:** Never goes academic. The band blows up during COVID lockdown — same window as Persephone's TikTok explosion. They amplify each other's fame but each is famous on their own merit. By 18, Sergey is touring, equally famous, the two of them publicly entangled. They sleep together, Kathleen is gone forever. They become a couple — the famous couple, built on betrayal. Then Persephone cheats on him with Damian and leaves. The mirror: what he did to Kathleen, done to him. The Emissary with all the knowledge and none of the immunity.
 
-**Parents:** Dr. Oscar Feldman (semiconductor process development, Intel) and mother — both academics. They love him abstractly.
+**Parents:** Dr. Oscar Feldman (semiconductor process development, Intel) and mother — both academics. They love him abstractly. They pushed for early kindergarten enrollment (he missed the September 1 cutoff by two days), putting him in the same grade as Persephone and Kathleen.
 
 ---
 
 ## Kathleen Unckles
 
-**Age in Act 1:** 15
+**Age in Act 1:** 16 (born June 19, 2003)
 **Height:** 5'3"
 **Build:** Thin. Small-breasted. Shapely bottom — the feature Sergey focuses on when he's trying to find her attractive.
 **Face:** Round, ball-shaped head. Large doe-eyes — innocent and disarming. The kind of eyes that make people trust her immediately, that make her look like she's always a little surprised by the world.

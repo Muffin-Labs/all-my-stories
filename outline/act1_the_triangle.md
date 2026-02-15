@@ -14,14 +14,14 @@
 ---
 
 **Timeline:**
-- Persephone born November 2003, Pensacola, Florida. **Scorpio.**
+- Persephone born November 2002, Pensacola, Florida. **Scorpio.**
 - ~2010 (age 7): Family moves to Beaverton, Oregon — George gets job at Intel as a technician
 - Meets Kathleen at school in Beaverton
-- Summer 2019 (England trip / Stonehenge / How The Light Gets In): age 15
-- Late 2019/early 2020: TikTok dance videos go viral (Charli D'Amelio timeline) — age 15-16
+- Summer 2019 (England trip / Stonehenge / How The Light Gets In): age 16
+- Late 2019/early 2020: TikTok dance videos go viral (Charli D'Amelio timeline) — age 17
 - March 2020: COVID lockdowns hit — fame explodes while locked down in Beaverton
 - 2020-2021: Building the brand from her bedroom during lockdown
-- Fall 2021 (age 17, turning 18): Moves to St. Petersburg, Florida — Act 1 ends here
+- Fall 2021 (age 18, turning 19): Moves to St. Petersburg, Florida — Act 1 ends here
 
 ---
 
@@ -201,7 +201,7 @@
 - Starts building a real brand — with Sergey's help
 - This is the birth of the personality machine
 
-### The Kathleen–Sergey Betrayal (~Age 16)
+### The Kathleen–Sergey Betrayal (~Age 17)
 - Kathleen and Sergey have been dating since age 14 — two solid years
 
 **The High School English Teacher (introduced here):**
@@ -214,7 +214,7 @@
 
 - Kathleen tells Persephone she wants to marry Sergey
 - Meanwhile Persephone has been dating a string of football players — most masculine guys available
-- Age 16: Persephone starts taking off on TikTok and Instagram
+- Age 17: Persephone starts taking off on TikTok and Instagram
 - One night, Persephone and Sergey hang out one-on-one and "accidentally" have sex
   - Sergey confesses: always loved Persephone, never loved Kathleen, was only dating Kathleen to get closer to Persephone — dream come true for him
   - Sergey's confession = the Emissary at its most brutal — using a person as a tool
