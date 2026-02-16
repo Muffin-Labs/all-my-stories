@@ -1,7 +1,7 @@
 # All My Stories — Master Structure
 
 **Narrative Mode:** Third person limited, alternating POV per act
-**Epigraphs:** Every chapter opens with an epigraph — a mix of quotes from "Science & the Cult of Personality" (the book-within-the-book) and real-world sources (McGilchrist, Cohen, etc.). The blend makes "Science & the Cult of Personality" feel like a real book by placing it alongside actual texts.
+**Epigraphs:** Every chapter opens with an epigraph — a mix of quotes from "Science & the Cult of Personality" (the book-within-the-book) and real-world sources (McGilchrist, Cohen, etc.). The blend makes "Science & the Cult of Personality" feel like a real book by placing it alongside actual texts. **Exception: Démion's chapters** use quotes about him or things he said — not literary/academic sources. The epigraphs come from the world's perception of him or his own words.
 
 ---
 
@@ -28,9 +28,9 @@
 *Démion mirrors her personality*
 
 - **2.01** — Hurricane Season: first date (the night she arrives) / St. Pete condo / hires Cassandra / two months of dating without sex / Hurricane Elsa ("Let It Go") / she chooses — first time having sex with Démion (Persephone POV)
-- **2.02** — Hurricane night from Démion's side / the pheromones / six weeks of wanting / George & Rosemary visit for opener / George in Cowboys gear / box seats / Démion crushes first NFL game / ready to propose (Démion POV)
-- **2.03** — Démion proposes one week after opener / Persephone turns him down — absolutely yes, but after 26 (prefrontal cortex, McGilchrist knowledge from Alejandro, her own colorful description) / he has to wait seven years (Persephone POV)
-- **2.04** — TBD (Démion POV)
+- **2.02** — Hurricane night from Démion's side / the pheromones / six weeks of wanting / George & Rosemary visit for opener / George in Cowboys gear / box seats / Démion crushes first NFL game / ready to propose (Démion POV) ✍️
+- **2.03** — Démion proposes one week after opener / Persephone turns him down — absolutely yes, but after 26 (prefrontal cortex speech, McGilchrist knowledge metabolized from Alejandro, her own vivid imagery) / he has to wait seven years / he hears "yes" and files the rest as logistics (Persephone POV)
+- **2.04** — First NFL season / the power couple narrative crystallizes / the machine runs perfectly / Persephone in the WAG section as her own gravitational field / George's phone calls after games / Démion sees magnitude not meaning / she adapts to his schedule without either of them noticing (Démion POV)
 - **2.5** — George's death / Rosemary's broken heart / the healthcare failure (Persephone POV)
 - **2.6** — Démion during the grief: how he handles her pain (Démion POV)
 - **2.7** — Move to LA / Santa Monica house / brand at peak (Persephone POV)
