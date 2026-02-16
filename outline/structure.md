@@ -33,7 +33,7 @@
 - **2.04** — First NFL season / the power couple narrative crystallizes / the machine runs perfectly / Persefoni in the WAG section as her own gravitational field / George's phone calls after games / Démion sees magnitude not meaning / she adapts to his schedule without either of them noticing (Démion POV)
 - **2.05** — Playoffs / Super Bowl I loss from the box / George retires to Gulfport / the trio (Ashli, Kelli, Persefoni) / the dropped pass (Persefoni POV) ✍️
 - **2.06** — Super Bowl I from inside Démion's body / the sensory experience of being the greatest / the dropped pass as first crack (Démion POV)
-- **2.07** — Four-year gap: Super Bowl wins (2023, 2024), then two more losses (2025, 2026) / March 2026: Démion leaves Tampa for LA Chargers (McConkey, Harbaugh) / long distance / Persefoni decides to follow, buys her own place in Santa Monica / George's death at chapter's end (Persefoni POV)
+- **2.07** — Four-year gap: Super Bowl wins (2023, 2024), then two more losses (2025, 2026) / March 2026: Démion leaves Tampa for LA Chargers (McConkey, Harbaugh) / long distance / Persefoni decides to follow, buys her own place in Santa Monica / George's death at chapter's end (Persefoni POV) ✍️
 - **2.08** — George's death from Démion's side / he is her rock / football takes a backseat for the first time / she comes first — not a peer to football, but more important than football (Démion POV)
 - **2.09** — The emptiness / ennui / the yoga teacher / first observation over narrative (Persefoni POV)
 - **2.10** — The wedding (Démion POV)
