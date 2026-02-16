@@ -1,7 +1,7 @@
 # Act 1: The Triangle (Ages 15-18, Beaverton/England)
 
-**POV alternates: Persephone & Sergey**
-*Sergey mirrors her intellect — the Emissary figure*
+**POV alternates: Persephone & Alejandro**
+*Alejandro mirrors her intellect — the Emissary figure*
 
 **Chapter Epigraphs:** Each chapter opens with a quote from "Science and the Cult of Personality"
 
@@ -30,9 +30,9 @@
 **The Setup:**
 - Summer vacation, 2019 — the last summer before everything
 - Persephone is 15 years old
-- The group: Persephone, her mom, her dad, Kathleen, and Sergey (Kathleen's boyfriend)
+- The group: Persephone, her mom, her dad, Kathleen, and Alejandro (Kathleen's boyfriend)
 **The Group:**
-- Persephone (15), Kathleen, Sergey (Kathleen's boyfriend)
+- Persephone (15), Kathleen, Alejandro (Kathleen's boyfriend)
 - **George** — Persephone's dad. From Georgia. Southern accent.
   - Devoted, does everything for his family: groceries, laundry, all decisions
   - Absolutely in love with Rosemary — she's the most beautiful woman in the world to him
@@ -50,7 +50,7 @@
 **The Drive to Stonehenge:**
 - They've been listening to information about Stonehenge on the drive
 - Some grounding in what archaeologists think happened, how it was built
-- Sergey is really interested in this
+- Alejandro is really interested in this
 - Persephone is doing her Persephone thing — experiencing the contrast of things
 - Her and Kathleen are joking about things on the way
 
@@ -59,10 +59,10 @@
 - Sheep in the pasture off to the side, next to these ancient monuments
 - Persephone notices the contrast — the mundane (sheep) next to the sacred (stones)
 - She's always curious, always full of play
-- Sergey falls back to talk to the girls about bluestones as instruments
+- Alejandro falls back to talk to the girls about bluestones as instruments
   - Talks to both but looks at Persephone
   - Persephone intuitively gets it: "Like a church made out of sound"
-  - Sergey lights up — she said what he'd been circling
+  - Alejandro lights up — she said what he'd been circling
   - Kathleen pulls him away — "Babe, come look at this one"
   - Moment passes like a cloud crossing the sun
 
@@ -84,7 +84,7 @@
   - An ex-wife named Tabitha who left him for a goat farmer in Devon
   - A deep and abiding melancholy that he masks with charm
   - The kind of man who stares out of car windows and thinks about the choices he's made
-- **Sergey in this scene:**
+- **Alejandro in this scene:**
   - After the laughter settles, watching Persephone with a quiet half-smile, cataloging data
   - Always watching her like she's a phenomenon he's trying to classify
   - Kathleen doesn't notice, or decided it's just how he looks at everyone. It isn't.
@@ -100,26 +100,26 @@
 - **How The Light Gets In** — philosophy and music festival in Hay-on-Wye, England
 - Named after the Leonard Cohen line: "There's a crack in everything, that's how the light gets in"
 - **The festival name IS the thesis of the book**
-- **Sergey is the catalyst** — he wanted to go to this event
+- **Alejandro is the catalyst** — he wanted to go to this event
 - Persephone's parents made the trip happen — because that's what they do for their princess
 
 **The Group Splits:**
 - Arrive ~11 AM. George finds the pub within twenty minutes.
 - George holds court at the bar all day — performing, drinking, ignoring family
 - Rosemary sits at picnic table all day, waiting, smiling
-- Sergey goes to every talk — kid in a candy store
+- Alejandro goes to every talk — kid in a candy store
 - Kathleen and Persephone goof off all day — Sheepey bits, bookshops, backstories for strangers
 - They check on George and Rosemary a couple times — always same positions
 - McGilchrist talk at 4 PM — the main event
 
 **The McGilchrist Talk:**
-- Sergey begs the girls to come
+- Alejandro begs the girls to come
 - Persephone thinks McGilchrist is adorable — cute proper little British man, like Sheepey with tenure
 - But can't tune in — too academic, "the phenomenological world"
 - Tries to riff with Kathleen — "He looks like he irons his pajamas"
-- **Kathleen dismisses her** — watching Sergey be rapt, performing interest for him
+- **Kathleen dismisses her** — watching Alejandro be rapt, performing interest for him
   - "Persephone. Stop."
-  - First crack in the friendship — Kathleen chooses Sergey's world over their shared world
+  - First crack in the friendship — Kathleen chooses Alejandro's world over their shared world
   - Nobody is looking at Persephone
 - Persephone leaves the talk alone
 
@@ -127,7 +127,7 @@
 - Persephone goes to find her parents, wants to explore the castle
 - Overhears Rosemary suggesting to George that the two of them go see the castle
 - George spins the narrative — "we flew all the way across the ocean," "the kids are having the time of their lives"
-  - He hasn't seen the kids all day. Has no idea what Sergey's face looked like.
+  - He hasn't seen the kids all day. Has no idea what Alejandro's face looked like.
   - Reframing his desire to keep drinking as something he's doing for everyone
 - Rosemary surrenders — "You're right, it is nice here"
 - Persephone approaches Rosemary, thinking: ally. Mom wants the castle too.
@@ -138,14 +138,14 @@
 - **Tender-headed flash:** small hands, mom braiding her hair, "that doesn't hurt, you're just tender-headed"
 - Persephone says "okay" and walks out alone
 
-**Persephone Alone / Sergey's Poetic McGilchrist:**
+**Persephone Alone / Alejandro's Poetic McGilchrist:**
 - Wanders the festival alone — sits on a stone wall
-- Sergey and Kathleen find her after the talk
-- Sergey gives his POETIC version: the Master and the Emissary as a king and a servant
+- Alejandro and Kathleen find her after the talk
+- Alejandro gives his POETIC version: the Master and the Emissary as a king and a servant
   - The servant forgot he was a servant, locked the king in a tower, runs the kingdom
 - Persephone responds to the IMAGE — she SEES it
   - "Why someone can feel something and be told they're not feeling it"
-  - Comes out before she knows she's going to say it — Sergey and Kathleen both look at her
+  - Comes out before she knows she's going to say it — Alejandro and Kathleen both look at her
 - A flicker. A match lit in a dark room. Gone before she can see what it illuminated.
 - "Can we get food? I'm starving." They got food.
 
@@ -153,10 +153,10 @@
 
 ---
 
-## SCENE 3 — TBD (Sergey POV?)
+## SCENE 3 — TBD (Alejandro POV?)
 
-*First Sergey POV chapter. Possible scenes:*
-- Sergey at the festival, during/after the talk, processing what he heard
+*First Alejandro POV chapter. Possible scenes:*
+- Alejandro at the festival, during/after the talk, processing what he heard
 - His internal experience of watching Persephone understand McGilchrist
 - The moment he realizes the girl he's drawn to isn't his girlfriend
 - Back in Beaverton — COVID hits, lockdown, watching Persephone go viral from a distance
@@ -198,11 +198,11 @@
 - Persephone starts posting dance videos — like Charli D'Amelio, she blows up instantly
 - Goes from popular Beaverton teenager to internet famous practically overnight
 - By 17-18: transitions from dance videos to lifestyle content creation
-- Starts building a real brand — with Sergey's help
+- Starts building a real brand — with Alejandro's help
 - This is the birth of the personality machine
 
-### The Kathleen–Sergey Betrayal (~Age 17)
-- Kathleen and Sergey have been dating since age 14 — two solid years
+### The Kathleen–Alejandro Betrayal (~Age 17)
+- Kathleen and Alejandro have been dating since age 14 — two solid years
 
 **The High School English Teacher (introduced here):**
 - Sees Persephone's raw storytelling ability
@@ -212,18 +212,18 @@
 - Represents a path not taken: the life of the mind vs. the life of the brand
 - Name TBD
 
-- Kathleen tells Persephone she wants to marry Sergey
+- Kathleen tells Persephone she wants to marry Alejandro
 - Meanwhile Persephone has been dating a string of football players — most masculine guys available
 - Age 17: Persephone starts taking off on TikTok and Instagram
-- One night, Persephone and Sergey hang out one-on-one and "accidentally" have sex
-  - Sergey confesses: always loved Persephone, never loved Kathleen, was only dating Kathleen to get closer to Persephone — dream come true for him
-  - Sergey's confession = the Emissary at its most brutal — using a person as a tool
+- One night, Persephone and Alejandro hang out one-on-one and "accidentally" have sex
+  - Alejandro confesses: always loved Persephone, never loved Kathleen, was only dating Kathleen to get closer to Persephone — dream come true for him
+  - Alejandro's confession = the Emissary at its most brutal — using a person as a tool
   - **IN SERGEY'S POV:** we see the guilt, the rationalization, the moment he decides to act. Not just a confession — the full inner life of a boy who knows what he's doing is wrong and does it anyway.
 - **The one-night accident might be forgivable. What follows is not:**
-  - Persephone dates Sergey for TWO YEARS (ages 16-18)
+  - Persephone dates Alejandro for TWO YEARS (ages 16-18)
   - Took Kathleen's boyfriend and kept him
   - The Jolene dynamic — "please don't take him just because you can." She took him.
-- **Persephone was never really attracted to Sergey:**
+- **Persephone was never really attracted to Alejandro:**
   - Interested in hearing him talk — ideas, poetry, music. Entertainment, not a mate.
   - Fantasized about other men; didn't want to have sex with him
   - Consumed him the way her followers consume her — for the experience, not the person
@@ -231,17 +231,17 @@
   - The cult of personality at its most casually devastating
 - Kathleen and Persephone stop speaking. The friendship is over.
 
-### Sergey Gives Her The Master and His Emissary
-- At some point during their relationship, Sergey gives her the book
+### Alejandro Gives Her The Master and His Emissary
+- At some point during their relationship, Alejandro gives her the book
 - Connects back to the festival — "remember that talk?"
 - She tries to read it. Can't get through it. Too academic.
-- But Sergey's poetic explanations stick — the king and the servant
+- But Alejandro's poetic explanations stick — the king and the servant
 
 ### The Separation (Act 1 Ending)
-- Sergey wants Persephone to come to Stanford with him
+- Alejandro wants Persephone to come to Stanford with him
 - She chooses St. Petersburg, Florida instead — wants to be where life is open, where the brand can grow
 - Already a millionaire at 18 from social media
 - Gets her loft in a downtown St. Pete tower
-- This is how she and Sergey break up
+- This is how she and Alejandro break up
 - **George and Rosemary follow her to Florida** — back near their Southern roots
-- Two paths diverge: Sergey to the life of the mind, Persephone to the life of the brand
+- Two paths diverge: Alejandro to the life of the mind, Persephone to the life of the brand

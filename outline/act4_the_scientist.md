@@ -91,11 +91,11 @@
   - A woman leaves because someone she trusted chose someone else
   - This is what she did to Kathleen
   - The universe is showing her the same scene from the other side
-  - She's Sergey now. Eric is Sergey. Erica is Kathleen.
+  - She's Alejandro now. Eric is Alejandro. Erica is Kathleen.
 - She's horrified. She doesn't want to be part of this pattern again.
 - **But this time it's different:**
-  - Eric was honest (Sergey wasn't — Sergey was strategic)
-  - The relationship was already dying (Sergey and Kathleen were in love — or Kathleen was)
+  - Eric was honest (Alejandro wasn't — Alejandro was strategic)
+  - The relationship was already dying (Alejandro and Kathleen were in love — or Kathleen was)
   - Persephone didn't pursue Eric — the truth just happened
   - The pattern rhymes but it doesn't repeat exactly
 
@@ -164,7 +164,7 @@
 
 **The Setup:**
 - Persephone wants to do another Vipassana — this time with Eric
-- They go to Washington State (near Seattle? Sergey's territory?)
+- They go to Washington State (near Seattle? Alejandro's territory?)
 - She's been once before. He's never done it.
 - **Why this matters:** replication by a second observer. Proof it's not just her.
 
@@ -198,7 +198,7 @@
   - The hair braiding. Tender-headed.
   - Sheepey.
 - She's not that girl anymore. But that girl is still in there.
-- **"The Portland Era"** — before fame, before Sergey, before any of it
+- **"The Portland Era"** — before fame, before Alejandro, before any of it
 
 **The Conversation on the Train:**
 - Eric and Persephone, hours of quiet conversation as the landscape scrolls by
@@ -283,6 +283,6 @@
 ### Open Questions
 - Does the wedding night truth ever come out publicly?
 - Does body cam footage of the slippery moment go viral?
-- Does Sergey reappear after the character reference?
+- Does Alejandro reappear after the character reference?
 - Does Kathleen ever respond?
 - Does the cult formation happen on-page or implied?

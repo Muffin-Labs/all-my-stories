@@ -45,29 +45,30 @@ Single source of truth for how characters look. Reference this when writing scen
 
 ---
 
-## Sergey Feldman
+## Alejandro Rodriguez
 
 **Age in Act 1:** 15 (born September 3, 2003)
 **Dating Kathleen:** Since March 2017
-**Height:** 5'6" — taller than Kathleen, shorter than Persephone. This matters. He is eye-level with the girl he's dating and has to look up at the one he wants.
-**Build:** Skinny. All brain, not much body.
-**Face:** High hairline. Looks vaguely like a skinny George Clooney — the bone structure is there, the charm is there in a different register. Handsome in a way that requires you to pay attention.
+**Height:** 5'11" — taller than both girls. This matters differently than you'd expect. He's the right height, the right build, the kind of guy who should be Persephone's type — but he isn't, because the pull is intellectual, not physical. And what she can't stop noticing is his hair: curly brown hair that mirrors her own, an ironic echo she never asked for.
+**Build:** 5'11", 180 lbs. Solid, not skinny. The kind of build that should make him an athlete but he forgot to use it for that.
+**Face:** Charming smile — the feature that disarms people before they realize how smart he is. Half Black, half Indigenous; his parents are Venezuelan immigrants. Handsome in a way that sneaks up on you.
 **Style:** Eccentric in his self-expression. The kind of kid who wears a vintage blazer to school not because it's cool but because he found it at Goodwill and it had a pocket the right size for a notebook. A poet's wardrobe — slightly wrong, slightly deliberate, never quite fitting.
-**Overall:** His body is a vehicle for his mind. He forgets to eat. He forgets to stand up straight. But when he's talking about something that matters to him, his face becomes the most alive thing in the room — eyes bright, hands moving, that skinny George Clooney bone structure suddenly making sense.
+**Language:** Spanish as first language. Fluent in English.
+**Overall:** His body could belong to someone else — someone who plays sports, who moves through the world physically first. But Alejandro lives in his mind. He forgets to eat. He forgets to stand up straight. But when he's talking about something that matters to him, his face becomes the most alive thing in the room — eyes bright, hands moving, that charming smile suddenly making sense.
 
 **Band:** & Amateur Cartography — experimental pop in the Animal Collective vein. Layered, hypnotic, built on pulsing rhythms that feel primal underneath cerebral, literary lyrics. The kind of music where your body moves before your brain catches up, and then the lyrics catch your brain too. Named after a line from The Weakerthans' "Aside": *"Armed with every precious failure and amateur cartography."* He kept the subordinate clause and put an ampersand in front of it — because of course he did. The precious failures, the maps that are wrong but cherished, the attempts at understanding that don't quite land — that's his whole project.
 
-**The Weakerthans connection:** Sergey played them "Virtue the Cat Explains Her Departure" first — the cat who's left home and can't remember "the sound that you found for me" (her name, her identity, given by someone else). Kathleen thought it was cute ("the cat song"). Persephone couldn't speak. She heard the most devastating thing she'd ever heard — an animal who lost the word someone loved her with. She made him play it three times, then found the prequel ("Plea from a Cat Named Virtue") herself. The cat narrating with total sincerity is what Persephone does (Sheepey, Muffin, the princess). The gap between what Persephone heard in the song and what Kathleen heard is a gap she'd never noticed before and couldn't stop noticing after. This resonates across Persephone's whole arc: the cult of personality gives you a name, and when you leave it, who are you?
+**The Weakerthans connection:** Alejandro played them "Virtue the Cat Explains Her Departure" first — the cat who's left home and can't remember "the sound that you found for me" (her name, her identity, given by someone else). Kathleen thought it was cute ("the cat song"). Persephone couldn't speak. She heard the most devastating thing she'd ever heard — an animal who lost the word someone loved her with. She made him play it three times, then found the prequel ("Plea from a Cat Named Virtue") herself. The cat narrating with total sincerity is what Persephone does (Sheepey, Muffin, the princess). The gap between what Persephone heard in the song and what Kathleen heard is a gap she'd never noticed before and couldn't stop noticing after. This resonates across Persephone's whole arc: the cult of personality gives you a name, and when you leave it, who are you?
 
-**Key song — "Careless":** The song about the three of them. Written after England, released to Spotify in December 2019. The title is Persephone's word — from the castle, from the princess riff: *"That's not brave. That's just careless."* Sergey took her accusation and turned it into an elegy. The song is about the triangle — what they were, what they had, what got broken. Three points on a map, a territory they lived in together, the map that stopped matching the territory. The band's signature sound at full force — that hypnotic building pulse underneath the layered production, the beat primal and physical while the lyrics are coded and cerebral. Persephone hears it and *knows* — knows it's for her, knows it's about the three of them, knows it's his acknowledgment of what she told them at Chepstow. She dances to it on TikTok the day after it drops — the only non-trending song she uses — and the video goes viral. His Spotify jumps from dozens to tens of thousands. Kathleen hears "Careless" and thinks it's beautiful — the same gap as the Weakerthans cat song. The mutual amplification starts here.
+**Key song — "Careless":** The song about the three of them. Written after England, released to Spotify in December 2019. The title is Persephone's word — from the castle, from the princess riff: *"That's not brave. That's just careless."* Alejandro took her accusation and turned it into an elegy. The song is about the triangle — what they were, what they had, what got broken. Three points on a map, a territory they lived in together, the map that stopped matching the territory. The band's signature sound at full force — that hypnotic building pulse underneath the layered production, the beat primal and physical while the lyrics are coded and cerebral. Persephone hears it and *knows* — knows it's for her, knows it's about the three of them, knows it's his acknowledgment of what she told them at Chepstow. She dances to it on TikTok the day after it drops — the only non-trending song she uses — and the video goes viral. His Spotify jumps from dozens to tens of thousands. Kathleen hears "Careless" and thinks it's beautiful — the same gap as the Weakerthans cat song. The mutual amplification starts here.
 
-**"Enough to See By":** A quieter track on the same release. The private confession — the yurt specifically, the two lights, the closed eyes. A narrator choosing between two light sources, a drawer that won't close, a name whispered in the dark. Chorus: *Both enough to see by / Neither enough to see.* Slower, more stripped back, more internal. The song Sergey wrote for himself. "Careless" is what he gave the world; "Enough to See By" is what he kept.
+**"Enough to See By":** A quieter track on the same release. The private confession — the yurt specifically, the two lights, the closed eyes. A narrator choosing between two light sources, a drawer that won't close, a name whispered in the dark. Chorus: *Both enough to see by / Neither enough to see.* Slower, more stripped back, more internal. The song Alejandro wrote for himself. "Careless" is what he gave the world; "Enough to See By" is what he kept.
 
-Persephone and Kathleen are the band's biggest genuine fans — they think it's the best music they've ever heard. Sergey never believes them.
+Persephone and Kathleen are the band's biggest genuine fans — they think it's the best music they've ever heard. Alejandro never believes them.
 
-**Arc:** Never goes academic. The band blows up during COVID lockdown — same window as Persephone's TikTok explosion. They amplify each other's fame but each is famous on their own merit. By 18, Sergey is touring, equally famous, the two of them publicly entangled. They sleep together, Kathleen is gone forever. They become a couple — the famous couple, built on betrayal. Then Persephone cheats on him with Démion and leaves. The mirror: what he did to Kathleen, done to him. The Emissary with all the knowledge and none of the immunity.
+**Arc:** Never goes academic. The band blows up during COVID lockdown — same window as Persephone's TikTok explosion. They amplify each other's fame but each is famous on their own merit. By 18, Alejandro is touring, equally famous, the two of them publicly entangled. They sleep together, Kathleen is gone forever. They become a couple — the famous couple, built on betrayal. Then Persephone cheats on him with Démion and leaves. The mirror: what he did to Kathleen, done to him. The Emissary with all the knowledge and none of the immunity.
 
-**Parents:** Dr. Oscar Feldman (semiconductor process development, Intel) and mother — both academics. They love him abstractly. They pushed for early kindergarten enrollment (he missed the September 1 cutoff by two days), putting him in the same grade as Persephone and Kathleen.
+**Parents:** Dr. Carlos Rodriguez (semiconductor process development, Intel) and mother — Venezuelan immigrants. They love him abstractly. They pushed for early kindergarten enrollment (he missed the September 1 cutoff by two days), putting him in the same grade as Persephone and Kathleen.
 
 ---
 
@@ -75,11 +76,11 @@ Persephone and Kathleen are the band's biggest genuine fans — they think it's 
 
 **Age in Act 1:** 16 (born June 19, 2003)
 **Height:** 5'3"
-**Build:** Thin. Small-breasted. Shapely bottom — the feature Sergey focuses on when he's trying to find her attractive.
+**Build:** Thin. Small-breasted. Shapely bottom — the feature Alejandro focuses on when he's trying to find her attractive.
 **Face:** Round, ball-shaped head. Large doe-eyes — innocent and disarming. The kind of eyes that make people trust her immediately, that make her look like she's always a little surprised by the world.
 **Overall:** Not beautiful the way Persephone is beautiful. Cute. Sweet-looking. The girl next to the girl everyone's looking at. She knows this. She's known it since she was twelve. Her eyes are her best feature and she uses them — not strategically, just naturally. When she looks at you with those big round eyes, you want to protect her.
 
-**Through Sergey's eyes:** He focuses on her eyes and her bottom because those are the features he can find attractive. He loves her — or tells himself he does — but he's hard-pressed to find the physical pull. With Persephone, the pull is involuntary. With Kathleen, it's a choice he keeps making.
+**Through Alejandro's eyes:** He focuses on her eyes and her bottom because those are the features he can find attractive. He loves her — or tells himself he does — but he's hard-pressed to find the physical pull. With Persephone, the pull is involuntary. With Kathleen, it's a choice he keeps making.
 
 ---
 
@@ -91,7 +92,7 @@ Persephone and Kathleen are the band's biggest genuine fans — they think it's 
 **Build:** Classically handsome, super buff, athletic in a way that makes other professional athletes look small. Think Saquon Barkley's physicality with Patrick Mahomes's improvisational genius and Tom Brady's competitive ruthlessness. A dominant runner and passer — improvisational on a level never seen before. Seems to know what will happen before it happens, always one step ahead. The body is a weapon and a monument.
 **Face:** Movie-star handsome. Strong jaw, perfect smile, the kind of face that sells watches and cologne without trying. When he walks into a room, everyone recalibrates.
 **Skin/Heritage:** Half Latino. First language Spanish. Hispanic cultural background.
-**Overall:** The breakout best NFL player to ever exist. Physical and mental force. At 6'6", 250, he towers over Persephone (5'8") the way George towers over Rosemary — and that echo matters. He is the physical opposite of Sergey in every dimension: where Sergey is skinny, cerebral, 5'6", Démion is massive, instinctual, 6'6". Persephone's type — the football players she dated before Sergey — made flesh at the highest possible magnitude.
+**Overall:** The breakout best NFL player to ever exist. Physical and mental force. At 6'6", 250, he towers over Persephone (5'8") the way George towers over Rosemary — and that echo matters. He is the physical opposite of Alejandro in every dimension: where Alejandro is cerebral, 5'11", built but unused, Démion is massive, instinctual, 6'6". Persephone's type — the football players she dated before Alejandro — made flesh at the highest possible magnitude.
 
 ---
 
@@ -108,13 +109,13 @@ Persephone and Kathleen are the band's biggest genuine fans — they think it's 
 |-----------|--------|--------|
 | Démion | 6'6" | 250 lbs |
 | George | 6'4" | — |
+| Alejandro | 5'11" | 180 lbs |
 | Persephone | 5'8" | ~130 lbs (Act 3) |
-| Sergey | 5'6" | — |
 | Kathleen | 5'3" | — |
 | Rosemary | 5'2" | — |
 
-The triangle in Act 1: Sergey looks up at Persephone and down at Kathleen. Literally.
-In Act 2: Démion towers over Persephone the way George towers over Rosemary — and that echo matters. The physical opposite of Sergey in every dimension.
+The triangle in Act 1: Alejandro is taller than both girls, but the physical "thing" Persephone can't stop noticing isn't his height — it's his curly brown hair, an ironic mirror of her own curls.
+In Act 2: Démion towers over Persephone the way George towers over Rosemary — and that echo matters. The physical opposite of Alejandro in every dimension.
 
 ---
 
@@ -131,9 +132,9 @@ How each character sounds when they speak — in their own POV chapters and in o
 - **Builds characters through assertion, not description.** She doesn't explain Sheepey's backstory — she declares it. "He lost them with *dignity.*"
 - **The Sheepey/Muffin bits use British accent and understatement.** "He finds the mule rather common." "That's rather the point."
 - **Her insights are accidental.** She says the profound thing and moves on without noticing it was profound. "Why someone can feel something and be told they're not feeling it" — said like it was nothing.
-- **Contrast with Sergey:** He deconstructs, she constructs. He takes things apart to understand them. She makes things real just by talking about them. If Sergey would need a paragraph to explain a concept, Persephone nails it in one sentence — and doesn't realize she's done it.
+- **Contrast with Alejandro:** He deconstructs, she constructs. He takes things apart to understand them. She makes things real just by talking about them. If Alejandro would need a paragraph to explain a concept, Persephone nails it in one sentence — and doesn't realize she's done it.
 
-### Sergey — Dialogue Voice
+### Alejandro — Dialogue Voice
 - Tends toward over-explanation. Uses too many words. Gets precise when emotional.
 - His spoken voice is less polished than his internal voice — he stumbles, restarts, reaches.
 - When excited (the McGilchrist explanation in 1.3), his hands move faster than his words.
@@ -143,7 +144,7 @@ How each character sounds when they speak — in their own POV chapters and in o
 - Warm, game, quick to join a bit. "The goat farmer had land."
 - Matches Persephone's energy in the Sheepey bits — she's the straight man who's also funny.
 - When hurt or scared, gets quiet. "Shh." "I'm listening." — short, clipped, a door closing.
-- Calls Sergey "babe." Casual affection in her speech.
+- Calls Alejandro "babe." Casual affection in her speech.
 
 ### George — Dialogue Voice
 - Big, warm, immediate. "Beautiful, baby." "You kids have fun."
@@ -162,6 +163,6 @@ How each character sounds when they speak — in their own POV chapters and in o
 ## Notes for Prose
 
 - Persephone's POV won't describe herself directly. Her physicality comes through: how people react to her, what she catches in reflections, physical actions (her curls, her height relative to others).
-- Sergey's POV will catalog physical details precisely — he classifies everything, including bodies.
+- Alejandro's POV will catalog physical details precisely — he classifies everything, including bodies.
 - George and Rosemary as a couple are a visual event — the tall Black man and the petite blonde. People notice them.
 - Persephone's mixed-race beauty is part of her power and part of her story. The pale green eyes against golden brown skin — people can't stop looking.

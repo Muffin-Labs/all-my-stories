@@ -121,13 +121,17 @@
 - Summer 2019: England trip — Stonehenge, How The Light Gets In festival (age 16)
 - Late 2019/early 2020: TikTok dance videos go viral (Charli D'Amelio timeline)
 - March 2020: COVID lockdowns hit — fame explodes while locked down
-- Fall 2021 (age 18, turning 19): Moves to St. Petersburg, Florida. George & Rosemary follow.
-- 2022: Meets Démion Reyes (Tampa Bay Buccaneers, breakout season)
-- Fall 2021 - March 2026: St. Pete/Tampa years (~4.5 years)
-- March 2026: Démion joins LA Chargers, they move to LA — she buys Santa Monica house
+- Late May 2021 (age 18): Flies to Tampa to visit Démion, never comes back. Buys condo in St. Pete, cash. Hires Cassandra as manager.
+- Early July 2021: Hurricane Elsa — first time having sex with Démion. They've been dating two months.
+- September 2021: Démion's first NFL game (Bucs opener vs Dallas). Crushes it. George & Rosemary visit for game. George in Cowboys gear. Démion proposes one week later — Persephone says yes, but after 26.
+- November 2021: George retires from Intel. George & Rosemary visit for Persephone's 19th birthday.
+- December 2021: George & Rosemary move to St. Pete area.
+- 2021–2026: St. Pete/Tampa years (~5 years). Power couple ascending.
+- March 2026: Démion joins LA Chargers, they move to LA — she buys Santa Monica house.
 - ~2026: George dies of a heart attack. Rosemary nearly dies of broken heart. George & Rosemary don't follow to LA.
-- 2026-2030: LA years — brand at full power, power couple at peak
-- 2030: Persephone is 26. Wedding, retreat, everything falls apart.
+- 2026–2029: LA years — brand at full power, power couple at peak, the emptiness.
+- Late 2028/early 2029: Démion proposes again after her 26th birthday. She says yes.
+- September 2029: Wedding in Joshua Tree. Persephone is 26. Wedding night. Retreat. Everything falls apart.
 - Coming-of-age / Harry Potter-ish quality but grounded — not deep magic
 - Story IS the book — philosophy and tools woven into narrative
 - Book-within-a-book: Persephone writes "Science and the Cult of Personality" in Act 3
@@ -186,7 +190,7 @@
   - **Tarot** — got into it during her twenties; readings, horoscopes, custom deck
   - **Manifestation culture** — the whole LA spiritual scene
   - **Astrology / horoscopes** — part of her content and worldview
-  - **McGilchrist** — filtered through Sergey's poetic explanations, not academic reading
+  - **McGilchrist** — filtered through Alejandro's poetic explanations, not academic reading
 - She'd never say "dynamic calibration" — she'd reach for cups, wands, energy, reading the room
 - **This matters for the book:** the reader gets philosophy through HER filter, not an academic one
 - **The tarot arc:**
@@ -200,18 +204,18 @@
 ### Kathleen — Best Friend / The Master Figure
 - Best friends with Persephone since childhood
 - **Physical:** 5'3", doe-eyed, round-headed, short, big booty
-  - Sergey is her perfect physical match
+  - Alejandro is her perfect physical match
 - Loving, kind, can't compete — the "sidekick"
-- Dated Sergey from age 14; told Persephone she wanted to marry him
-- Betrayed when Persephone slept with and then dated Sergey for 2 years
+- Dated Alejandro from age 14; told Persephone she wanted to marry him
+- Betrayed when Persephone slept with and then dated Alejandro for 2 years
 - Friendship irreconcilable — won't answer messages. Permanent consequence.
 - IS the Master in Persephone's life: faithful presence overshadowed by Emissary's shine
 
-### Sergey — The Intellectual / The Emissary Figure
-- Ukrainian — family immigrated from Ukraine when he was about 8 years old
+### Alejandro — The Intellectual / The Emissary Figure
+- Half Black, half Indigenous — parents are Venezuelan immigrants
 - Fluent in English
 - Poet, philosopher, musician
-- Skinny, brainy — 5'6", shorter than Persephone (5'8")
+- 5'11", 180 lbs, curly brown hair — brainy, not her type despite looking like he should be
   - Not Persephone's type physically — she's taller than him
   - But exactly Kathleen's type — Kathleen is 5'3"
 - Drew her in with poetry and ideas; she consumed him as entertainment, not a mate
@@ -335,7 +339,7 @@
 - Tells her: science is play, kids are the best scientists
 - His language + her experience = the synthesis she needs to write her book
 - **Relationship progression:**
-  - Sergey = Emissary (mind, consumed as entertainment)
+  - Alejandro = Emissary (mind, consumed as entertainment)
   - Démion = personality at peak (mirrored her)
   - Eric = sees through observation, values play and curiosity over narrative
 
@@ -345,15 +349,15 @@
 - Details TBD
 
 ### The Triangle (Ages 14-18, ~2018-2022)
-- Kathleen (Master/heart) loved Sergey (Emissary/mind)
-- Sergey chose Persephone (personality/charisma) over Kathleen
+- Kathleen (Master/heart) loved Alejandro (Emissary/mind)
+- Alejandro chose Persephone (personality/charisma) over Kathleen
 - Persephone took him and kept him for 2 years — never really wanted him
 - Everyone loses. The cult of personality at its most casually devastating.
 
 ### Démion Reyes — The Husband
 - Half Latino, first language Spanish, Hispanic cultural background
 - Name: Démion — a spelling that looks like "demon" on the page. Surname Reyes (kings). The name reads as a warning nobody heeds.
-- Best NFL player ever — QB/running back, academic achievements, built a business in HS
+- Best NFL player ever — QB/running back, academic achievements
 - Perfect man on the surface; also driven by personality
 - Power couple (Kelce/Swift equivalent); date ~4 years, marry
 - Rapes her on wedding night; denies it while simultaneously justifying it
@@ -381,17 +385,17 @@
 ---
 
 **Act 1: The Triangle (Ages 15-18, Beaverton/England)**
-- **POV alternates: Persephone & Sergey**
-- Sergey mirrors her intellect — the Emissary figure
+- **POV alternates: Persephone & Alejandro**
+- Alejandro mirrors her intellect — the Emissary figure
 - → See `act1_the_triangle.md`
 - England trip (Stonehenge, Sheepey, How The Light Gets In)
 - TikTok explosion during COVID lockdown
-- The Kathleen-Sergey betrayal — seen from BOTH sides
-  - Sergey's POV: falling for Persephone, guilt, rationalizing, the moment he decides to act
+- The Kathleen-Alejandro betrayal — seen from BOTH sides
+  - Alejandro's POV: falling for Persephone, guilt, rationalizing, the moment he decides to act
   - Persephone's POV: taking what she wants without seeing the cost
 - The English teacher and Cat's Cradle
-- Sergey gives her The Master and His Emissary
-- Persephone moves to St. Pete at 18 — leaves Sergey (he goes to Stanford)
+- Alejandro gives her The Master and His Emissary
+- Persephone moves to St. Pete at 18 — leaves Alejandro (he goes to Stanford)
 - **Ends with:** the separation. Two paths diverge.
 
 **Act 2: The Personality (Ages 18-26, St. Pete/LA)**
@@ -427,7 +431,7 @@
 - The psych ward — navigating with integrity
 - Release, the two trees
 - Cassandra conversation, legal battle
-- Character references (Sergey returns, English teacher returns)
+- Character references (Alejandro returns, English teacher returns)
 - **Ends with:** Persephone free but alone. Ready to run.
 
 **Act 4: The Scientist (Age 26-27, Nicaragua/Mexico/Washington/LA)**
@@ -456,7 +460,7 @@
 
 **Why These Pairings:**
 - Each co-narrator mirrors where Persephone is in her journey
-- Sergey mirrors her intellect (Act 1)
+- Alejandro mirrors her intellect (Act 1)
 - Démion mirrors her personality (Act 2)
 - Rosemary mirrors her blindness (Act 3)
 - Eric mirrors her awakening (Act 4)
@@ -469,7 +473,7 @@
 - Remaining pragmatic tools to weave in?
 - Yoga teacher's name and backstory?
 - Kathleen — does she ever respond?
-- Sergey reappear after character reference?
+- Alejandro reappear after character reference?
 - Body cam footage — goes viral?
 - Obstruction charges dismissed how?
 - Retreat center consequences?
@@ -478,5 +482,5 @@
 - Does the book end with the phone call to Cassandra or slightly after?
 - Mom's name?
 - Does Démion return? Reckoning?
-- Does Sergey reappear?
+- Does Alejandro reappear?
 - Body cam footage — goes viral?

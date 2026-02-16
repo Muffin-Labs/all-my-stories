@@ -1,6 +1,6 @@
 # "Careless" — & Amateur Cartography
 
-**Written by:** Sergey Feldman
+**Written by:** Alejandro Rodriguez
 **Released:** Spotify, early December 2019
 **Style:** Experimental pop, Animal Collective "My Girls" structure. Hypnotic building pulse, layered loops, the beat primal underneath cerebral lyrics. The rhythm starts sparse — just a pulse and a voice — and layers accumulate through each cycle until the chorus arrives on a wave of sound that makes your chest vibrate. The kind of song where you're swaying before you know you're swaying and crying before you know you're crying.
 
@@ -60,7 +60,7 @@ I was careless<br>
 
 ## What Each Line Is Actually About
 
-| Lyric | Surface reading | What Sergey means |
+| Lyric | Surface reading | What Alejandro means |
 |-------|----------------|-------------------|
 | *A steady hand and a map to read* | A person trying to navigate | The Emissary's tools — classification, cartography. The hand that draws the wrong map. |
 | *With the lights drawn low and the walls worn thin* | A room, intimacy, vulnerability | The yurt. Two lights. Canvas walls that let everything through. |
@@ -82,4 +82,4 @@ I was careless<br>
 
 **Kathleen:** She hears a beautiful sad song by the boy she loves. She probably cries. She probably says "that's beautiful, babe." She doesn't hear the yurt. She doesn't hear the castle. She doesn't hear "careless" as anything other than a word in a song. The gap between what Kathleen hears and what Persephone hears is the same gap as the Weakerthans cat song — and it's six feet wide.
 
-**Sergey:** He knows exactly what every line means. He classified it while writing it. He can map every lyric to its source, annotate every metaphor, explain the structure. And none of that knowledge makes the song less true. This is the one time the Emissary's precision serves the Master — because the song works not despite the careful construction but through it. The maps are wrong, but the music is right. Amateur cartography at its best.
+**Alejandro:** He knows exactly what every line means. He classified it while writing it. He can map every lyric to its source, annotate every metaphor, explain the structure. And none of that knowledge makes the song less true. This is the one time the Emissary's precision serves the Master — because the song works not despite the careful construction but through it. The maps are wrong, but the music is right. Amateur cartography at its best.

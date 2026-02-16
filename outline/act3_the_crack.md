@@ -105,7 +105,7 @@
 - **The Door:** tries to push it off hinges. It doesn't budge. Confluence ≠ superpower.
 
 ## The Holding Cell — Mural Vision & Balancing Experiment — Persephone POV
-- **Mural:** Blue/Emissary = Sergey. Red/Master = Kathleen.
+- **Mural:** Blue/Emissary = Alejandro. Red/Master = Kathleen.
 - **Balancing Experiment:** nullifying each hemisphere, watching effect on two men's conversation
 - **Discovery: Dynamic Calibration** — constantly adapting, like sailing
 
@@ -163,7 +163,7 @@
 
 ### Character References (careful speech now)
 1. **The English Teacher** — saw her gift first. Beautiful letter.
-2. **Sergey** — emotionally loaded. Now Assoc. Professor at UW. Probably the best letter.
+2. **Alejandro** — emotionally loaded. Now Assoc. Professor at UW. Probably the best letter.
 3. **Cassandra** — powerful, charismatic, wants to be part of the story. Must be managed.
 
 ---

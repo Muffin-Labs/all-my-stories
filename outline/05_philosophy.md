@@ -187,7 +187,7 @@ The Master/Emissary framework is encoded in recurring sensory motifs throughout 
 |--------|---------------------|----------------------|
 | Element | Wind | Stone |
 | Color | Red | Blue |
-| Character | Kathleen | Sergey |
+| Character | Kathleen | Alejandro |
 | Attention | Gathering (open, receive) | Grasping (close, seize) |
 
 **Wind / Stone:**
@@ -198,12 +198,12 @@ The Master/Emissary framework is encoded in recurring sensory motifs throughout 
 **Red / Blue:**
 - Red = warmth, body, direct perception. Firelight, sunsets, copper curls in lantern light, blood, the desert.
 - Blue = cool, cerebral, classification. Sky, water, intellectual distance.
-- In the mural: Blue/Emissary side = Sergey. Red/Master side = Kathleen.
+- In the mural: Blue/Emissary side = Alejandro. Red/Master side = Kathleen.
 - Red and blue should appear naturally throughout Acts 1-2 so the mural feels like recognition, not introduction.
 
-**Kathleen / Sergey:**
+**Kathleen / Alejandro:**
 - Kathleen lives in the Master's territory — intuitive, relational, present. She can't explain why she knows things. She just knows.
-- Sergey lives in the Emissary's territory — classifying, labeling, building frameworks. He can explain everything except how to feel it.
+- Alejandro lives in the Emissary's territory — classifying, labeling, building frameworks. He can explain everything except how to feel it.
 - Neither is complete alone. The mural shows Persephone that she needs both.
 
 ---
@@ -227,7 +227,7 @@ The Master/Emissary framework is encoded in recurring sensory motifs throughout 
   - Hundreds of millions of followers
   - Her entire life is narrative: brand, image, story, performance
   - She navigates every situation by narrating it — even relationships
-  - Sergey was consumed as entertainment (narrative about a person, not the person)
+  - Alejandro was consumed as entertainment (narrative about a person, not the person)
   - Démion was the power couple story (two personalities at peak)
   - She's never observed without narrating. Never seen without telling.
 

@@ -6,23 +6,20 @@
 ---
 
 ## ACT 1: THE TRIANGLE (Ages 15-19, Beaverton/England)
-**POV: Persephone & Sergey (strict alternation)**
-*Sergey mirrors her intellect*
+**POV: Persephone & Alejandro (strict alternation)**
+*Alejandro mirrors her intellect*
 
 - **1.1** — Stonehenge / Sheepey (Persephone POV) ✍️
-- **1.2** — The drive to Hay-on-Wye / why the festival matters / Sergey sees Persephone (Sergey POV) ✍️
-- **1.3** — How The Light Gets In / gaslighting chain / Sergey's McGilchrist (Persephone POV) ✍️
-- **1.4** — The Yurt / Muffin quest / first sex / closed eyes / two lights (Sergey POV) ✍️
+- **1.2** — The drive to Hay-on-Wye / why the festival matters / Alejandro sees Persephone (Alejandro POV) ✍️
+- **1.3** — How The Light Gets In / gaslighting chain / Alejandro's McGilchrist (Persephone POV) ✍️
+- **1.4** — The Yurt / Muffin quest / first sex / closed eyes / two lights (Alejandro POV) ✍️
 - **1.5** — The Castle / yurt from the other bed / princess riff at Chepstow (Persephone POV)
-- **1.6** — Sergey after the castle / the riff that broke the system / processing what she knows (Sergey POV) ✍️
+- **1.6** — Alejandro after the castle / the riff that broke the system / processing what she knows (Alejandro POV) ✍️
 - **1.7** — TikTok explosion / overnight sensation / Kathleen behind the camera (Persephone POV)
-- **1.8** — & Amateur Cartography blows up / solo live looping / both rising / Kathleen shrinking (Sergey POV) ✍️
+- **1.8** — & Amateur Cartography blows up / solo live looping / both rising / Kathleen shrinking (Alejandro POV) ✍️
 - **1.9** — Lockdown / brand pivot to Instagram / creative entanglement / "Stone-HENGE" / the betrayal from Persephone's side (Persephone POV) ✍️
-- **1.10** — The betrayal from Sergey's side / the morning after / Kathleen finds out / Kathleen disappears, gone forever (Sergey POV) ✍️
-- **1.11** — The morning after (her side) / smoke apocalypse / hollowness / Sheepey goes public / the life raft / Démion's DM / school reopens — she only goes for Kathleen / Kathleen's house (the kind parents, the sealed door) / she goes to Florida and never comes back / doesn't graduate (Persephone POV)
-- **1.12** — Sergey in the relationship: the Emissary with everything he wanted / she's gone (Sergey POV)
-- **1.13** — TBD — may need restructuring now that Démion and the departure are in 1.11 (Persephone POV)
-- **1.14** — Sergey alone, famous, knowing what the mirror feels like (Sergey POV)
+- **1.10** — The betrayal from Alejandro's side / the morning after / Kathleen finds out / Kathleen disappears, gone forever (Alejandro POV) ✍️
+- **1.11** — The morning after (her side) / smoke apocalypse / hollowness / Sheepey goes public / the life raft / Démion's DM / school reopens — she only goes for Kathleen / Kathleen's house (the kind parents, the sealed door) / she goes to Florida and never comes back / doesn't graduate (Persephone POV) **[FINAL CHAPTER OF ACT 1]**
 
 ---
 
@@ -30,10 +27,10 @@
 **POV: Persephone & Démion (strict alternation)**
 *Démion mirrors her personality*
 
-- **2.1** — St. Pete loft / post-Sergey / brand ascending / George & Rosemary follow (Persephone POV)
-- **2.2** — Démion's world: who he is before they meet (Démion POV)
-- **2.3** — Meeting Démion / the power couple begins (Persephone POV)
-- **2.4** — Démion sees Persephone / what draws him / his own cult of personality (Démion POV)
+- **2.01** — Hurricane Season: first date (the night she arrives) / St. Pete condo / hires Cassandra / two months of dating without sex / Hurricane Elsa ("Let It Go") / she chooses — first time having sex with Démion (Persephone POV)
+- **2.02** — Hurricane night from Démion's side / the pheromones / six weeks of wanting / George & Rosemary visit for opener / George in Cowboys gear / box seats / Démion crushes first NFL game / ready to propose (Démion POV)
+- **2.03** — Démion proposes one week after opener / Persephone turns him down — absolutely yes, but after 26 (prefrontal cortex, McGilchrist knowledge from Alejandro, her own colorful description) / he has to wait seven years (Persephone POV)
+- **2.04** — TBD (Démion POV)
 - **2.5** — George's death / Rosemary's broken heart / the healthcare failure (Persephone POV)
 - **2.6** — Démion during the grief: how he handles her pain (Démion POV)
 - **2.7** — Move to LA / Santa Monica house / brand at peak (Persephone POV)

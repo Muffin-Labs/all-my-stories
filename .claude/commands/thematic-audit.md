@@ -40,7 +40,7 @@ Identify the POV character of each chapter and audit the pair against each crite
 - Do shared images, words, or gestures appear in both chapters but mean different things?
 - Does a moment from Chapter A rhyme with or invert a moment in Chapter B?
 - List specific echoes and what they reveal through the difference
-- **Example:** "Like a church made out of sound" means liberation to Persephone and taxonomy to Sergey — the same words, two worlds
+- **Example:** "Like a church made out of sound" means liberation to Persephone and taxonomy to Alejandro — the same words, two worlds
 
 ### 5. Ambiguity Preservation
 - Can a careful reader take Character A's side? Can they take B's?

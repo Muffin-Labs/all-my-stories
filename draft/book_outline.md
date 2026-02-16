@@ -142,7 +142,7 @@
   - The Master lost to the Emissary's shine
   - The broken friendship mirrors what happened internally
 
-**Sergey — The Intellectual / The Emissary Figure**
+**Alejandro — The Intellectual / The Emissary Figure**
 - Eastern European name/background
 - Very intellectual — a poet, philosopher type, musician who wrote music
 - Not traditionally attractive to Persephone — skinny guy, too brainy
@@ -152,25 +152,25 @@
 - He told Persephone about *The Master and His Emissary* by Iain McGilchrist
 - He IS the Emissary incarnate in her life — brilliant, verbal, analytical
 
-**The Kathleen–Sergey–Persephone Triangle (Ages ~14-18):**
-- Kathleen and Sergey start dating at age 14
+**The Kathleen–Alejandro–Persephone Triangle (Ages ~14-18):**
+- Kathleen and Alejandro start dating at age 14
 - By 16, they've been together two years; Kathleen tells Persephone she wants to marry him
 - Meanwhile Persephone has been dating a string of football players — the most masculine guys available
 - Age 17: Persephone starts taking off on TikTok and Instagram
-- One night, Persephone and Sergey hang out one-on-one and "accidentally" have sex
-  - Sergey confesses: always loved Persephone, never loved Kathleen, was only dating Kathleen to get closer to Persephone — dream come true
-  - Sergey's confession = the Emissary at its most brutal — using a person as a tool
+- One night, Persephone and Alejandro hang out one-on-one and "accidentally" have sex
+  - Alejandro confesses: always loved Persephone, never loved Kathleen, was only dating Kathleen to get closer to Persephone — dream come true
+  - Alejandro's confession = the Emissary at its most brutal — using a person as a tool
 - **The one-night accident might be forgivable. What follows is not:**
-  - Persephone dates Sergey for TWO YEARS (ages 16-18)
+  - Persephone dates Alejandro for TWO YEARS (ages 16-18)
   - Took Kathleen's boyfriend and kept him
   - The Jolene dynamic — "please don't take him just because you can." She took him.
-- **Persephone was never really attracted to Sergey:**
+- **Persephone was never really attracted to Alejandro:**
   - Interested in hearing him talk — ideas, poetry, music. Entertainment, not a mate.
   - Fantasized about other men; didn't want to have sex with him
   - Consumed him the way her followers consume her — for the experience, not the person
   - She took something she didn't even want — he was the PERFECT man for Kathleen
   - The cult of personality at its most casually devastating
-- **At 18:** Sergey wants her to come to Stanford with him. She chooses LA instead.
+- **At 18:** Alejandro wants her to come to Stanford with him. She chooses LA instead.
   - Already a millionaire from social media. Buys her own house in Santa Monica.
   - She felt like she was living the dream.
   - This is how they break up.
@@ -218,10 +218,10 @@
 - Persephone as a teenager in Portland — wildly popular, extremely attractive
 - Everyone wants something from her; she knows how to play the game
 - Best friends with Kathleen since childhood
-- The Kathleen–Sergey betrayal at ~16
+- The Kathleen–Alejandro betrayal at ~16
 - Takes off on TikTok/Instagram around 16; hundreds of thousands of followers
-- Dates Sergey for 2 years (~16-18) — entertainment, not love
-- At 18: rejects Stanford with Sergey, moves to Santa Monica, already a millionaire
+- Dates Alejandro for 2 years (~16-18) — entertainment, not love
+- At 18: rejects Stanford with Alejandro, moves to Santa Monica, already a millionaire
 - Buys her own house. Living the dream.
 
 *The Peak and the Emptiness (~18-26):*
@@ -335,7 +335,7 @@
   - Cross-wired: left brain → right body, right brain → left body
   - Right brain attention has been zipping around at speed of light — doing its ancient prey-vigilance job
   - She never got quiet enough to detect it before
-- **Background:** *The Master and His Emissary* by Iain McGilchrist (read before retreat, recommended by Sergey)
+- **Background:** *The Master and His Emissary* by Iain McGilchrist (read before retreat, recommended by Alejandro)
   - Right hemisphere = Master (broad, contextual, generous)
   - Left hemisphere = Emissary (detail-oriented, categorizing, self-interested)
   - The Emissary has usurped the Master — culturally and in Persephone's life
@@ -444,7 +444,7 @@
 **The Mural Vision (Holding Cell)**
 - Can't stop toggling — compulsive curiosity
 - Mural on wall → Transformers-like battle scene:
-  - **Blue/Emissary:** a man — she recognizes **Sergey**. An army behind him.
+  - **Blue/Emissary:** a man — she recognizes **Alejandro**. An army behind him.
   - **Red/Master:** a woman — she recognizes **Kathleen**. Standing alone.
   - The two people her personality hurt most, cast as cosmic forces
   - Can't interpret it. Receiving visions without framework.
@@ -477,7 +477,7 @@
 - Yoga teacher's name and backstory?
 - Mom's name?
 - Does Démion return? Have a reckoning?
-- Does Sergey reappear?
+- Does Alejandro reappear?
 - Body cam footage — does it go viral?
 
 ---
@@ -500,6 +500,6 @@
 - God uses they/them pronouns
 - The Emissary comes with an army (consensus, social pressure). The Master stands alone (truth doesn't need an army).
 - Body cam footage could go viral — feeds cult of personality forming around her
-- Sergey's tragedy: left genuine love for an illusion
+- Alejandro's tragedy: left genuine love for an illusion
 - "Everyone loses" — the triangle in three words
 - The personality that Persephone consumed was never really interested — he was content to her

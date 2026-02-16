@@ -16,7 +16,7 @@ Every chapter must be audited against these before considered complete:
 ### 2. Visual Imagination
 - Scenes need enough sensory detail to put the reader physically in the space
 - Prioritize sight, sound, smell, texture — not just intellectual description
-- Sergey chapters will always be cerebral, but even his POV notices physical details (he catalogs everything)
+- Alejandro chapters will always be cerebral, but even his POV notices physical details (he catalogs everything)
 - Bodies in space: where people are relative to each other, what they're doing with their hands, how they move
 - Setting should be evoked, not just named — the reader should feel the car, the yurt, the countryside
 
@@ -42,7 +42,7 @@ Every chapter must be audited against these before considered complete:
 
 ### 6. Character Voice Consistency
 - Each POV has a distinct internal voice; each character has a distinct dialogue voice (see outline/characters.md for physical reference AND dialogue voice guide)
-- Sergey: technical, taxonomic, classifying, effortfully poetic
+- Alejandro: technical, taxonomic, classifying, effortfully poetic
 - Persephone: intuitive, sensory, playful, effortlessly insightful
 - Démion: TBD
 - Rosemary: TBD
@@ -56,7 +56,7 @@ The following symbolic pairs represent the Master and Emissary throughout the bo
 |--------|---------------------|----------------------|
 | Element | Wind | Stone |
 | Color | Red | Blue |
-| Character | Kathleen | Sergey |
+| Character | Kathleen | Alejandro |
 | Attention | Gathering (open, receive) | Grasping (close, seize) |
 
 **Wind** moves through without grabbing. It bends the grass and lets go. It arrives without being summoned. It's the mode of attention that precedes classification.
@@ -65,7 +65,7 @@ The following symbolic pairs represent the Master and Emissary throughout the bo
 
 **Red** is warmth, blood, the body, direct perception. It appears in firelight, sunsets, Persephone's curls turning copper in lantern light. It should be present before the mural names it.
 
-**Blue** is cool, cerebral, classification. It appears in sky, water, Sergey's intellectual gaze. It should be present before the mural names it.
+**Blue** is cool, cerebral, classification. It appears in sky, water, Alejandro's intellectual gaze. It should be present before the mural names it.
 
 The pairs should never be explained in the prose. They accumulate so the reader feels the pattern before the mural confirms it. After the mural, they can be used more consciously by Persephone.
 
