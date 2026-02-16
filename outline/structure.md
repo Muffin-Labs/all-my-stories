@@ -1,7 +1,7 @@
 # All My Stories — Master Structure
 
 **Narrative Mode:** Third person limited, alternating POV per act
-**Epigraphs:** Every chapter opens with an epigraph — a mix of quotes from "Science & the Cult of Personality" (the book-within-the-book) and real-world sources (McGilchrist, Cohen, etc.). The blend makes "Science & the Cult of Personality" feel like a real book by placing it alongside actual texts. **Exception: Démion's chapters** use quotes about him or things he said — not literary/academic sources. The epigraphs come from the world's perception of him or his own words.
+**Epigraphs:** Every chapter opens with an epigraph. **Persephone's chapters** always use quotes from "Science & the Cult of Personality" (the book-within-the-book). **Alejandro's chapters** use a mix of quotes from "Science & the Cult of Personality" and real-world sources (McGilchrist, Cohen, etc.) — the blend makes the book-within-the-book feel real by placing it alongside actual texts. **Démion's chapters** use quotes about him or things he said — the world's perception of him, or his own words.
 
 ---
 
@@ -27,7 +27,7 @@
 **POV: Persephone & Démion (strict alternation)**
 *Démion mirrors her personality*
 
-- **2.01** — Hurricane Season: first date (the night she arrives) / St. Pete condo / hires Cassandra / two months of dating without sex / Hurricane Elsa ("Let It Go") / she chooses — first time having sex with Démion (Persephone POV)
+- **2.01** — Hurricane Season: first date (the night she arrives) / St. Pete condo / hires Lauria / two months of dating without sex / Hurricane Elsa ("Let It Go") / she chooses — first time having sex with Démion (Persephone POV)
 - **2.02** — Hurricane night from Démion's side / the pheromones / six weeks of wanting / George & Rosemary visit for opener / George in Cowboys gear / box seats / Démion crushes first NFL game / ready to propose (Démion POV) ✍️
 - **2.03** — Démion proposes one week after opener / Persephone turns him down — absolutely yes, but after 26 (prefrontal cortex speech, McGilchrist knowledge metabolized from Alejandro, her own vivid imagery) / he has to wait seven years / he hears "yes" and files the rest as logistics (Persephone POV)
 - **2.04** — First NFL season / the power couple narrative crystallizes / the machine runs perfectly / Persephone in the WAG section as her own gravitational field / George's phone calls after games / Démion sees magnitude not meaning / she adapts to his schedule without either of them noticing (Démion POV)
@@ -64,7 +64,7 @@
 - **3.16** — Rosemary when Persephone is released: relief and fear (Rosemary POV)
 - **3.17** — Release / two trees / car ride / "don't panic" (Persephone POV) ✍️
 - **3.18** — Rosemary watching her daughter navigate the legal battle (Rosemary POV)
-- **3.19** — Legal battle / retreat center betrayal / character references / Cassandra call (Persephone POV)
+- **3.19** — Legal battle / retreat center betrayal / character references / Lauria call (Persephone POV)
 - **3.20** — Rosemary: letting go / going home to Florida (Rosemary POV)
 - **3.21** — The first rest: ceiling, crying, done running (Persephone POV)
 
@@ -88,7 +88,7 @@
 - **4.12** — Second retreat: Eric's Master awakening / creative grief (Eric POV)
 - **4.13** — Train ride / passing through Portland (Persephone POV)
 - **4.14** — "I'll be right there by your side" (Eric POV)
-- **4.15** — Pizza on the couch / she picks up the phone / Cassandra call (Persephone POV)
+- **4.15** — Pizza on the couch / she picks up the phone / Lauria call (Persephone POV)
 
 ---
 

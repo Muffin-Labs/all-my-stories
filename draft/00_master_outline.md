@@ -121,7 +121,7 @@
 - Summer 2019: England trip — Stonehenge, How The Light Gets In festival (age 16)
 - Late 2019/early 2020: TikTok dance videos go viral (Charli D'Amelio timeline)
 - March 2020: COVID lockdowns hit — fame explodes while locked down
-- Late May 2021 (age 18): Flies to Tampa to visit Démion, never comes back. Buys condo in St. Pete, cash. Hires Cassandra as manager.
+- Late May 2021 (age 18): Flies to Tampa to visit Démion, never comes back. Buys condo in St. Pete, cash. Hires Lauria as manager.
 - Early July 2021: Hurricane Elsa — first time having sex with Démion. They've been dating two months.
 - September 2021: Démion's first NFL game (Bucs opener vs Dallas). Crushes it. George & Rosemary visit for game. George in Cowboys gear. Démion proposes one week later — Persephone says yes, but after 26.
 - November 2021: George retires from Intel. George & Rosemary visit for Persephone's 19th birthday.
@@ -324,11 +324,11 @@
   - Persephone has small windows alone (shaves head, finds note in drawer) before/around Rosemary
 - The one who calls 911 wanting EMTs, getting cops instead
 
-### Cassandra — Persephone's Agent/Manager
+### Lauria — Persephone's Agent/Manager
 - Manages her sponsorships, deals, brand partnerships
 - Returns in Act 3 as character reference BUT also pushes for justice/retribution
 - Represents the Emissary's playbook: fight back, reclaim narrative, get justice
-- Persephone has to steer away from this while keeping Cassandra as an ally
+- Persephone has to steer away from this while keeping Lauria as an ally
 
 ### Eric — The Scientist / Love Interest (Act 3)
 - AI researcher and consultant; builds ML/AI systems
@@ -430,7 +430,7 @@
 - The arrest / slippery moment
 - The psych ward — navigating with integrity
 - Release, the two trees
-- Cassandra conversation, legal battle
+- Lauria conversation, legal battle
 - Character references (Alejandro returns, English teacher returns)
 - **Ends with:** Persephone free but alone. Ready to run.
 
@@ -453,7 +453,7 @@
 - Train ride home — passing through Portland
   - "I don't know what to do" / "I'll be right there by your side"
 - Return to LA — pizza on the couch
-- She picks up the phone — calls Cassandra
+- She picks up the phone — calls Lauria
 - **Ends with:** ambiguity. She's ready. Not running. The book refuses to resolve neatly.
 
 ---
@@ -479,7 +479,7 @@
 - Retreat center consequences?
 - Book-within-book structure — how much is on the page?
 - Cult formation on-page or implied?
-- Does the book end with the phone call to Cassandra or slightly after?
+- Does the book end with the phone call to Lauria or slightly after?
 - Mom's name?
 - Does Démion return? Reckoning?
 - Does Alejandro reappear?

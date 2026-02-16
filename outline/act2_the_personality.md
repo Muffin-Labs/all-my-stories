@@ -3,7 +3,7 @@
 **POV alternates: Persephone & Démion**
 *Démion mirrors her personality — the Cult of Personality at full power*
 
-**Chapter Epigraphs:** Persephone's chapters open with a quote from "Science and the Cult of Personality" or real-world sources. Démion's chapters use quotes about him or things he said — the world's perception of him, or his own words.
+**Chapter Epigraphs:** Persephone's chapters always use quotes from "Science and the Cult of Personality" (her book). Démion's chapters use quotes about him or things he said — the world's perception of him, or his own words.
 
 ---
 

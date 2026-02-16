@@ -38,7 +38,7 @@
 - Persephone is the Cult of Personality made flesh — she IS the system at its most successful
 - Démion uses narrative warfare: his cheating story preempts hers
 - The retreat center protects its narrative at Persephone's expense
-- Cassandra's instinct is always: control the narrative, fight competing narratives
+- Lauria's instinct is always: control the narrative, fight competing narratives
 - The psych ward: comply with the consensus narrative or be detained
 - The public: consuming narratives about Persephone without ever observing what actually happened
 - The entire media ecosystem IS the Cult of Personality in action
@@ -286,7 +286,7 @@ The Master/Emissary framework is encoded in recurring sensory motifs throughout 
 - This is what Persephone learns:
   - The psych ward: Scientist holds truth, Personality navigates the system
   - Careful speech: Personality as a conscious tool, serving integrity
-  - The Cassandra call: letting the Personality work (empowered woman narrative) while the Scientist holds the real truth inside
+  - The Lauria call: letting the Personality work (empowered woman narrative) while the Scientist holds the real truth inside
 
 ---
 

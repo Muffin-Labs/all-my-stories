@@ -164,7 +164,7 @@
 ### Character References (careful speech now)
 1. **The English Teacher** — saw her gift first. Beautiful letter.
 2. **Alejandro** — emotionally loaded. Now Assoc. Professor at UW. Probably the best letter.
-3. **Cassandra** — powerful, charismatic, wants to be part of the story. Must be managed.
+3. **Lauria** — powerful, charismatic, wants to be part of the story. Must be managed.
 
 ---
 

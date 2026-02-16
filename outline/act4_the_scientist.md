@@ -227,19 +227,19 @@
   - She'd much rather confront the fears than have them chase her
   - Not heroic — just "I'm tired of being afraid"
   - The most practical, unglamorous reason to be courageous
-- **She picks up the phone and calls Cassandra**
+- **She picks up the phone and calls Lauria**
   - The first call. Not the internet, not Démion, not Kathleen.
-  - Cassandra is the gateway back to public life
+  - Lauria is the gateway back to public life
   - Picking up this phone means the machine starts again
 
 **The Call:**
-- Cassandra: "Oh my God, are you OK? Where did you go?"
+- Lauria: "Oh my God, are you OK? Where did you go?"
 - Persephone: she's fine. Needed time. Ready to get back.
 - "Where should we start? What's been going on?"
   - Careful speech applied perfectly
   - No mention of Eric, Mexico, the eco village, the second retreat
   - Just: what's the situation?
-- Cassandra has months of accumulated chaos to download
+- Lauria has months of accumulated chaos to download
 
 ---
 
@@ -271,7 +271,7 @@
 
 ### The Cult Forms
 - The book-within-the-book gets published — co-authored by Persephone and Eric
-- She returns to public life with the "empowered woman" narrative (Cassandra's version)
+- She returns to public life with the "empowered woman" narrative (Lauria's version)
 - Followers start acting from what they think is her teaching
 - A cult forms — people narrating ABOUT her rather than learning to observe
 - **Tragic irony:** her discovery becomes the next narrative people cling to
