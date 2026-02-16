@@ -31,7 +31,7 @@
 - **2.02** — Hurricane night from Démion's side / the pheromones / six weeks of wanting / George & Rosemary visit for opener / George in Cowboys gear / box seats / Démion crushes first NFL game / ready to propose (Démion POV) ✍️
 - **2.03** — Démion proposes one week after opener / Persephoni turns him down — absolutely yes, but after 26 (prefrontal cortex speech, McGilchrist knowledge metabolized from Alejandro, her own vivid imagery) / he has to wait seven years / he hears "yes" and files the rest as logistics (Persephoni POV)
 - **2.04** — First NFL season / the power couple narrative crystallizes / the machine runs perfectly / Persephoni in the WAG section as her own gravitational field / George's phone calls after games / Démion sees magnitude not meaning / she adapts to his schedule without either of them noticing (Démion POV)
-- **2.05** — Playoffs / Super Bowl from the box / George retires to Gulfport / Ashli friendship / the dropped pass (Persephoni POV)
+- **2.05** — Playoffs / Super Bowl from the box / George retires to Gulfport / the trio (Ashli, Kelli, Persephoni) / the dropped pass (Persephoni POV) ✍️
 - **2.06** — The Super Bowl from inside Démion's body / the sensory experience of being the greatest / the dropped pass as first crack (Démion POV)
 - **2.07** — March 2026: Démion leaves Tampa for LA Chargers (McConkey, Harbaugh) / long distance / Persephoni decides to follow, buys her own place in Santa Monica / George's death at chapter's end (Persephoni POV)
 - **2.08** — George's death from Démion's side / he is her rock / football takes a backseat for the first time / she comes first — not a peer to football, but more important than football (Démion POV)
