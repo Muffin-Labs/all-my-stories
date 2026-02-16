@@ -4,7 +4,7 @@
 **Title resonance:**
 - God's message: "I wish I could start at the beginning and tell you all my stories"
 - The influencer life: Instagram is literally "all her stories" — Stories as a feature, her narrative, her content
-- Instagram is Persephone's main platform — no question
+- Instagram is Persephoni's main platform — no question
 - The book's philosophy: personality is made of stories; truth lies beyond them
 - The reader's journey: the book itself is "all my stories" — a novel that contains wisdom
 - "Science and the Cult of Personality" remains the philosophical framework within the book
@@ -15,9 +15,9 @@
 "The truth cannot be found in words. So take this book with a grain of salt."
 
 ### The Book Within the Book
-- In Act 3, Persephone writes a book called **"Science and the Cult of Personality"**
+- In Act 3, Persephoni writes a book called **"Science and the Cult of Personality"**
 - That book contains the philosophical framework — it's where the philosophy gets laid out explicitly
-- "All My Stories" is the novel; "Science and the Cult of Personality" is Persephone's book within it
+- "All My Stories" is the novel; "Science and the Cult of Personality" is Persephoni's book within it
 
 ---
 
@@ -94,16 +94,16 @@
 - Coming-of-age / Harry Potter-ish quality (discovery, wonder) but grounded — not deep magic
 - The story IS the book — philosophy and tools are woven into the narrative
 - Self-help elements embedded naturally through character growth and discovery
-- The book-within-a-book: Persephone writes "Science and the Cult of Personality" in Act 3
+- The book-within-a-book: Persephoni writes "Science and the Cult of Personality" in Act 3
 - Britney Spears parallel — young famous woman publicly "losing her mind" while something deeper is happening
 
 **Key Settings:**
-- Portland, Oregon — where Persephone grew up. Pacific Northwest summers, woods, BLM land behind her childhood home
+- Portland, Oregon — where Persephoni grew up. Pacific Northwest summers, woods, BLM land behind her childhood home
 - Los Angeles / Santa Monica — where she lives as an adult influencer. Her beautiful house, bought at 18.
 - 29 Palms / Joshua Tree — the Vipassana retreat in the desert. Ancient landscape, cold nights, vast stars.
 - Desert Hot Springs — waypoint between LA and the retreat. The pariah moment.
 
-**Platform:** Instagram is Persephone's main platform. "All her stories" = Instagram Stories, her narrative, her content.
+**Platform:** Instagram is Persephoni's main platform. "All her stories" = Instagram Stories, her narrative, her content.
 
 ---
 
@@ -112,13 +112,13 @@
 - **Nullification** — gathering both hemispheric attentions to cancel them out, revealing pure awareness
 - **Toggling** — holding one hemisphere constant to see through the other
 - **Ho'oponopono** — reconciliation practice ("I'm sorry. Please forgive me. I love you. Thank you.")
-- More tools TBD — these surface through Persephone's learning process
+- More tools TBD — these surface through Persephoni's learning process
 
 ---
 
-## The Story of Persephone
+## The Story of Persephoni
 
-### Protagonist: Persephone
+### Protagonist: Persephoni
 - Young woman finding herself in the world
 - Grew up in Portland, Oregon
 - Extremely charismatic and likable — a natural personality
@@ -134,10 +134,10 @@
 ### Supporting Characters
 
 **Kathleen — The Best Friend / The Master Figure**
-- Persephone's best friend since childhood — they grew up together, been best friends their whole lives
+- Persephoni's best friend since childhood — they grew up together, been best friends their whole lives
 - Really loving, kind person
-- But she can't compete with Persephone — she's the "sidekick" in the relationship
-- **Thematic resonance:** Kathleen IS the Master in Persephone's life
+- But she can't compete with Persephoni — she's the "sidekick" in the relationship
+- **Thematic resonance:** Kathleen IS the Master in Persephoni's life
   - The faithful, loving, always-there presence that gets overshadowed by the flashy Emissary
   - The Master lost to the Emissary's shine
   - The broken friendship mirrors what happened internally
@@ -145,26 +145,26 @@
 **Alejandro — The Intellectual / The Emissary Figure**
 - Eastern European name/background
 - Very intellectual — a poet, philosopher type, musician who wrote music
-- Not traditionally attractive to Persephone — skinny guy, too brainy
+- Not traditionally attractive to Persephoni — skinny guy, too brainy
   - She's always been attracted to more masculine/athletic types
   - But he was so smart he drew her in with his poetry and the way he spoke
 - Goes to Stanford at 18
-- He told Persephone about *The Master and His Emissary* by Iain McGilchrist
+- He told Persephoni about *The Master and His Emissary* by Iain McGilchrist
 - He IS the Emissary incarnate in her life — brilliant, verbal, analytical
 
-**The Kathleen–Alejandro–Persephone Triangle (Ages ~14-18):**
+**The Kathleen–Alejandro–Persephoni Triangle (Ages ~14-18):**
 - Kathleen and Alejandro start dating at age 14
-- By 16, they've been together two years; Kathleen tells Persephone she wants to marry him
-- Meanwhile Persephone has been dating a string of football players — the most masculine guys available
-- Age 17: Persephone starts taking off on TikTok and Instagram
-- One night, Persephone and Alejandro hang out one-on-one and "accidentally" have sex
-  - Alejandro confesses: always loved Persephone, never loved Kathleen, was only dating Kathleen to get closer to Persephone — dream come true
+- By 16, they've been together two years; Kathleen tells Persephoni she wants to marry him
+- Meanwhile Persephoni has been dating a string of football players — the most masculine guys available
+- Age 17: Persephoni starts taking off on TikTok and Instagram
+- One night, Persephoni and Alejandro hang out one-on-one and "accidentally" have sex
+  - Alejandro confesses: always loved Persephoni, never loved Kathleen, was only dating Kathleen to get closer to Persephoni — dream come true
   - Alejandro's confession = the Emissary at its most brutal — using a person as a tool
 - **The one-night accident might be forgivable. What follows is not:**
-  - Persephone dates Alejandro for TWO YEARS (ages 16-18)
+  - Persephoni dates Alejandro for TWO YEARS (ages 16-18)
   - Took Kathleen's boyfriend and kept him
   - The Jolene dynamic — "please don't take him just because you can." She took him.
-- **Persephone was never really attracted to Alejandro:**
+- **Persephoni was never really attracted to Alejandro:**
   - Interested in hearing him talk — ideas, poetry, music. Entertainment, not a mate.
   - Fantasized about other men; didn't want to have sex with him
   - Consumed him the way her followers consume her — for the experience, not the person
@@ -175,8 +175,8 @@
   - She felt like she was living the dream.
   - This is how they break up.
 - **The friendship is irreconcilable:**
-  - Kathleen and Persephone are no longer speaking
-  - Kathleen has her own life now; won't answer Persephone's messages
+  - Kathleen and Persephoni are no longer speaking
+  - Kathleen has her own life now; won't answer Persephoni's messages
   - NOT a loose thread to tie up — a real, permanent consequence
   - Some things the personality breaks can't be fixed
 
@@ -189,21 +189,21 @@
   - Unstoppable QB/running back — physical and mental force
   - Academic achievements + built a science-based business in high school
 - The perfect man from all outward appearances
-- Also driven by personality — mirrors Persephone
+- Also driven by personality — mirrors Persephoni
 - The ultimate power couple (Travis Kelce / Taylor Swift equivalent)
 - They date ~4 years (early-to-mid twenties), then marry
 
 **The Yoga Teacher — The Mentor**
 - Pudgy, nerdy, middle-aged, balding, annoying voice — completely uncharismatic
-- Everything Persephone would normally dismiss
+- Everything Persephoni would normally dismiss
 - But radiates calm and centeredness she's drawn to
 - Living proof that what she wants exists outside the personality game
 - Recommends the Vipassana retreat
 - Name and backstory TBD
 
-**Persephone's Mom**
+**Persephoni's Mom**
 - Lives in Portland
-- Flies to Santa Monica when Persephone calls in crisis post-retreat
+- Flies to Santa Monica when Persephoni calls in crisis post-retreat
 - Typical mom — freaked out, doesn't know what to do
 - Inadvertently triggers arrest by telling cops the truth
 - Name and detail TBD
@@ -215,7 +215,7 @@
 **Act 1: Personality (Ages ~14-26)**
 
 *The Rise (~14-18):*
-- Persephone as a teenager in Portland — wildly popular, extremely attractive
+- Persephoni as a teenager in Portland — wildly popular, extremely attractive
 - Everyone wants something from her; she knows how to play the game
 - Best friends with Kathleen since childhood
 - The Kathleen–Alejandro betrayal at ~16
@@ -237,7 +237,7 @@
 **The Breaking Point (Age ~26)**
 
 - **The Wedding Night:**
-  - Démion rapes Persephone on their wedding night
+  - Démion rapes Persephoni on their wedding night
   - She was passed out; he claims to be so drunk he can't remember
   - **The Ambiguity:**
     - She doesn't know the full truth
@@ -338,7 +338,7 @@
 - **Background:** *The Master and His Emissary* by Iain McGilchrist (read before retreat, recommended by Alejandro)
   - Right hemisphere = Master (broad, contextual, generous)
   - Left hemisphere = Emissary (detail-oriented, categorizing, self-interested)
-  - The Emissary has usurped the Master — culturally and in Persephone's life
+  - The Emissary has usurped the Master — culturally and in Persephoni's life
 - **Gathering Both:** mirrors the technique on the other side; gathers both to nostrils
 
 **The Nullification Moment**
@@ -416,7 +416,7 @@
 - Confluence without Emissary's grounding = looks like madness
 
 **The Police Confrontation**
-- Persephone tries the joke story; cops ask mom; **mom tells the truth**
+- Persephoni tries the joke story; cops ask mom; **mom tells the truth**
 - Cops on high alert. Tell her to put hands behind her back.
 - She doesn't understand — puts arms back like a skier. Never been in this position.
 - Cop thinks she's mocking him (knows who she is). Goes to grab her.
@@ -495,11 +495,11 @@
 ## Notes & Scraps
 - The paradox of the opening: a book (words) that says truth can't be found in words
 - Personality floating in a sea of narrative — powerful visual/scene
-- Persephone as influencer = modern myth-making; building narrative for a living
-- The name "Persephone" — descent into the underworld, return transformed
+- Persephoni as influencer = modern myth-making; building narrative for a living
+- The name "Persephoni" — descent into the underworld, return transformed
 - God uses they/them pronouns
 - The Emissary comes with an army (consensus, social pressure). The Master stands alone (truth doesn't need an army).
 - Body cam footage could go viral — feeds cult of personality forming around her
 - Alejandro's tragedy: left genuine love for an illusion
 - "Everyone loses" — the triangle in three words
-- The personality that Persephone consumed was never really interested — he was content to her
+- The personality that Persephoni consumed was never really interested — he was content to her

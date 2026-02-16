@@ -2,9 +2,9 @@
 
 The cop was young. Younger than her, maybe. She could see the acne scars on his jaw in the streetlight and she thought, briefly, absurdly, that she knew a great dermatologist in Beverly Hills, and then she thought how strange it was that her brain was offering skincare recommendations right now.
 
-There were five of them. Her mom had called for an ambulance but what showed up was five police officers and zero paramedics, and Persephone understood, standing there on the sidewalk in her clothes that she'd put back on inside-out and backward because she'd dressed in a hurry when the lights appeared, that this was not a rescue. This was something else.
+There were five of them. Her mom had called for an ambulance but what showed up was five police officers and zero paramedics, and Persephoni understood, standing there on the sidewalk in her clothes that she'd put back on inside-out and backward because she'd dressed in a hurry when the lights appeared, that this was not a rescue. This was something else.
 
-Her mom was talking to one of them. Telling him everything. That her daughter had been acting strange, that she was worried, that she thought something was really wrong. And Persephone watched her mother's mouth moving and realized that her mother — who had come out for the wedding and stayed because she was terrified, who loved her more than anything in the world — was handing her to them. Not out of malice. Out of fear. Her mom didn't know she was triggering a machine. She thought she was getting her daughter help.
+Her mom was talking to one of them. Telling him everything. That her daughter had been acting strange, that she was worried, that she thought something was really wrong. And Persephoni watched her mother's mouth moving and realized that her mother — who had come out for the wedding and stayed because she was terrified, who loved her more than anything in the world — was handing her to them. Not out of malice. Out of fear. Her mom didn't know she was triggering a machine. She thought she was getting her daughter help.
 
 "Ma'am, I need you to put your hands behind your back."
 

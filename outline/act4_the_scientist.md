@@ -1,6 +1,6 @@
 # Act 4: The Scientist (Age 26-27, Nicaragua/Mexico/Washington/LA)
 
-**POV alternates: Persephone & Eric**
+**POV alternates: Persephoni & Eric**
 *Eric mirrors her awakening — the Scientist figure*
 
 **Chapter Epigraphs:** Each chapter opens with a quote from "Science and the Cult of Personality"
@@ -11,7 +11,7 @@
 
 **How She Finds It:**
 - She saw it on someone's Instagram reel — it looked beautiful
-  - Such a Persephone detail: still an Instagram person at her core, but finding something real through the platform
+  - Such a Persephoni detail: still an Instagram person at her core, but finding something real through the platform
 - **Inan Itah** — an eco village on Ometepe Island
   - Ometepe: volcanic island in Lake Nicaragua, the largest lake in Central America
   - Two volcanoes rising out of the water. Ancient, remote, stunning.
@@ -43,12 +43,12 @@
   - Exchanged sex for connection — basically prostituted himself for companionship
   - The tantra workshop reveals the sex was never the problem — the foundation was
   - He's in his own quiet crisis
-- **Neither Eric nor Persephone knows anything about tantra — both beginners**
+- **Neither Eric nor Persephoni knows anything about tantra — both beginners**
 
 ### The Proposition Game (Final Night of Workshop)
 - They go around the room asking each other: "Can I ___?"
 - One question each per person, rotating
-- **Eric's question to Persephone:**
+- **Eric's question to Persephoni:**
   - She asks: "Can I hold your hand?"
   - He says yes
   - He asks: "Can I tell you the truth?"
@@ -57,11 +57,11 @@
   - This is the most honest thing anyone has said to her since the retreat
   - **Why it hits:** Eric does what George never could — tells the truth about himself even when it's ugly
   - Not spinning a narrative. Not charming. Just honest.
-- **Persephone's question to Eric:**
+- **Persephoni's question to Eric:**
   - (Details TBD — but it's equally raw)
 
 ### The Proposition Game — What It Reveals
-- Everyone in the room propositions Persephone for sex — every single person
+- Everyone in the room propositions Persephoni for sex — every single person
 - One person says they know who she is
 - **Even here — even in an eco village on a volcanic island — the personality machine finds her**
 - But Eric didn't proposition her for sex. He asked to tell her the truth.
@@ -69,17 +69,17 @@
 ### Eric and Erica's Fight (Eric POV)
 - When Eric finds out about the game's aftermath, he goes to Erica
 - **Important context:**
-  - Erica does NOT know about Eric's tantra exercise confession to Persephone
-  - She only knows that everyone wants Persephone
+  - Erica does NOT know about Eric's tantra exercise confession to Persephoni
+  - She only knows that everyone wants Persephoni
   - Eric and Erica are in an open relationship
 - **Eric's hints (but not the truth):**
   - He talks around it. Uses metaphors.
   - To Erica: "we've made too many compromises in the relationship"
   - To Eric: "I feel compromised — like I've prostituted myself"
-  - He told Persephone the truth. He won't tell Erica.
+  - He told Persephoni the truth. He won't tell Erica.
 - **The game question:**
-  - In the proposition game, the question was asked: "Can Eric and Persephone have sex?"
-  - Erica says no — propositioning Persephone makes her uncomfortable
+  - In the proposition game, the question was asked: "Can Eric and Persephoni have sex?"
+  - Erica says no — propositioning Persephoni makes her uncomfortable
   - Eric pushes back — insists this is exactly why they had an open relationship
 - **Erica leaves:**
   - She catches the vibe — something has shifted in Eric
@@ -87,7 +87,7 @@
   - She leaves the eco village. Goes into town. It's over (or nearly).
 
 ### Erica Leaving = The Kathleen Echo
-- **Persephone recognizes the pattern:**
+- **Persephoni recognizes the pattern:**
   - A woman leaves because someone she trusted chose someone else
   - This is what she did to Kathleen
   - The universe is showing her the same scene from the other side
@@ -96,12 +96,12 @@
 - **But this time it's different:**
   - Eric was honest (Alejandro wasn't — Alejandro was strategic)
   - The relationship was already dying (Alejandro and Kathleen were in love — or Kathleen was)
-  - Persephone didn't pursue Eric — the truth just happened
+  - Persephoni didn't pursue Eric — the truth just happened
   - The pattern rhymes but it doesn't repeat exactly
 
 ### Eric's Night (Eric POV)
 - After Erica leaves:
-  - Asks Persephone to come back to Erica's cabin (Erica is gone, in town)
+  - Asks Persephoni to come back to Erica's cabin (Erica is gone, in town)
   - They DON'T have sex
   - They talk. All night. About everything.
   - He tells her about AI, about consciousness, about curiosity as survival
@@ -121,7 +121,7 @@
 
 **Eric's POV Chapters Here:**
 - His own story: childhood, curiosity as survival, the consulting life, psychedelic experiences
-- How he sees Persephone — not as a brand, not as a celebrity
+- How he sees Persephoni — not as a brand, not as a celebrity
   - Falling in love with someone he's trying not to put on a pedestal
   - He knows the danger of the cult of personality — he's studied it in AI systems
   - He sees how people project onto her and he's trying not to do the same
@@ -139,7 +139,7 @@
 - The book-within-the-book begins to take shape
 
 **Months in Mexico:**
-- Persephone is completely offline. No social media. No public life.
+- Persephoni is completely offline. No social media. No public life.
 - Just two people in a courtyard, writing, talking, falling in love
 - The longest she's ever gone without performing for an audience
 - She's discovering who she is without the personality machine
@@ -151,7 +151,7 @@
 
 - They travel to Oaxaca
 - In a market or restaurant, an old Spanish man recognizes her
-- "You're Persephone, aren't you?"
+- "You're Persephoni, aren't you?"
 - Reality catches up. The world she left behind is still out there, still talking about her.
 - **Eric's response** (Eric POV):
   - How he handles the moment — protective? Curious? Does he see the personality machine activate?
@@ -163,20 +163,20 @@
 ## The Second Retreat — Washington State
 
 **The Setup:**
-- Persephone wants to do another Vipassana — this time with Eric
+- Persephoni wants to do another Vipassana — this time with Eric
 - They go to Washington State (near Seattle? Alejandro's territory?)
 - She's been once before. He's never done it.
 - **Why this matters:** replication by a second observer. Proof it's not just her.
 
 **Eric's POV — His Own Master Awakening:**
-- Eric goes through his own version of what Persephone experienced
+- Eric goes through his own version of what Persephoni experienced
 - Different flavor — he's a scientist, not a mystic. His mind works differently.
 - Creative grief: mourning the version of himself that relied on analysis for everything
 - The Emissary voluntarily stepping aside — the scientist discovering the limits of science
 - He doesn't have the same supernatural experiences. But he has his own.
-- When he describes them to Persephone, she recognizes the territory.
+- When he describes them to Persephoni, she recognizes the territory.
 
-**Persephone's Second Retreat:**
+**Persephoni's Second Retreat:**
 - Deeper this time. More stable. Less dramatic.
 - She knows the terrain. She's not in crisis.
 - The second retreat is about integration, not breaking open.
@@ -201,7 +201,7 @@
 - **"The Portland Era"** — before fame, before Alejandro, before any of it
 
 **The Conversation on the Train:**
-- Eric and Persephone, hours of quiet conversation as the landscape scrolls by
+- Eric and Persephoni, hours of quiet conversation as the landscape scrolls by
 - The culmination of everything they've been building
 - She says something like: "I don't know what to do when we get back."
 - He says something like: "I'll be right there by your side."
@@ -234,7 +234,7 @@
 
 **The Call:**
 - Lauria: "Oh my God, are you OK? Where did you go?"
-- Persephone: she's fine. Needed time. Ready to get back.
+- Persephoni: she's fine. Needed time. Ready to get back.
 - "Where should we start? What's been going on?"
   - Careful speech applied perfectly
   - No mention of Eric, Mexico, the eco village, the second retreat
@@ -270,7 +270,7 @@
 ## Remaining Threads (Sequel Territory / Implied)
 
 ### The Cult Forms
-- The book-within-the-book gets published — co-authored by Persephone and Eric
+- The book-within-the-book gets published — co-authored by Persephoni and Eric
 - She returns to public life with the "empowered woman" narrative (Lauria's version)
 - Followers start acting from what they think is her teaching
 - A cult forms — people narrating ABOUT her rather than learning to observe

@@ -39,9 +39,9 @@ Audit the chapter against each of the following criteria. For each, go section b
 - Rate each section: STRONG / ADEQUATE / WEAK
 
 ### 5. Sheepey Convention (if Sheepey appears)
-- Kathleen and Persephone never speak AS Sheepey (no first-person Sheepey voice, no dialogue in his "voice")
+- Kathleen and Persephoni never speak AS Sheepey (no first-person Sheepey voice, no dialogue in his "voice")
 - They discuss Sheepey in third person, directed to each other or someone else
-- The Sheepey bit is telling stories ABOUT him — his history, his adventures, the things he's done, his ridiculous life before Persephone found him at Stonehenge
+- The Sheepey bit is telling stories ABOUT him — his history, his adventures, the things he's done, his ridiculous life before Persephoni found him at Stonehenge
 - Sheepey does NOT have opinions about current events, lockdown, or things happening around the characters. If he has opinions, they're about timeless absurdities (Victorian horse breeds, the quality of wool in Salisbury, a complicated history with a particular terrier)
 - Sheepey never "delivers" lines, never "asserts himself," never "speaks." The girls narrate his world. The comedy is in THEIR telling, not in his voice.
 - The one exception: the song "Stone-HENGE" where Sheepey has a sung voice. This is the ONLY exception.

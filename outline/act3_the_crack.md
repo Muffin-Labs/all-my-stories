@@ -1,13 +1,13 @@
 # Act 3: The Crack (Age 26, Desert/Santa Monica)
 
-**POV alternates: Persephone & Rosemary**
+**POV alternates: Persephoni & Rosemary**
 *Rosemary mirrors her blindness — the gaslighting chain comes full circle*
 
 **Chapter Epigraphs:** Each chapter opens with a quote from "Science and the Cult of Personality"
 
 ---
 
-## Desert Hot Springs — The Pariah Moment (Persephone POV)
+## Desert Hot Springs — The Pariah Moment (Persephoni POV)
 - On her way to the retreat, she stops at Desert Hot Springs
 - Nobody approaches her — no selfies, no fans. People actively avoid eye contact.
 - For the first time in her life: a pariah
@@ -15,7 +15,7 @@
 
 ---
 
-## The Vipassana Retreat (29 Palms) — Persephone POV
+## The Vipassana Retreat (29 Palms) — Persephoni POV
 
 ### Arrival & Setting
 - Arrives desperate; commits fully despite terror. Total surrender.
@@ -44,7 +44,7 @@
 
 ## MEANWHILE: Rosemary at the Santa Monica House — Rosemary POV
 
-*[Intercut with retreat — Persephone finding peace, Rosemary falling apart]*
+*[Intercut with retreat — Persephoni finding peace, Rosemary falling apart]*
 
 - Rosemary came for the wedding. Then her daughter vanished. No phone. No note. Gone.
 - **Day 1-2:** Assumes she'll hear from her. Nothing.
@@ -59,7 +59,7 @@
 
 ---
 
-## Post-Retreat: The Psychedelic Crisis (Santa Monica) — Persephone POV
+## Post-Retreat: The Psychedelic Crisis (Santa Monica) — Persephoni POV
 
 - Reality goes strange — psychedelic space, stone cold sober
 - Right brain fully online after lifetime suppression — can't turn it down
@@ -75,22 +75,22 @@
 - Daughter bald, talking about God. From Rosemary's perspective: emergency.
 - Tries to calm her (bed, movies). Doing what George would do — managing the narrative.
 
-### First Confluence — Persephone POV
+### First Confluence — Persephoni POV
 - Movie with Rosemary. Can't stop toggling. A groove to every word and action.
 
 ---
 
-## The Naked Walk — Persephone POV / Rosemary POV
+## The Naked Walk — Persephoni POV / Rosemary POV
 - "We shouldn't be ashamed of our bodies." Strips naked, Santa Monica, ~8 PM.
 - Rosemary calls 911 — wants EMTs. **Rosemary POV:** terrified, doing the only thing she knows.
 - Emissary wakes, spins joke story. Clothed by arrival. 5 cop cars.
 
-## The Police Confrontation — Persephone POV
+## The Police Confrontation — Persephoni POV
 - Mom tells the truth → triggers the system
 - "Hands behind your back" — she doesn't understand
 - Officer grabs her; cops swarm, throw her down
 
-## The Slippery Moment — Persephone POV
+## The Slippery Moment — Persephoni POV
 - On the ground. Outraged. Cops CANNOT lift her. Five minutes.
 - The vision: escape path. But what about the guns? She lets them pick her up.
 - First Master–Emissary cooperation. First unambiguously supernatural Confluence event.
@@ -99,21 +99,21 @@
 
 ---
 
-## The Jail Cell — Persephone POV
+## The Jail Cell — Persephoni POV
 - Tiny cell, alone. Asks for water → fast food voice.
 - **Fast Food Vision:** personal thirst → global injustice
 - **The Door:** tries to push it off hinges. It doesn't budge. Confluence ≠ superpower.
 
-## The Holding Cell — Mural Vision & Balancing Experiment — Persephone POV
+## The Holding Cell — Mural Vision & Balancing Experiment — Persephoni POV
 - **Mural:** Blue/Emissary = Alejandro. Red/Master = Kathleen.
 - **Balancing Experiment:** nullifying each hemisphere, watching effect on two men's conversation
 - **Discovery: Dynamic Calibration** — constantly adapting, like sailing
 
 ---
 
-## The Psych Ward — Persephone POV (intercut Rosemary POV)
+## The Psych Ward — Persephoni POV (intercut Rosemary POV)
 
-### Persephone's Experience
+### Persephoni's Experience
 - Perceives everyone as from the future. End-of-world conspiracy.
 - Real data, delusional interpretation. Personality can't stop being a personality.
 
@@ -142,20 +142,20 @@
 
 ---
 
-## The Two Trees — Persephone POV
+## The Two Trees — Persephoni POV
 - The Scarred Tree: personality as response to wounds
 - The Untouched Tree: being without a story about itself
 - **Personality as Scar Tissue**
 
 **PROSE WRITTEN:** See `scene_two_trees.md`
 
-## The Car Ride — Persephone & Rosemary POV
+## The Car Ride — Persephoni & Rosemary POV
 - Mom takes her to the ER. "Don't panic... unless you have a very, very good reason."
-- Persephone demonstrating integration. Everyone thinks she's lost her mind.
+- Persephoni demonstrating integration. Everyone thinks she's lost her mind.
 
 ---
 
-## The Legal Battle — Persephone POV
+## The Legal Battle — Persephoni POV
 
 ### The Retreat Center Betrayal
 - Contacts center for a letter. Tells them full truth. They REFUSE. Blame LSD.
@@ -168,7 +168,7 @@
 
 ---
 
-## The First Rest — Persephone POV
+## The First Rest — Persephoni POV
 
 - Lies down. Looks at ceiling. Cries.
 - First moment of rest since the wedding night.
@@ -176,4 +176,4 @@
 - She needs a vacation. Somewhere nobody will recognize her.
 - With a shaved head, the thing that horrified everyone becomes her disguise.
 
-**Act 3 ends with:** Persephone free but alone. Ready to run.
+**Act 3 ends with:** Persephoni free but alone. Ready to run.

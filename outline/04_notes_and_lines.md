@@ -9,12 +9,12 @@
 - **"True science is play."** (Book theme)
 - **"The Personality has never experienced being seen without wanting something from the seeing."** (Science & the Cult of Personality)
 - **"Don't panic... unless you have a very, very good reason."** (Car ride to hospital — tongue-in-cheek philosophical checkmate: if you actually engage with what constitutes a "good reason" to panic, you discover there isn't one)
-- **"If you want to keep running forever, I'll be right there by your side. And if you get tired, you can jump on my back."** (Eric to Persephone on the train — no fixing, no agenda, just presence)
+- **"If you want to keep running forever, I'll be right there by your side. And if you get tired, you can jump on my back."** (Eric to Persephoni on the train — no fixing, no agenda, just presence)
 - **"The story of a woman learning to open her hands."** (The whole book as metaphor — from grasping to gathering, from closed fist to open arms)
 - **"Does it even count if you're married?"** (Démion, wedding night — not a question. It's a man who has never truly seen another person as real the way he is real.)
-- **Démion loves Démion most of all.** Persephone, though usually first, always has a partner, a peer. Démion considers himself peerless. She keeps reaching for the peer and finding only the reflection.
-- **Sheepey** (shee-PAY) — stuffed sheep from Stonehenge gift shop. The opening image. Pure play. The character Persephone and Kathleen create together. A bit of a drunk, loves to gamble, from Stonehenge. Recurring motif — relic of who she was before.
-- **"Oh, that doesn't hurt. You're just tender headed."** (Rosemary braiding young Persephone's hair — core memory of gaslighting. The first time her experience was overwritten by someone else's narrative. Template for everything that follows.)
+- **Démion loves Démion most of all.** Persephoni, though usually first, always has a partner, a peer. Démion considers himself peerless. She keeps reaching for the peer and finding only the reflection.
+- **Sheepey** (shee-PAY) — stuffed sheep from Stonehenge gift shop. The opening image. Pure play. The character Persephoni and Kathleen create together. A bit of a drunk, loves to gamble, from Stonehenge. Recurring motif — relic of who she was before.
+- **"Oh, that doesn't hurt. You're just tender headed."** (Rosemary braiding young Persephoni's hair — core memory of gaslighting. The first time her experience was overwritten by someone else's narrative. Template for everything that follows.)
 - **"How The Light Gets In"** — Leonard Cohen: "There's a crack in everything, that's how the light gets in." Name of the philosophy festival where she first encounters McGilchrist without knowing it. The thesis of the entire book.
 - **"I'm sorry. Please forgive me. I love you. Thank you."** (Ho'oponopono)
 
@@ -24,14 +24,14 @@
 
 - The paradox of the opening: a book (words) that says truth can't be found in words
 - Personality floating in a sea of narrative — powerful visual/scene for the novel
-- Persephone as influencer = modern myth-making; building narrative for a living
-- The name "Persephone" — descent into the underworld, return transformed
+- Persephoni as influencer = modern myth-making; building narrative for a living
+- The name "Persephoni" — descent into the underworld, return transformed
 - God uses they/them pronouns throughout
 - The Emissary comes with an army (consensus, social pressure). The Master stands alone (truth doesn't need an army).
 - Alejandro's tragedy: left genuine love for an illusion. The Emissary abandoned the Master for the personality.
 - "Everyone loses" — the triangle in three words
 - Desert Hot Springs (devastating aloneness) vs. desert night at retreat (liberating aloneness) — same experience, transformed relationship
-- The personality Persephone consumed Alejandro as was never really interested — he was content to her
+- The personality Persephoni consumed Alejandro as was never really interested — he was content to her
 - Body cam footage of the slippery moment could go viral — feeds cult of personality forming around her
 
 ---
@@ -60,7 +60,7 @@
 - "The left hemisphere, though unaware of its dependence, could be thought of as an 'emissary' of the right hemisphere... However it turns out that the emissary has his own will, and secretly believes himself to be superior to the Master."
 - Evolutionary basis: left brain for predatory grasping/focus; right brain for broad environmental awareness
 - McGilchrist argues the left hemisphere is increasingly dominant with potentially disastrous consequences
-- Persephone reads this book before the retreat, recommended by Alejandro
+- Persephoni reads this book before the retreat, recommended by Alejandro
 
 ### Vipassana Meditation
 - 10-day silent retreat tradition
@@ -73,10 +73,10 @@
 - Hawaiian reconciliation practice
 - Four phrases: "I'm sorry. Please forgive me. I love you. Thank you."
 - Used for healing relationships — including relationship with self
-- Persephone knew it before the retreat at a surface level; uses it for real directed inward
+- Persephoni knew it before the retreat at a surface level; uses it for real directed inward
 
 ### Tarot — Wands vs. Cups
 - Wands: fire element, action, will, force, directed energy — you GRIP a wand
 - Cups: water element, emotion, receptivity, intuition — you HOLD a cup, create a vessel
-- Persephone has a custom tarot deck; does readings for followers
+- Persephoni has a custom tarot deck; does readings for followers
 - The grasping/gathering discovery maps directly onto wands/cups

@@ -33,7 +33,7 @@ Every chapter must be audited against these before considered complete:
 - Humor and heartbreak should coexist — this book is funny and devastating simultaneously
 
 ### 5. Sheepey Convention
-- Kathleen and Persephone never speak AS Sheepey (no first-person Sheepey voice, no dialogue in his "voice")
+- Kathleen and Persephoni never speak AS Sheepey (no first-person Sheepey voice, no dialogue in his "voice")
 - They discuss Sheepey in third person, always directed to each other or someone else
 - "He thinks it's a bit rustic" not "I say, rather rustic"
 - The Sheepey bit is telling stories ABOUT him — his history, adventures, his life before Stonehenge. Not opinions about current events or things happening around the characters. If he has opinions, they're about timeless absurdities (Victorian horse breeds, the quality of wool in Salisbury)
@@ -43,7 +43,7 @@ Every chapter must be audited against these before considered complete:
 ### 6. Character Voice Consistency
 - Each POV has a distinct internal voice; each character has a distinct dialogue voice (see outline/characters.md for physical reference AND dialogue voice guide)
 - Alejandro: technical, taxonomic, classifying, effortfully poetic
-- Persephone: intuitive, sensory, playful, effortlessly insightful
+- Persephoni: intuitive, sensory, playful, effortlessly insightful
 - Démion: TBD
 - Rosemary: TBD
 - Eric: TBD
@@ -63,11 +63,11 @@ The following symbolic pairs represent the Master and Emissary throughout the bo
 
 **Stone** stays. It labels, holds, endures. Stonehenge is the first stone — built to be listened to, but everyone just looks at it. Stone is the Emissary's gift (structure, permanence) and its trap (rigidity, weight).
 
-**Red** is warmth, blood, the body, direct perception. It appears in firelight, sunsets, Persephone's curls turning copper in lantern light. It should be present before the mural names it.
+**Red** is warmth, blood, the body, direct perception. It appears in firelight, sunsets, Persephoni's curls turning copper in lantern light. It should be present before the mural names it.
 
 **Blue** is cool, cerebral, classification. It appears in sky, water, Alejandro's intellectual gaze. It should be present before the mural names it.
 
-The pairs should never be explained in the prose. They accumulate so the reader feels the pattern before the mural confirms it. After the mural, they can be used more consciously by Persephone.
+The pairs should never be explained in the prose. They accumulate so the reader feels the pattern before the mural confirms it. After the mural, they can be used more consciously by Persephoni.
 
 ## Key Files
 - `outline/structure.md` — master chapter list and status

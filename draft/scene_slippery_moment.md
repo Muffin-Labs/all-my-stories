@@ -2,7 +2,7 @@
 
 The cop was young. Younger than her, maybe. She could see the acne scars on his jaw in the streetlight and she thought, briefly, absurdly, that she knew a great dermatologist in Beverly Hills, and then she thought how strange it was that her brain was offering skincare recommendations while she was being arrested.
 
-There were five of them. Her mom had called for an ambulance but what showed up was five police officers and zero paramedics, and Persephone understood, standing there on the sidewalk in her clothes that she'd put back on inside-out and backward because she'd dressed in a hurry when the lights appeared, that this was not a rescue. This was something else.
+There were five of them. Her mom had called for an ambulance but what showed up was five police officers and zero paramedics, and Persephoni understood, standing there on the sidewalk in her clothes that she'd put back on inside-out and backward because she'd dressed in a hurry when the lights appeared, that this was not a rescue. This was something else.
 
 "Ma'am, I need you to put your hands behind your back."
 
