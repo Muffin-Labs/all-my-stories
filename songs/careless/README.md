@@ -70,7 +70,7 @@ I was careless<br>
 | *I would need you to understand* | Asking for comprehension | The Emissary's permanent plea — the belief that if he can just explain it right, the feeling will follow. It never does. |
 | *Like I'd measured the dark* | As if he'd planned it | He didn't plan the yurt. He didn't plan closing his eyes. The carelessness wasn't calculated — it was the absence of calculation, the Emissary failing at the one moment it needed to succeed. |
 | *The room with the two of you near* | A simple desire for closeness | The yurt. The three of them. The territory on the map. Before. |
-| *I was careless* | Admission of fault | Persephoni's word. From the castle. "That's not brave. That's just careless." Returned as confession. |
+| *I was careless* | Admission of fault | Persefoni's word. From the castle. "That's not brave. That's just careless." Returned as confession. |
 
 ---
 
@@ -78,8 +78,8 @@ I was careless<br>
 
 **The public:** A song about a guy who had something good — two people he loved, a room they shared — and lost it through carelessness. Universal. Everyone's had a version of this. The beat makes you move. The lyrics make you ache. You don't need to know the story.
 
-**Persephoni:** She hears the title and knows. *Careless.* Her word. The word she threw at him on a staircase in a ruined castle. He caught it and turned it into this — not a defense, not an excuse, an elegy. "The room with the two of you near" is the yurt. "The walls worn thin" is the canvas. "I was careless" is him saying: *you were right.* She dances to it and the dancing is her answer: *I hear you.*
+**Persefoni:** She hears the title and knows. *Careless.* Her word. The word she threw at him on a staircase in a ruined castle. He caught it and turned it into this — not a defense, not an excuse, an elegy. "The room with the two of you near" is the yurt. "The walls worn thin" is the canvas. "I was careless" is him saying: *you were right.* She dances to it and the dancing is her answer: *I hear you.*
 
-**Kathleen:** She hears a beautiful sad song by the boy she loves. She probably cries. She probably says "that's beautiful, babe." She doesn't hear the yurt. She doesn't hear the castle. She doesn't hear "careless" as anything other than a word in a song. The gap between what Kathleen hears and what Persephoni hears is the same gap as the Weakerthans cat song — and it's six feet wide.
+**Kathleen:** She hears a beautiful sad song by the boy she loves. She probably cries. She probably says "that's beautiful, babe." She doesn't hear the yurt. She doesn't hear the castle. She doesn't hear "careless" as anything other than a word in a song. The gap between what Kathleen hears and what Persefoni hears is the same gap as the Weakerthans cat song — and it's six feet wide.
 
 **Alejandro:** He knows exactly what every line means. He classified it while writing it. He can map every lyric to its source, annotate every metaphor, explain the structure. And none of that knowledge makes the song less true. This is the one time the Emissary's precision serves the Master — because the song works not despite the careful construction but through it. The maps are wrong, but the music is right. Amateur cartography at its best.

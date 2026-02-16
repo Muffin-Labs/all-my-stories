@@ -70,4 +70,4 @@ Beige provides the **emotional register** for Stone-HENGE — the raw, unguarded
 
 ### The Tension
 
-The song works for the novel because Beige's emotional DNA — the desire to possess all of someone, the intimacy that blinds — lives inside Stone-HENGE's gift shop vocabulary. "I cannot see the edge" is "I fail to see your faults" translated through wool and shelves, but the blindness is the same blindness. Alejandro's genuinely beautiful desire to see the real Persephoni AND the Emissary's drive to possess what it catalogs. The song is his best self and his blindest self simultaneously.
+The song works for the novel because Beige's emotional DNA — the desire to possess all of someone, the intimacy that blinds — lives inside Stone-HENGE's gift shop vocabulary. "I cannot see the edge" is "I fail to see your faults" translated through wool and shelves, but the blindness is the same blindness. Alejandro's genuinely beautiful desire to see the real Persefoni AND the Emissary's drive to possess what it catalogs. The song is his best self and his blindest self simultaneously.

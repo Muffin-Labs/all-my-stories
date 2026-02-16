@@ -35,12 +35,12 @@
   - You get lost in the games because those are the only games you know exist
 
 **In the Novel:**
-- Persephoni is the Cult of Personality made flesh — she IS the system at its most successful
+- Persefoni is the Cult of Personality made flesh — she IS the system at its most successful
 - Démion uses narrative warfare: his cheating story preempts hers
-- The retreat center protects its narrative at Persephoni's expense
+- The retreat center protects its narrative at Persefoni's expense
 - Lauria's instinct is always: control the narrative, fight competing narratives
 - The psych ward: comply with the consensus narrative or be detained
-- The public: consuming narratives about Persephoni without ever observing what actually happened
+- The public: consuming narratives about Persefoni without ever observing what actually happened
 - The entire media ecosystem IS the Cult of Personality in action
 
 ### Grasping vs. Gathering — The Foundational Attention Skill
@@ -58,7 +58,7 @@
   - Ease. Play. Observation without agenda.
 
 **The Tarot Connection — Cups and Wands:**
-- Persephoni already has vocabulary for this through tarot — she just didn't know it was experiential
+- Persefoni already has vocabulary for this through tarot — she just didn't know it was experiential
 - **Cups** = gathering, receiving, holding open space
   - The cup is open — it receives what's poured into it
   - Feminine, receptive, allowing
@@ -124,7 +124,7 @@
   - It's EASIER because there's nothing to protect
 
 **The Scientist as the Root of Integrity:**
-- The Scientist is what Persephoni was engaging with when she refused to compromise her integrity
+- The Scientist is what Persefoni was engaging with when she refused to compromise her integrity
 - Even in trying to escape the psych ward — she could have lied ("I was crazy, medication fixed me")
 - But the Scientist wouldn't let her. She found a way to navigate without compromising truth.
 - **Integrity = the Scientist holding the line**
@@ -150,7 +150,7 @@
 **They are NOT the same framework:**
 - Master/Emissary = hemispheric, neurological, about perception and attention
 - Scientist/Personality = behavioral, practical, about how you operate in the world
-- "Science and the Cult of Personality" is what Persephoni and Eric arrive at by EXPLORING McGilchrist
+- "Science and the Cult of Personality" is what Persefoni and Eric arrive at by EXPLORING McGilchrist
 - They went THROUGH the Master/Emissary framework and came out with something different
 
 **The Scientist is NOT the right brain. The Personality is NOT the left brain:**
@@ -169,10 +169,10 @@
 - McGilchrist: the Emissary (left brain) was meant to serve the Master (right brain) but usurped it
 - Science & Personality: the Personality was meant to serve the Scientist but took over
 - Same dynamic of usurpation, operating at a different level
-- McGilchrist describes it neurologically; Persephoni and Eric describe it behaviorally
+- McGilchrist describes it neurologically; Persefoni and Eric describe it behaviorally
 
 **The book within the book:**
-- "Science and the Cult of Personality" is Persephoni and Eric's synthesis
+- "Science and the Cult of Personality" is Persefoni and Eric's synthesis
 - It's not McGilchrist — it's what they discovered by going through McGilchrist
 - A practical, universal framework that anyone can use
 - The Master/Emissary is the map they used to explore; the Scientist/Personality is the territory they found
@@ -204,7 +204,7 @@ The Master/Emissary framework is encoded in recurring sensory motifs throughout 
 **Kathleen / Alejandro:**
 - Kathleen lives in the Master's territory — intuitive, relational, present. She can't explain why she knows things. She just knows.
 - Alejandro lives in the Emissary's territory — classifying, labeling, building frameworks. He can explain everything except how to feel it.
-- Neither is complete alone. The mural shows Persephoni that she needs both.
+- Neither is complete alone. The mural shows Persefoni that she needs both.
 
 ---
 
@@ -223,7 +223,7 @@ The Master/Emissary framework is encoded in recurring sensory motifs throughout 
   - The observer, the witness, the one who sees before naming
 
 ### The Personality in the Novel
-- Persephoni IS the Cult of Personality made flesh
+- Persefoni IS the Cult of Personality made flesh
   - Hundreds of millions of followers
   - Her entire life is narrative: brand, image, story, performance
   - She navigates every situation by narrating it — even relationships
@@ -283,7 +283,7 @@ The Master/Emissary framework is encoded in recurring sensory motifs throughout 
 - The Personality is essential — it's how we communicate, plan, navigate social reality
 - The goal is to put the Scientist in the lead position
 - Scientist observes → Personality narrates (grounded in observation)
-- This is what Persephoni learns:
+- This is what Persefoni learns:
   - The psych ward: Scientist holds truth, Personality navigates the system
   - Careful speech: Personality as a conscious tool, serving integrity
   - The Lauria call: letting the Personality work (empowered woman narrative) while the Scientist holds the real truth inside
@@ -308,7 +308,7 @@ The Master/Emissary framework is encoded in recurring sensory motifs throughout 
 - Not effort. Not grinding. Not proving.
 - Curiosity, experimentation, "what if?"
 - Kids do this naturally. Adults have to remember how.
-- The retreat was play — Persephoni experimenting with attention like a kid
+- The retreat was play — Persefoni experimenting with attention like a kid
 
 ### Observe Before You Narrate
 - The single most important practice
@@ -329,12 +329,12 @@ The Master/Emissary framework is encoded in recurring sensory motifs throughout 
 
 | Philosophy | Novel Expression |
 |---|---|
-| Cult of Personality | Persephoni's influencer life, followers, brand |
+| Cult of Personality | Persefoni's influencer life, followers, brand |
 | Inner Scientist | The attention tools discovered at retreat |
 | Observe before narrate | Gathering vs. grasping attention |
 | Personality as tool | Careful speech, navigating psych ward |
 | Science is play | Experimenting in holding cell, retreat discoveries |
-| Everyone is a scientist | Eric's philosophy; Persephoni was already a scientist |
+| Everyone is a scientist | Eric's philosophy; Persefoni was already a scientist |
 | Narrative isn't reality | The gap between public story and private truth |
 | Integration | Scientist leads, Personality serves — the ending |
 
@@ -345,14 +345,14 @@ The Master/Emissary framework is encoded in recurring sensory motifs throughout 
 - What's the role of the body? The first orgasm scene suggests the Scientist has a somatic component
 - How does Ho'oponopono fit the framework? Is it a Scientist or Personality practice?
 - What's the relationship between this framework and existing traditions (Buddhism, tantra, neuroscience)?
-- The title "All My Stories" — is Persephoni recognizing that even her enlightenment is a story?
+- The title "All My Stories" — is Persefoni recognizing that even her enlightenment is a story?
 
 ## Confluence — The Mystery
 
 - Confluence is NOT a tool, not a technique, not the result of integration
 - It's the current underneath everything — the Dharma, the Way, the mystery
 - You can't manufacture it. You can't use it on command.
-  - Persephoni learned this when she tried to push the jail cell door — it doesn't work that way
+  - Persefoni learned this when she tried to push the jail cell door — it doesn't work that way
 - It appears, it guides, it disappears
 - The book keeps pointing at it without ever pinning it down
 - **That IS the teaching:** some things can only be experienced, never explained

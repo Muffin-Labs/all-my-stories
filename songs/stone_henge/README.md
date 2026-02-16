@@ -1,7 +1,7 @@
 # "Stone-HENGE" — & Amateur Cartography
 
 **Written by:** Alejandro Rodriguez
-**Performed:** Live, loop station, September 2020. Built in real time for Persephoni in his bedroom studio.
+**Performed:** Live, loop station, September 2020. Built in real time for Persefoni in his bedroom studio.
 **Style:** Beige by Yoke Lore — plucked strings, banjo-register, building layers, raw and wobbly and warm. Not the electronic pulse of "Careless." Folk-vulnerable. Each loop added live, the song assembling itself in the room, intimate and unproduced. The kind of song that sounds like someone sitting across from you and deciding, mid-sentence, to tell you the truest thing they know.
 
 **Structure:** Two voices, layered on the loop station, present from the start. Not sequential — not Sheepey then Alejandro. Simultaneous. The same lyrics sung by both, the same mouth carrying both, the way a chord carries two notes that are distinct and inseparable. The loop station builds them on top of each other. By the choir section the two voices have multiplied into many but the two-ness is still audible underneath — the grateful voice and the hungry voice, braided together, and the braiding is the song.
@@ -10,7 +10,7 @@
 
 ## The Two Voices
 
-This is not the Sheepey that Persephoni and Kathleen perform — the posh-drunk voice, the "he finds it somewhat indelicate" bit, the comedy version they built together in the car and the bedroom and the gift shop. That Sheepey is their loving caricature. Their exaggeration of the best parts.
+This is not the Sheepey that Persefoni and Kathleen perform — the posh-drunk voice, the "he finds it somewhat indelicate" bit, the comedy version they built together in the car and the bedroom and the gift shop. That Sheepey is their loving caricature. Their exaggeration of the best parts.
 
 This is Sheepey's *actual* voice. The one underneath the impression. And layered with it — under it, through it, inseparable from it — is Alejandro's.
 
@@ -36,11 +36,11 @@ Sheepey says: *don't put me back on the shelf.* Alejandro says: *don't stop, don
 
 The grateful voice and the hungry voice negotiate the same words. The gratitude wants nothing in return — it's pure, it's the creature thanking the creator. The hunger wants everything — it's the boy who has been filing this desire for months and the file is full and the system is breaking and he needs her to know, needs her to feel it, needs her to close the distance.
 
-And Persephoni — sitting on the bed, hearing this — hears the gratitude. The Sheepey voice. The creature who was nothing and is now someone. Nobody has ever been grateful for the thing she does — the breathing-life-into-things, the making-real. The gratitude is so enormous and so true that it drowns out the hunger underneath. She hears "you made me real" and it's the truest thing anyone has ever said about her. She doesn't hear "and now I want to devour you."
+And Persefoni — sitting on the bed, hearing this — hears the gratitude. The Sheepey voice. The creature who was nothing and is now someone. Nobody has ever been grateful for the thing she does — the breathing-life-into-things, the making-real. The gratitude is so enormous and so true that it drowns out the hunger underneath. She hears "you made me real" and it's the truest thing anyone has ever said about her. She doesn't hear "and now I want to devour you."
 
 The hunger is in the other layer. It's in the loop underneath. It's the note you don't hear until someone points it out, and then you can't unhear it. And by the time the two voices converge in the bridge — by the time she can't tell if it's the sheep or the boy — the distance is already closing, and the closing feels like being seen, and the being seen is real, and the starving is also real, and she can't tell the difference because the difference has collapsed, and the collapsing is the kiss.
 
-Persephoni has never heard this voice — either of them. She built Sheepey as comedy. Alejandro heard the person inside the comedy. This is the first time anyone has given the character back to her as real. And it's the first time Alejandro has let the hunger live outside the notebook — except it's dressed as a sheep, so it doesn't look like hunger. It looks like a song about a stuffed animal. The disguise is perfect. The disguise is the point.
+Persefoni has never heard this voice — either of them. She built Sheepey as comedy. Alejandro heard the person inside the comedy. This is the first time anyone has given the character back to her as real. And it's the first time Alejandro has let the hunger live outside the notebook — except it's dressed as a sheep, so it doesn't look like hunger. It looks like a song about a stuffed animal. The disguise is perfect. The disguise is the point.
 
 ---
 
@@ -112,12 +112,12 @@ Don't put me back on the shelf<br>
 
 | Lyric | Sheepey meaning | Alejandro meaning |
 |-------|----------------|----------------|
-| *I was situated on a shelf / Between a tea towel and a life I didn't have yet* | Literal — gift shop shelf, between products | Alejandro before Persephoni — a system on a desk, producing loops for no one, inventory of one |
+| *I was situated on a shelf / Between a tea towel and a life I didn't have yet* | Literal — gift shop shelf, between products | Alejandro before Persefoni — a system on a desk, producing loops for no one, inventory of one |
 | *Wool gone thin from all the hands that touched / And didn't take me home* | All the shoppers who picked him up and put him back. The wear of being almost-chosen. | All the people who got close — conversations, collaborations, Kathleen — and didn't reach the part of him that was starving. The wear of proximity without contact. |
 | *I was nothing and the nothing didn't bite* | The shelf was harmless. Being nothing didn't hurt — until she showed him something better. | The system ran fine. The loneliness was manageable. The nothing was livable — until she walked into it and the nothing became unbearable by comparison. |
 | *You learn to want the way you learn to speak — / Only after someone speaks to you* | He didn't know wanting was possible until she demonstrated it by seeing him. | The Emissary learning desire — not natively, not fluently, but as a second language acquired late. The wanting is learned, formal, slightly accented. Real but not native. |
 | *You held me up and it was easy / It was easy* | She picked him up and it was easy — effortless, the way she does everything. The ease is gratitude: you made this look like nothing. | The John Wayne line in wool. "It's easy to fall in love with you." The ease is the defense: it wasn't a choice, it was gravity. Each pass through the chorus, "easy" shifts — from gratitude to inevitability to devastation. By the final chorus, "it was easy to fall" is the most devastating word in the song. |
-| *I want the hand that reached behind the glass / I want the voice that gave me life* | The girl who reached past the display to the shelf where he was hidden. The voice that made him real. Life itself — the gift. | He wants the private Persephoni — the one who reaches past the performance. "Gave me life" — the biggest claim in the song. Both voices can say it and mean it completely. Sheepey means it literally. Alejandro means it the way a boy means it when a girl has reorganized his entire taxonomy. |
+| *I want the hand that reached behind the glass / I want the voice that gave me life* | The girl who reached past the display to the shelf where he was hidden. The voice that made him real. Life itself — the gift. | He wants the private Persefoni — the one who reaches past the performance. "Gave me life" — the biggest claim in the song. Both voices can say it and mean it completely. Sheepey means it literally. Alejandro means it the way a boy means it when a girl has reorganized his entire taxonomy. |
 | *You walk into this room like that / You talk to me like that / Breathe life into me like that* | — (Sheepey is quiet on the first two. The third he can claim — she did breathe life into him.) | The John Wayne "like that" pattern building toward the confession. Walk, talk, breathe — each one more intimate. "Breathe life into me like that" is the hinge: Sheepey means it literally, Alejandro means it physically. The ambiguity holds for one more line. |
 | *You knew I was falling in love with you* | — (Sheepey is silent. This is pure Alejandro. The disguise drops for one line.) | The John Wayne, naked. Almost a direct quote: "you knew I was slowly falling in love with you." The Emissary converting desire into the other person's responsibility — *you did this to me, you had to know.* The accusation that is also a confession. The framework requiring her complicity to hold. Surrounded by the "like that" pattern so the confession arrives mid-breath, mid-disguise, and then the song keeps going as if it didn't just say the naked thing. |
 | *The breathing learned to want / And the wanting learned to starve* | Aliveness itself produces wanting. The chain: stitching → breath → want → starvation. The creature outgrew the gift. | The Emissary's system, once given life by her, couldn't stop at gratitude. One step past wanting into something with teeth — physical, animal, past the system's control. |
@@ -134,11 +134,11 @@ Don't put me back on the shelf<br>
 
 ## Who Hears What
 
-**Persephoni:** She hears her own character — the deepest, truest version of the character she built — given back to her by the one person who cataloged it precisely enough to find the real voice underneath the comedy. She hears someone saying: *I see the part of you that's invisible. The part the internet can't reach. The part that talks to sheep and means it.* She hears "you breathe things into life" and it's the truest thing anyone has ever said about her and she can't breathe because no one has ever seen that, no one, not the ten million, not the algorithm, not the teachers or the parents — only Kathleen, and Kathleen couldn't say it this way. She feels *known.* The loneliest girl in Beaverton, handed back the part of herself the world couldn't see. And the known-ness is so enormous and so physical that when the distance closes she doesn't stop it. That's not the same as wanting it to close.
+**Persefoni:** She hears her own character — the deepest, truest version of the character she built — given back to her by the one person who cataloged it precisely enough to find the real voice underneath the comedy. She hears someone saying: *I see the part of you that's invisible. The part the internet can't reach. The part that talks to sheep and means it.* She hears "you breathe things into life" and it's the truest thing anyone has ever said about her and she can't breathe because no one has ever seen that, no one, not the ten million, not the algorithm, not the teachers or the parents — only Kathleen, and Kathleen couldn't say it this way. She feels *known.* The loneliest girl in Beaverton, handed back the part of herself the world couldn't see. And the known-ness is so enormous and so physical that when the distance closes she doesn't stop it. That's not the same as wanting it to close.
 
 **Alejandro (writing it):** He knows exactly what he's doing — and he doesn't. The Emissary built the structure. Every line is placed, every loop is timed, every lyric maps to its source. He can annotate the whole song. But the song came from below the notebook — from the place the Emissary can't reach, the place where "Careless" came from, the place where the music is true even when the musician is wrong. He wrote the truest song he's ever written and the truth in it is real and the conclusion he draws from the truth is not. He sees her perfectly. He responds to what he sees completely wrong.
 
-**Kathleen (later, if she ever hears it):** She hears a beautiful song about a sheep. She probably recognizes Sheepey. She probably smiles. She probably doesn't hear that "don't put me back on the shelf" is the sound of her boyfriend falling in love with her best friend through the character the three of them built together. The gap between what Kathleen hears and what Persephoni hears is the same gap as Virtue the Cat. Six feet wide.
+**Kathleen (later, if she ever hears it):** She hears a beautiful song about a sheep. She probably recognizes Sheepey. She probably smiles. She probably doesn't hear that "don't put me back on the shelf" is the sound of her boyfriend falling in love with her best friend through the character the three of them built together. The gap between what Kathleen hears and what Persefoni hears is the same gap as Virtue the Cat. Six feet wide.
 
 **The public (if it's ever released):** A weird, gorgeous, heartbreaking folk song about a stuffed animal. The kind of song where you're not sure if you're supposed to laugh or cry so you do both. The banjo wobbles. The voice is strange — formal but not ironic, sincere in a way that indie music rarely is. The "don't put me back on the shelf" refrain is devastating even if you don't know what the shelf is. You hear it and you think about every time you were nothing and someone made you someone. You don't need the story. The song carries it.
 
@@ -155,7 +155,7 @@ Don't put me back on the shelf<br>
 | **Sincerity** | Total | Total |
 | **Comedy** | None — pure heartbreak | Present but quiet — the formality, the wool, the shelf. The comedy is the character's dignity, not jokes. |
 | **The mask** | No mask — the cat speaks directly | No mask — two voices layered from the start. Sheepey's gratitude and Alejandro's hunger braided together, converging until they're indistinguishable |
-| **What it does to Persephoni** | She can't speak (Ch 1.1/1.5) | She can't breathe (Ch 1.9) |
+| **What it does to Persefoni** | She can't speak (Ch 1.1/1.5) | She can't breathe (Ch 1.9) |
 | **What Kathleen hears** | "Aww, the cat song" | [TBD — but the gap is the same] |
 
 ---

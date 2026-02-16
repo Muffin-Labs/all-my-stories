@@ -1,6 +1,6 @@
 # Act 4: The Scientist (Age 26-27, Nicaragua/Mexico/Washington/LA)
 
-**POV alternates: Persephoni & Eric**
+**POV alternates: Persefoni & Eric**
 *Eric mirrors her awakening — the Scientist figure*
 
 **Chapter Epigraphs:** Each chapter opens with a quote from "Science and the Cult of Personality"
@@ -11,8 +11,9 @@
 
 **How She Finds It:**
 - She saw it on someone's Instagram reel — it looked beautiful
-  - Such a Persephoni detail: still an Instagram person at her core, but finding something real through the platform
-- **Inan Itah** — an eco village on Ometepe Island
+  - Such a Persefoni detail: still an Instagram person at her core, but finding something real through the platform
+- **Inan Itah** — an eco village on Ometepe Island, run by Gaia
+  - Gaia: former NYC stripper, built the eco village, has her own cob building on site
   - Ometepe: volcanic island in Lake Nicaragua, the largest lake in Central America
   - Two volcanoes rising out of the water. Ancient, remote, stunning.
   - Nobody there is going to know or care who she is
@@ -31,7 +32,7 @@
   - Can work from anywhere with a laptop and internet connection
 - **He's there with his girlfriend Erica (with a K):**
   - Erica is a graphic designer
-  - She's close friends with Gaia — has her own little cob building on site
+  - She's close friends with Gaia (who runs the eco village) — has her own little cob building on site
   - Eric and Erica staying together in her hut
   - They've been traveling Central and South America ~1 year (digital nomad life)
   - **Erica brought Eric specifically for the tantra workshop**
@@ -43,12 +44,48 @@
   - Exchanged sex for connection — basically prostituted himself for companionship
   - The tantra workshop reveals the sex was never the problem — the foundation was
   - He's in his own quiet crisis
-- **Neither Eric nor Persephoni knows anything about tantra — both beginners**
+- **Neither Eric nor Persefoni knows anything about tantra — both beginners**
+
+### Sofia Laurent — Born During the Workshop (Persefoni POV)
+- **The trigger:** During the tantra workshop, she touches something real about her own innocence
+  - Not innocence as naïveté — innocence as the thing underneath everything
+  - The thing that was there before the brand, before the algorithm, before boys wanting her
+  - She feels it in her body for the first time, unmediated
+- **That night, in her hammock, phone in hand:**
+  - She creates a new Instagram account: **Sofia Laurent** (@itssofia.laurent)
+  - A pseudonym. No connection to Persefoni. No blue check. No followers.
+  - She does what she's always done — riffs on camera, her curls taking up the entire top of the screen, talking directly to you
+  - But the content is hyper-sexual in a way her content has never been
+  - "I get so confused when a guy asks me 'did you finish?' You would know if I did. You would know. I would be SCREAMING. Ok? We would be in a water park. Ok? There would probably be tears streaming down my face like (makes face). Ok? It wouldn't be like (shy noise). It would be like (has seizure)."
+  - It's weird and it's dirty and it's HER — unfiltered, unmanaged, uncommodified
+- **Gaia gets her started:**
+  - Gaia — her friend at the eco village — used to be a stripper in NYC. She knows this industry.
+  - Shows Persefoni the infrastructure: Fanvue, subscription pricing, how to sell content
+  - Persefoni sets up Fanvue under the same name (@itssofia.laurent)
+  - Charges subscriptions. Charges $40 for a handful of nude photos at a time.
+  - This is a business. She's not above the money — she's in it, on HER terms.
+- **She doesn't ask anyone's permission:**
+  - Not Lauria. Not Démion. Not Eric (she barely knows him at this point).
+  - No brand consultation. No content calendar. But not unstrategic either — Gaia knows what works.
+  - She LIKES it. It turns her on — the growing group of men who know her as "Sofia," who want her, who pay for her.
+  - This is desire on her terms. Not the managed hotness of the WAG brand. Not the algorithm deciding when she's sexy. Her body, her camera, her price.
+- **The internet makes the connection:**
+  - The content goes viral because of course it does — she's magnetic, she's always been magnetic
+  - People figure out Sofia is Persefoni (the curls, the voice, the delivery)
+  - The internet thinks she's a whore. Let them have their whore.
+  - The takes: "Persefoni has lost it." "This is a mental health crisis." "She's doing porn now."
+  - **She doesn't care.** She hasn't posted as Persefoni since the wedding. If you want to find her online, look for Sofia.
+- **The paradox:**
+  - The tantra workshop cracked open her innocence
+  - Her response is the most sexually explicit, most monetized content she's ever made
+  - These aren't contradictions. The innocence and the sexuality are the same thing without the filter.
+  - The personality machine always commodified her sexuality for someone else's benefit (the WAG brand, the algorithm, Lauria's narrative)
+  - Sofia Laurent is her sexuality commodified by HER. Her camera. Her pricing. Her pleasure.
 
 ### The Proposition Game (Final Night of Workshop)
 - They go around the room asking each other: "Can I ___?"
 - One question each per person, rotating
-- **Eric's question to Persephoni:**
+- **Eric's question to Persefoni:**
   - She asks: "Can I hold your hand?"
   - He says yes
   - He asks: "Can I tell you the truth?"
@@ -57,11 +94,11 @@
   - This is the most honest thing anyone has said to her since the retreat
   - **Why it hits:** Eric does what George never could — tells the truth about himself even when it's ugly
   - Not spinning a narrative. Not charming. Just honest.
-- **Persephoni's question to Eric:**
+- **Persefoni's question to Eric:**
   - (Details TBD — but it's equally raw)
 
 ### The Proposition Game — What It Reveals
-- Everyone in the room propositions Persephoni for sex — every single person
+- Everyone in the room propositions Persefoni for sex — every single person
 - One person says they know who she is
 - **Even here — even in an eco village on a volcanic island — the personality machine finds her**
 - But Eric didn't proposition her for sex. He asked to tell her the truth.
@@ -69,17 +106,17 @@
 ### Eric and Erica's Fight (Eric POV)
 - When Eric finds out about the game's aftermath, he goes to Erica
 - **Important context:**
-  - Erica does NOT know about Eric's tantra exercise confession to Persephoni
-  - She only knows that everyone wants Persephoni
+  - Erica does NOT know about Eric's tantra exercise confession to Persefoni
+  - She only knows that everyone wants Persefoni
   - Eric and Erica are in an open relationship
 - **Eric's hints (but not the truth):**
   - He talks around it. Uses metaphors.
   - To Erica: "we've made too many compromises in the relationship"
   - To Eric: "I feel compromised — like I've prostituted myself"
-  - He told Persephoni the truth. He won't tell Erica.
+  - He told Persefoni the truth. He won't tell Erica.
 - **The game question:**
-  - In the proposition game, the question was asked: "Can Eric and Persephoni have sex?"
-  - Erica says no — propositioning Persephoni makes her uncomfortable
+  - In the proposition game, the question was asked: "Can Eric and Persefoni have sex?"
+  - Erica says no — propositioning Persefoni makes her uncomfortable
   - Eric pushes back — insists this is exactly why they had an open relationship
 - **Erica leaves:**
   - She catches the vibe — something has shifted in Eric
@@ -87,7 +124,7 @@
   - She leaves the eco village. Goes into town. It's over (or nearly).
 
 ### Erica Leaving = The Kathleen Echo
-- **Persephoni recognizes the pattern:**
+- **Persefoni recognizes the pattern:**
   - A woman leaves because someone she trusted chose someone else
   - This is what she did to Kathleen
   - The universe is showing her the same scene from the other side
@@ -96,12 +133,12 @@
 - **But this time it's different:**
   - Eric was honest (Alejandro wasn't — Alejandro was strategic)
   - The relationship was already dying (Alejandro and Kathleen were in love — or Kathleen was)
-  - Persephoni didn't pursue Eric — the truth just happened
+  - Persefoni didn't pursue Eric — the truth just happened
   - The pattern rhymes but it doesn't repeat exactly
 
 ### Eric's Night (Eric POV)
 - After Erica leaves:
-  - Asks Persephoni to come back to Erica's cabin (Erica is gone, in town)
+  - Asks Persefoni to come back to Erica's cabin (Erica is gone, in town)
   - They DON'T have sex
   - They talk. All night. About everything.
   - He tells her about AI, about consciousness, about curiosity as survival
@@ -121,7 +158,7 @@
 
 **Eric's POV Chapters Here:**
 - His own story: childhood, curiosity as survival, the consulting life, psychedelic experiences
-- How he sees Persephoni — not as a brand, not as a celebrity
+- How he sees Persefoni — not as a brand, not as a celebrity
   - Falling in love with someone he's trying not to put on a pedestal
   - He knows the danger of the cult of personality — he's studied it in AI systems
   - He sees how people project onto her and he's trying not to do the same
@@ -139,7 +176,7 @@
 - The book-within-the-book begins to take shape
 
 **Months in Mexico:**
-- Persephoni is completely offline. No social media. No public life.
+- Persefoni is completely offline. No social media. No public life.
 - Just two people in a courtyard, writing, talking, falling in love
 - The longest she's ever gone without performing for an audience
 - She's discovering who she is without the personality machine
@@ -151,7 +188,7 @@
 
 - They travel to Oaxaca
 - In a market or restaurant, an old Spanish man recognizes her
-- "You're Persephoni, aren't you?"
+- "You're Persefoni, aren't you?"
 - Reality catches up. The world she left behind is still out there, still talking about her.
 - **Eric's response** (Eric POV):
   - How he handles the moment — protective? Curious? Does he see the personality machine activate?
@@ -163,20 +200,20 @@
 ## The Second Retreat — Washington State
 
 **The Setup:**
-- Persephoni wants to do another Vipassana — this time with Eric
+- Persefoni wants to do another Vipassana — this time with Eric
 - They go to Washington State (near Seattle? Alejandro's territory?)
 - She's been once before. He's never done it.
 - **Why this matters:** replication by a second observer. Proof it's not just her.
 
 **Eric's POV — His Own Master Awakening:**
-- Eric goes through his own version of what Persephoni experienced
+- Eric goes through his own version of what Persefoni experienced
 - Different flavor — he's a scientist, not a mystic. His mind works differently.
 - Creative grief: mourning the version of himself that relied on analysis for everything
 - The Emissary voluntarily stepping aside — the scientist discovering the limits of science
 - He doesn't have the same supernatural experiences. But he has his own.
-- When he describes them to Persephoni, she recognizes the territory.
+- When he describes them to Persefoni, she recognizes the territory.
 
-**Persephoni's Second Retreat:**
+**Persefoni's Second Retreat:**
 - Deeper this time. More stable. Less dramatic.
 - She knows the terrain. She's not in crisis.
 - The second retreat is about integration, not breaking open.
@@ -201,7 +238,7 @@
 - **"The Portland Era"** — before fame, before Alejandro, before any of it
 
 **The Conversation on the Train:**
-- Eric and Persephoni, hours of quiet conversation as the landscape scrolls by
+- Eric and Persefoni, hours of quiet conversation as the landscape scrolls by
 - The culmination of everything they've been building
 - She says something like: "I don't know what to do when we get back."
 - He says something like: "I'll be right there by your side."
@@ -234,7 +271,7 @@
 
 **The Call:**
 - Lauria: "Oh my God, are you OK? Where did you go?"
-- Persephoni: she's fine. Needed time. Ready to get back.
+- Persefoni: she's fine. Needed time. Ready to get back.
 - "Where should we start? What's been going on?"
   - Careful speech applied perfectly
   - No mention of Eric, Mexico, the eco village, the second retreat
@@ -270,7 +307,7 @@
 ## Remaining Threads (Sequel Territory / Implied)
 
 ### The Cult Forms
-- The book-within-the-book gets published — co-authored by Persephoni and Eric
+- The book-within-the-book gets published — co-authored by Persefoni and Eric
 - She returns to public life with the "empowered woman" narrative (Lauria's version)
 - Followers start acting from what they think is her teaching
 - A cult forms — people narrating ABOUT her rather than learning to observe

@@ -1,15 +1,15 @@
 # Act 2: The Personality (Ages 18-26, St. Pete/LA)
 
-**POV alternates: Persephoni & Démion**
+**POV alternates: Persefoni & Démion**
 *Démion mirrors her personality — the Cult of Personality at full power*
 
-**Chapter Epigraphs:** Persephoni's chapters always use quotes from "Science and the Cult of Personality" (her book). Démion's chapters use quotes about him or things he said — the world's perception of him, or his own words.
+**Chapter Epigraphs:** Persefoni's chapters always use quotes from "Science and the Cult of Personality" (her book). Démion's chapters use quotes about him or things he said — the world's perception of him, or his own words.
 
 ---
 
 ## The Peak and the Emptiness (~18-26)
 
-- George and Rosemary follow Persephoni to St. Pete / Florida
+- George and Rosemary follow Persefoni to St. Pete / Florida
   - She's the center of their world — they drop everything to be near her
   - Also puts them back near their Southern roots: Pensacola (~5 hrs), Alabama not far
   - They don't really separate — the family stays together
@@ -18,7 +18,7 @@
 - Gets loft in downtown St. Pete tower — personality ascending
 
 ### George's Death (~2026)
-- George dies of a heart attack shortly after Persephoni moves to LA
+- George dies of a heart attack shortly after Persefoni moves to LA
   - The first time she's across the country from her parents, and he's gone
 - **A failure of the healthcare system:**
   - They could have saved him if they had acted immediately
@@ -26,7 +26,7 @@
 - **It breaks her world for about three months — she can't do anything**
 - The man who handled everything, who made the world work, who she thought was perfect — gone
 - **Rosemary nearly dies the same day:**
-  - Broken heart — Persephoni rushes to hospital in Florida with cousin **Lauria**
+  - Broken heart — Persefoni rushes to hospital in Florida with cousin **Lauria**
   - They have to navigate the healthcare system — which is also a shit show
   - Rosemary survives, but barely
   - Rosemary was never built to exist without George — he was her operating system
@@ -35,7 +35,7 @@
   - The gaslighting is so foundational she can't separate harm from devotion
   - She doesn't see what George did to her until she meets Eric — and maybe not even fully then
 
-### Démion Reyes (Persephoni POV & Démion POV)
+### Démion Reyes (Persefoni POV & Démion POV)
 - In her early twenties, starts dating Démion Reyes — the ultimate power couple
 - Half Latino, incredibly attractive, incredibly smart
 - First language Spanish; Hispanic cultural background
@@ -44,14 +44,14 @@
   - Unstoppable QB/running back — physical and mental force
   - Academic achievements + built a science-based business in high school
 - The perfect man from all outward appearances
-- Also driven by personality — mirrors Persephoni
+- Also driven by personality — mirrors Persefoni
 - The world sees them as Travis Kelce / Taylor Swift equivalent
 - They date ~4 years, then marry
 - **Démion's POV chapters:**
   - We see the power couple from the inside
   - His charm, his control, his own version of the Cult of Personality
   - We see him as a full person, not just a villain
-  - His cultural background, his ambition, how he sees Persephoni
+  - His cultural background, his ambition, how he sees Persefoni
   - The cracks in his narrative that foreshadow the wedding night
 
 ### The Emptiness
@@ -66,7 +66,7 @@
 ## The Breaking Point (Age ~26)
 
 ### The Wedding Night
-- Démion rapes Persephoni on their wedding night
+- Démion rapes Persefoni on their wedding night
 - She was passed out; he claims to be so drunk he can't remember
 - **The Ambiguity — this is key:**
   - She doesn't know the full truth
@@ -111,5 +111,5 @@
   - She'd already been in contact with the center
   - She disappears: no phone, no agent, no social media
   - **Rosemary has come to LA for the wedding — staying at the Santa Monica house**
-  - When Persephoni disappears, Rosemary is at the house panicking for 10 days
-- **Act 2 ends with:** Persephoni walking away from everything. Into the desert. Into silence.
+  - When Persefoni disappears, Rosemary is at the house panicking for 10 days
+- **Act 2 ends with:** Persefoni walking away from everything. Into the desert. Into silence.
