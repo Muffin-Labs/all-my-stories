@@ -22,7 +22,7 @@ Literary fiction. Four acts, alternating POV, third person limited.
 | [1.11](book/1.11_the_hollowness.md) | The Hollowness | *The guilt gets in through the cracks, too.*<br>— Science & the Cult of Personality |
 
 ## Act 2: The Personality
-*Ages 18–26, St. Pete/LA — POV: Persefoni & Démion*
+*Ages 18–25, St. Pete/LA — POV: Persefoni & Démion*
 
 | Ch | Title | Epigraph |
 |----|-------|----------|
