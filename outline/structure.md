@@ -9,7 +9,7 @@
 **POV: Persefoni & Alejandro (strict alternation)**
 *Alejandro mirrors her intellect*
 
-- **1.1** — Stonehenge / Sheepey (Persefoni POV) ✍️
+- **1.1** — Sheepey (Persefoni POV) ✍️
 - **1.2** — The drive to Hay-on-Wye / why the festival matters / Alejandro sees Persefoni (Alejandro POV) ✍️
 - **1.3** — How The Light Gets In / gaslighting chain / Alejandro's McGilchrist (Persefoni POV) ✍️
 - **1.4** — The Yurt / Muffin quest / first sex / closed eyes / two lights (Alejandro POV) ✍️
@@ -36,8 +36,8 @@
 - **2.07** — Four-year gap: Super Bowl wins (2023, 2024), then two more losses (2025, 2026) / March 2026: Démion leaves Tampa for LA Chargers (McConkey, Harbaugh) / long distance / Persefoni decides to follow, buys her own place in Santa Monica / George's death at chapter's end (Persefoni POV) ✍️
 - **2.08** — George's death from Démion's side / he is her rock / football takes a backseat for the first time / she comes first — not a peer to football, but more important than football (Démion POV) ✍️
 - **2.09** — The emptiness / ennui / the yoga teacher / first observation over narrative (Persefoni POV) ✍️
-- **2.10** — The wedding (Démion POV)
-- **2.11** — The wedding night / the morning-after confrontation / Démion's counter-narrative / the cascade / she walks into the desert (Persefoni POV)
+- **2.10** — The Same Hands / the wedding (Démion POV) ✍️
+- **2.11** — The Death of a Hero / the wedding night / the morning-after confrontation / Démion's counter-narrative / the cascade / she walks into the desert (Persefoni POV) ✍️
 
 ---
 
