@@ -28,9 +28,9 @@ Literary fiction. Four acts, alternating POV, third person limited.
 |----|-------|----------|
 | [2.01](book/2.01_hurricane_season.md) | Hurricane Season | *Living in someone else's space*<br>*means living inside someone else's story.*<br>*The decisions you make about space*<br>*determine the space you have to make decisions.*<br>— Science & the Cult of Personality |
 | [2.02](book/2.02_peerless.md) | Peerless | *Lemonade on your breath, sun in your hair*<br>*Did I mention how I love you in your underwear?*<br>— ["To the Dogs or Whoever"](https://superviber.com/player/GMhqviP111w) by Josh Ritter |
-| [2.03](book/2.03_after_twenty_six.md) | After Twenty-Six | TBD<br>— Science & the Cult of Personality |
-| [2.04](book/2.04_the_machine.md) | The Machine | *'Cause I know the weight it carries when I touch you.*<br>*I'm not gonna just hold your hand*<br>— ["The Beast"](https://superviber.com/player/W0vpPFBuc0o) by Cataldo |
-| [2.05](book/2.05_the_trio.md) | The Trio | TBD<br>— Science & the Cult of Personality |
+| [2.03](book/2.03_after_twenty_six.md) | After Twenty-Six | *The body arrives before the mind.*<br>*The work is learning to wait at the door.*<br>— Science & the Cult of Personality |
+| [2.04](book/2.04_the_machine.md) | The Machine | *'Cause I know the weight it carries when I touch you.*<br>*I'm not gonna just hold your hand*<br>*Who me? Well, the beast I am*<br>— ["The Beast"](https://superviber.com/player/W0vpPFBuc0o) by Cataldo |
+| [2.05](book/2.05_the_trio.md) | The Trio | *Almost is a temperature, not a distance.*<br>— Science & the Cult of Personality |
 | [2.06](book/2.06_the_field.md) | The Field | *Just like the universe doesn't try to give us answers*<br>*Or try to convince you of her beauty*<br>*The universe just is*<br>*Being is the answer*<br>*Being is beautiful*<br>— ["Know Time Like The Present"](https://superviber.com/player/XpXyqbFlm_c) by GRiZ |
 | [2.07](book/2.07_the_distance.md) | The Distance | *Leaving is not an event.*<br>*It's a direction you were already facing.*<br>— Science & the Cult of Personality |
 | [2.08](book/2.08_the_vigil.md) | The Vigil | *When there's no way out*<br>*I'll let you build your home in me 'til the clocks run down*<br>*When your luck's run out*<br>*Call me and I will come and fix you, get your feet on the ground*<br>*When there's no way out*<br>*Call me and I will come and bury you, all safe and sound*<br>— ["Safe and Sound"](https://superviber.com/player/DH2jd3eveBk) by Electric President |
