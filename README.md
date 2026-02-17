@@ -33,6 +33,9 @@ Literary fiction. Four acts, alternating POV, third person limited.
 | [2.05](book/2.05_the_trio.md) | The Trio | TBD — *Science & the Cult of Personality* | Persefoni |
 | [2.06](book/2.06_the_field.md) | The Field | TBD | Démion |
 | [2.07](book/2.07_the_distance.md) | The Distance | "Leaving is not an event. It's a direction you were already facing." — *Science & the Cult of Personality* | Persefoni |
+| [2.08](book/2.08_the_vigil.md) | The Vigil | "Piglet sidled up to Pooh from behind. 'Pooh?' he whispered. 'Yes, Piglet?' 'Nothing,' said Piglet, taking Pooh's paw. 'I just wanted to be sure of you.'" — A.A. Milne, *The House at Pooh Corner* | Démion |
+| 2.09 | The Room Without a Ceiling | TBD — *Science & the Cult of Personality* | Persefoni |
+| 2.10 | TBD | "The death of a hero I'm turning the page / Now I'm cutting the grass and I'll cover his grave / I'll cover his grave" — Alec Benjamin, "Death of a Hero" | Démion |
 
 ---
 
