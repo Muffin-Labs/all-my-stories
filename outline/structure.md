@@ -107,7 +107,7 @@ Chapter detail files: `ch_1.01.md`, `ch_1.02.md`, etc.
 | 1.1 | "The truth cannot be found in words. So take this book with a grain of salt." | Science & the Cult of Personality |
 | 1.2 | "There is a crack, a crack in everything / That's how the light gets in." | Leonard Cohen, "Anthem" |
 | 1.3 | "Kids are the best scientists: curious, playful, observing without agenda." | Science & the Cult of Personality |
-| 1.4 | "By paying a certain kind of attention, you can humanise or dehumanise, cherish or strip of all value. By a kind of alienating, fragmenting and focal attention, you can reduce humanity — or art, sex, humour, or religion — to nothing." | Iain McGilchrist, *The Master and His Emissary* |
+| 1.4 | "We are the reckless, we are the wild youth / Chasing visions of our futures" | Daughter, "Youth" |
 | 1.5 | "Sometimes the most precise thing you can say is a fiction." | Science & the Cult of Personality |
 | 1.6 | "Circumnavigate this body / Of wonder and uncertainty / Armed with every precious failure / And amateur cartography" | The Weakerthans, "Aside" |
 | 1.7 | "Nobody becomes famous. They just wake up inside someone else's story." | Science & the Cult of Personality |
