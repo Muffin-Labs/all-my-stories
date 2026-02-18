@@ -62,11 +62,10 @@
 - **Cups** = gathering, receiving, holding open space
   - The cup is open — it receives what's poured into it
   - Feminine, receptive, allowing
-  - The right brain / Master mode of attention
 - **Wands** = grasping, directing, pointing energy outward
   - The wand extends — it directs, commands, focuses
   - Masculine, active, projecting
-  - The left brain / Emissary mode of attention
+- These are attention modes, not hemisphere assignments. Either the Master or the Emissary can gather or grasp. The axis is its own thing.
 - **Before the retreat:** she understood cups and wands as symbols, stories, aesthetic spirituality
 - **After the retreat:** she understands them as descriptions of what attention ACTUALLY DOES
 - The tarot was always pointing at something real — she just had to experience it to know
