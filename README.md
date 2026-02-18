@@ -38,6 +38,14 @@ Literary fiction. Four acts, alternating POV, third person limited.
 | [2.10](book/2.10_the_same_hands.md) | The Same Hands | *Baby don't you know you are stardust*<br>*And you're a long long way from home*<br>*Way from home*<br>*Baby brush it off like it's sawdust*<br>*Or you'll spend the California days alone*<br>*Ooh how I like the smell of West coast pheromones*<br>— ["California Girls"](https://superviber.com/player/gA2OtDUFBWI) by NoMBe x Sonny Alven |
 | [2.11](book/2.11_the_death_of_a_hero.md) | The Death of a Hero | *The death of a hero I'm turning the page*<br>*Now I'm cutting the grass and I'll cover his grave*<br>*I'll cover his grave*<br>— ["Death of a Hero"](https://superviber.com/player/zPhaUb0YWlQ) by Alec Benjamin |
 
+## Act 3: The Crack
+*Age 25–26, Palm Springs/Desert/Santa Monica — POV: Persefoni & rotating*
+
+| Ch | Title | Epigraph |
+|----|-------|----------|
+| [3.01](book/3.01_the_tip_of_the_nose.md) | The Tip of the Nose | *The Personality narrates first and finds evidence to support the story.*<br>*The Scientist does the opposite.*<br>*Doing the opposite requires something the Personality can't give you:*<br>*Silence.*<br>— Science & the Cult of Personality |
+| [3.02](book/3.02_freeplay_life.md) | Freeplay Life | *And you can't go back, same way you came*<br>*Round all the pieces up, but they just don't fit the same*<br>*White knuckles!*<br>— ["White Knuckles"](https://www.youtube.com/watch?v=nqWZqQXk_Ao) by OK Go |
+
 ---
 
 ## Referenced Works
