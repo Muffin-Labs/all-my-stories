@@ -42,30 +42,20 @@
 ---
 
 ## ACT 3: THE CRACK (Age 26, Desert/Santa Monica)
-**POV: Persefoni & Rosemary (strict alternation)**
-*Rosemary mirrors her blindness*
+**POV: Persefoni (odd chapters) & rotating POV (even chapters)**
+*Each even chapter shows the crisis through a different outside perspective*
 
-- **3.1** — Desert Hot Springs / pariah moment (Persefoni POV)
-- **3.2** — Rosemary at the Santa Monica house: day 1, daughter gone (Rosemary POV)
-- **3.3** — Retreat days 1-4: Anapana / grasping vs. gathering / concentration peace (Persefoni POV)
-- **3.4** — Rosemary: days 3-5 / panic / calling Démion, calling everyone (Rosemary POV)
-- **3.5** — Retreat days 5-7: body scanning / the deer / the Master (Persefoni POV)
-- **3.6** — Rosemary: days 6-10 / alone in a way she's never been (Rosemary POV)
-- **3.7** — Retreat days 8-10: stars / Ho'oponopono / leaving (Persefoni POV)
-- **3.8** — Rosemary sees her daughter: bald, talking about God (Rosemary POV)
-- **3.9** — Post-retreat crisis / shaving head / the prayer / the note / Confluence (Persefoni POV)
-- **3.10** — The 911 call from Rosemary's side (Rosemary POV)
-- **3.11** — The naked walk / police confrontation / slippery moment (Persefoni POV) ✍️
-- **3.12** — Rosemary after the arrest: what has she done (Rosemary POV)
-- **3.13** — Jail cell / fast food vision / the door / holding cell / balancing experiment (Persefoni POV)
-- **3.14** — Rosemary during the psych ward: carrying George's will (Rosemary POV)
-- **3.15** — Psych ward: purgatory / Pam / navigating with integrity / Démion's visit (Persefoni POV)
-- **3.16** — Rosemary when Persefoni is released: relief and fear (Rosemary POV)
-- **3.17** — Release / two trees / car ride / "don't panic" (Persefoni POV) ✍️
-- **3.18** — Rosemary watching her daughter navigate the legal battle (Rosemary POV)
-- **3.19** — Legal battle / retreat center betrayal / character references / Lauria call (Persefoni POV)
-- **3.20** — Rosemary: letting go / going home to Florida (Rosemary POV)
-- **3.21** — The first rest: ceiling, crying, done running (Persefoni POV)
+- **3.01** — The Tip of the Nose: retreat arrival / Days 1–4 Anapana / grasping vs. gathering / tarot bridge / concentration peace / the Beaverton memory (Persefoni POV)
+- **3.02** — Freeplay Life: Tiffani at the retreat / photographer, blogger, divorce / the oven photograph / watching Persefoni sit with ferocity / the gap between the public image and the woman on the cushion (Tiffani POV)
+- **3.03** — [TBD]: Days 5–10 / Vipassana body scanning / Day 7 the deer / Day 8 desert stars / Day 9 Ho'oponopono / Day 10 silence lifts, talks to Tiffani (Persefoni POV)
+- **3.04** — [TBD]: La's ten days / Persefoni vanished / Démion evasive / Rosemary panicking / the fixer with nothing to fix (La POV)
+- **3.05** — [TBD]: End of retreat / return to Santa Monica / Rosemary there / psychedelic crisis begins / shaving her head / the prayer and the note / first Confluence (Persefoni POV)
+- **3.06** — [TBD]: Rosemary's experience of the crisis / bald daughter talking about God / the naked walk from outside / 911 call / the police / the echo of George in the system (Rosemary POV)
+- **3.07** — [TBD]: The naked walk from inside / police confrontation / the slippery moment / jail cell / fast food vision / the door / two trees / holding cell mural & balancing experiment / car ride / hospital / sedation / Angel/Orderly seeded (Persefoni POV)
+- **3.08** — [TBD]: Démion visits the psych ward / his last POV / the architecture cracking / the lie meeting a wall (Démion POV)
+- **3.09** — [TBD]: Psych ward from inside / TV talking to her / Pam / navigating with integrity / Démion's visit (her side) / Angel/Orderly second seeding / the ~7 day stay (Persefoni POV)
+- **3.10** — [TBD]: The Angel/Orderly's POV / the ward from inside the machine / what they see in Persefoni / no fame context / the defining detail explained from inside (Angel/Orderly POV)
+- **3.11** — [TBD]: Release / legal battle / retreat center betrayal / character references / the first rest / the public story / Rosemary goes home / booking Managua (Persefoni POV)
 
 ---
 

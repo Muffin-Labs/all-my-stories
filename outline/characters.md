@@ -72,15 +72,17 @@ Persefoni and Kathleen are the band's biggest genuine fans — they think it's t
 
 ---
 
-## Kathleen Unckles
+## Kathleen Verellen
 
 **Age in Act 1:** 16 (born June 19, 2003)
 **Height:** 5'3"
 **Build:** Thin. Small-breasted. Shapely bottom — the feature Alejandro focuses on when he's trying to find her attractive.
-**Face:** Round, ball-shaped head. Large doe-eyes — innocent and disarming. The kind of eyes that make people trust her immediately, that make her look like she's always a little surprised by the world.
-**Overall:** Not beautiful the way Persefoni is beautiful. Cute. Sweet-looking. The girl next to the girl everyone's looking at. She knows this. She's known it since she was twelve. Her eyes are her best feature and she uses them — not strategically, just naturally. When she looks at you with those big round eyes, you want to protect her.
+**Hair:** Auburn — the kind of red-brown that only shows its true color in direct light. In dim rooms it reads as dark; in sunlight it catches copper and wine. She wears it long, usually half-pulled back, a few strands always escaping around her face.
+**Eyes:** Bright hazel — warm and changeable, gold-flecked in sunlight, darker in shadow. Vivid, expressive, the kind of eyes that hold a room's attention without trying. When she's excited they go wide and luminous; when she's hurt they go still and flat and you know immediately something has changed.
+**Face:** Heart-shaped, fine-boned, with rosy cheeks that flush easily — when she laughs, when she's cold, when she's embarrassed, when she's been crying. The kind of face that shows everything it feels before the mouth has said a word.
+**Overall:** Not beautiful the way Persefoni is beautiful — not the kind that reorganizes a room. Beautiful the way a best friend is beautiful: the face you actually want to see at the end of a bad day. Warm, quick, alive. She pays attention to things other people miss — the mic that moved, the wrapping paper that's funny because it's bad, the moment someone needs a hand held. She's the first person in the room to notice you're not okay and the last person to make you feel weird about it. People underestimate her because she's small and sweet-looking and stands next to the most stunning girl in any room. That's their mistake, not hers.
 
-**Through Alejandro's eyes:** He focuses on her eyes and her bottom because those are the features he can find attractive. He loves her — or tells himself he does — but he's hard-pressed to find the physical pull. With Persefoni, the pull is involuntary. With Kathleen, it's a choice he keeps making.
+**Through Alejandro's eyes:** He focuses on her eyes and the curve of her hips because those are the features he can make himself want. He catalogues her the way he catalogues everything — warmly, precisely, and from the outside. What he misses: the intelligence in her attention, the craft in her eye, the way she holds the phone steady and says "that one" and is always right. He sees the girl who matches Persefoni's energy. He doesn't see the girl who sets it.
 
 ---
 
