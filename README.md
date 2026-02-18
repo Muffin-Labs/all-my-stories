@@ -39,7 +39,7 @@ Literary fiction. Four acts, alternating POV, third person limited.
 | [2.11](book/2.11_the_death_of_a_hero.md) | The Death of a Hero | *The death of a hero I'm turning the page*<br>*Now I'm cutting the grass and I'll cover his grave*<br>*I'll cover his grave*<br>— ["Death of a Hero"](https://superviber.com/player/zPhaUb0YWlQ) by Alec Benjamin |
 
 ## Act 3: The Crack
-*Age 25–26, Palm Springs/Desert/Santa Monica — POV: Persefoni & rotating*
+*Age 25, Palm Springs/Desert/Santa Monica — POV: Persefoni & rotating*
 
 | Ch | Title | Epigraph |
 |----|-------|----------|
