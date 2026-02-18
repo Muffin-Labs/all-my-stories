@@ -62,8 +62,8 @@
 - **Cups** = gathering, receiving, holding open space
   - The cup is open — it receives what's poured into it
   - Feminine, receptive, allowing
-- **Wands** = grasping, directing, pointing energy outward
-  - The wand extends — it directs, commands, focuses
+- **Wands** = grasping, closing, holding on
+  - The hand closes — it grips, seizes, holds
   - Masculine, active, projecting
 - These are attention modes, not hemisphere assignments. Either the Master or the Emissary can gather or grasp. The axis is its own thing.
 - **Before the retreat:** she understood cups and wands as symbols, stories, aesthetic spirituality

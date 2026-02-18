@@ -22,13 +22,13 @@ The deck launches September 2026 (LA era, chapter 2.07). Gold edges, her initial
 - **What it secretly maps to:** Gathering attention — the open, receptive mode. Allowing things to come instead of reaching for them.
 - **Her narration on Lives:** "Cups is the open hand. It's what you do when you stop reaching and just... let things arrive."
 
-### Wands — The Pointing Finger
+### Wands — The Grasping Hand
 - **Traditional symbol:** A wooden staff or rod
-- **Persefoni's redesign:** A single finger, extended, pointing
-- **What it looks like on the cards:** An index finger, same golden-brown skin, pointing outward — not accusatory, but directed. The gesture of someone saying "there" or "that one" or "look." The nail clean, the finger steady, the intention clear.
+- **Persefoni's redesign:** A hand closing, fingers tensed, gripping
+- **What it looks like on the cards:** The same hand, same golden-brown skin — but closed. Fingers curled, knuckles visible, tendons taut. Not a fist of anger but a fist of intention. The hand that grips the wand. The same hand as cups, in a different state — one open, one closed.
 - **What it means in tarot:** Energy, action, creativity, will, drive
-- **What it secretly maps to:** Grasping attention — the narrowing, focusing, directing mode. Seizing rather than receiving.
-- **Her narration on Lives:** "Wands is the pointing finger. It knows exactly where it's going. It doesn't wait."
+- **What it secretly maps to:** Grasping attention — the narrowing, focusing, seizing mode. The same hand that receives can also reach and hold.
+- **Her narration on Lives:** "Wands is the closed hand. Same hand as cups — but gripping. Holding on. It doesn't wait for things to arrive. It reaches."
 
 ### Swords — The Mind
 - **Traditional symbol:** A blade, a weapon
@@ -55,13 +55,13 @@ What Persefoni doesn't consciously realize (until 3.01):
 | Suit | Image | Mode | Attention |
 |------|-------|------|-----------|
 | Cups | Open hand | Receiving | Gathering |
-| Wands | Pointing finger | Directing | Grasping |
+| Wands | Grasping hand | Directing | Grasping |
 | Swords | The mind | Cutting | Analyzing |
 | Pentacles | The body | Grounding | Sensing |
 
 The four images form two pairs:
 - **Cups + Pentacles** = receptive axis (open hand + grounded body = receiving, embodied)
-- **Wands + Swords** = directed axis (pointing finger + luminous mind = focusing, analytical)
+- **Wands + Swords** = directed axis (grasping hand + luminous mind = focusing, analytical)
 
 Note: These are attention modes, not hemisphere assignments. Either the Master or the Emissary can gather or grasp. The grasping/gathering axis is independent of the Master/Emissary axis.
 
@@ -75,7 +75,7 @@ The deck exists as:
 1. **Brand content** (2.07) — launched, sold, used on Lives
 2. **Personal practice** (2.09) — she does readings for herself, knows the vocabulary
 3. **Perceptual bridge** (2.09 sleepless night) — the cards start to feel like a language she's been speaking without understanding
-4. **Recognition** (3.01) — sitting on the cushion, she discovers that gathering attention IS the open hand and grasping attention IS the pointing finger. The cards weren't metaphors. They were descriptions.
+4. **Recognition** (3.01) — sitting on the cushion, she discovers that gathering attention IS the open hand and grasping attention IS the closed hand. The cards weren't metaphors. They were descriptions.
 
 ---
 
