@@ -76,7 +76,7 @@ Persefoni and Kathleen are the band's biggest genuine fans — they think it's t
 
 **Age in Act 1:** 16 (born June 19, 2003)
 **Height:** 5'3"
-**Build:** Thin. Small-breasted. Shapely bottom — the feature Alejandro focuses on when he's trying to find her attractive.
+**Build:** Thin but shapely — more curves than you'd expect on a frame that small. The kind of body Alejandro tries to want in pieces when he's looking for a reason to stay.
 **Hair:** Auburn — the kind of red-brown that only shows its true color in direct light. In dim rooms it reads as dark; in sunlight it catches copper and wine. She wears it long, usually half-pulled back, a few strands always escaping around her face.
 **Eyes:** Bright hazel — warm and changeable, gold-flecked in sunlight, darker in shadow. Vivid, expressive, the kind of eyes that hold a room's attention without trying. When she's excited they go wide and luminous; when she's hurt they go still and flat and you know immediately something has changed.
 **Face:** Heart-shaped, fine-boned, with rosy cheeks that flush easily — when she laughs, when she's cold, when she's embarrassed, when she's been crying. The kind of face that shows everything it feels before the mouth has said a word.
