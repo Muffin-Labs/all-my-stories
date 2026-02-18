@@ -32,7 +32,7 @@ The drive east from Colony Palms. The desert opening — windmill farms, Joshua 
 ## Chapter 3.02 — *[Title TBD]*
 **POV: Tiffani**
 
-Tiffani is at the retreat. Photographer. Unschooling blogger (*Freeplay Life*). Mother of three: Brooke, Connor, Dakota. Going through a divorce. Her art uses her own body as subject — the signature piece is a photograph of herself halfway out of an oven, serving pieces of herself to her children. She loves her children and they consume her. She is at the retreat because knowing it — because making the photograph — wasn't enough.
+Tiffani is at the retreat. Photographer. Unschooling blogger (*Freeplay Life*). Mother of three: Brooke, Carter, Dakota. Going through a divorce. Her art uses her own body as subject — the signature piece is a photograph of herself halfway out of an oven, serving pieces of herself to her children. She loves her children and they consume her. She is at the retreat because knowing it — because making the photograph — wasn't enough.
 
 She recognizes Persefoni. She knows the wedding was yesterday. She carries the public narrative: the fame, the brand, the curls, the pale green eyes. She does NOT know the cheating story — that hasn't broken yet. Her central question is: *Why is a woman who got married yesterday at a silent retreat?*
 
