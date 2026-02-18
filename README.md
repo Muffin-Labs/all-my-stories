@@ -5,7 +5,7 @@ Literary fiction. Four acts, alternating POV, third person limited.
 ---
 
 ## Act 1: The Triangle
-*Ages 15–19, Beaverton/England — POV: Persefoni & Alejandro*
+*Ages 15–18, Beaverton/England — POV: Persefoni & Alejandro*
 
 | Ch | Title | Epigraph |
 |----|-------|----------|
