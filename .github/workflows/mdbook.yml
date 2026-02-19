@@ -25,7 +25,9 @@ jobs:
           mdbook-version: 'latest'
 
       - name: Build
-        run: mdbook build
+        run: |
+          mdbook build
+          echo "youandallmystories.com" > _build/CNAME
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
