@@ -34,7 +34,7 @@ The drive east from Colony Palms. The desert opening — windmill farms, Joshua 
 
 Tiffani is at the retreat. Photographer. Unschooling blogger (*Freeplay Life*). Mother of three: Brooke, Carter, Dakota. Going through a divorce. Her art uses her own body as subject — the signature piece is a photograph of herself halfway out of an oven, serving pieces of herself to her children. She loves her children and they consume her. She is at the retreat because knowing it — because making the photograph — wasn't enough.
 
-She recognizes Persefoni. She knows the wedding was yesterday. She carries the public narrative: the fame, the brand, the curls, the pale green eyes. She does NOT know the cheating story — that hasn't broken yet. Her central question is: *Why is a woman who got married yesterday at a silent retreat?*
+She recognizes Persefoni. She knows the wedding was yesterday. She carries the public narrative: the fame, the brand, the curls, the pale green eyes. She does NOT know the cheating story — she surrendered her phone at the retreat before the gossip spread. Her central question is: *Why is a woman who got married yesterday at a silent retreat?*
 
 **Tiffani's interiority:**
 
@@ -69,14 +69,17 @@ She recognizes Persefoni. She knows the wedding was yesterday. She carries the p
 
 The ten days from the real world. La is Persefoni's manager — competent, a fixer, the person who holds the machinery together.
 
-**The problem:** Persefoni vanished. Got married in the desert and disappeared. No phone. No note. No contact. The only person who knows about the retreat is Démion, and Démion is not helping.
+**The problem:** Persefoni vanished. Got married in the desert and disappeared. No phone. No note. No contact. Nobody knows where she is — not La, not Rosemary, not Démion.
 
-- Day 1–2: La assumes she'll hear from her. Newlywed. Honeymoon energy. Nothing alarming.
-- Day 3–4: Silence becomes unusual. Calls Démion. Gets a version — evasive, angry, wrong in a way La can feel but can't name. Démion knows about the retreat but his answers are off.
+- Day 1–2: Persefoni disappears the morning after the wedding. Démion panics — he's afraid she's gone to the police, that she's going to accuse him of rape. So when people ask where she is, he gets ahead of the narrative: she cheated on him on their wedding night, and when he confronted her, she left. He doesn't post it. He tells people. A preemptive strike disguised as a wounded husband confiding in friends.
+- Day 3–4: The gossip is spreading. La calls Démion, gets his version — the cheating story, delivered with conviction. Something underneath doesn't track. La's instinct says the story is wrong, but she can't reach Persefoni to hear another version. Démion has no idea where Persefoni is either — the retreat was suggested once and he's completely forgotten it, never knew she booked it. Meanwhile the gossip is percolating outward — friend to friend, then to the edges where it starts to leak online.
+- **Day 5–7: The cheating story hits the internet.** Not from Démion directly — from the gossip chain. By now it's the established narrative. Persefoni cheated on her wedding night and ran. Rosemary is panicking, calling La, calling everyone. La is stuck between managing Rosemary's escalating terror, the press fallout for a client she can't reach, and a story she doesn't believe but can't counter.
 - Day 5–7: Rosemary is panicking. Calling La. Calling everyone. Hospitals. The agent. Friends. Nobody knows anything. La is stuck between managing Rosemary's escalating terror and the professional reality that her client is unreachable.
 - Day 8–10: La's competence hitting a wall. She is a fixer with nothing to fix. The whole machinery of management — the thing she's brilliant at — is useless. She can't find Persefoni. She can't calm Rosemary. She can't get a straight answer from Démion. The system she built to protect Persefoni is operating on information that is already obsolete.
+- **After Day 8: La flies back to Orlando.** She has no reason to believe Persefoni is even in LA. There's nothing left to do on the ground — no lead, no location, no contact. She goes home. The fixer returns to base with nothing fixed.
+- **Rosemary stays.** She remains at Persefoni's Santa Monica house, waiting. She is not a fixer — she is a mother. She will not leave her daughter's home until her daughter comes back to it. This is why she's there when Persefoni returns from the retreat in 3.05.
 
-**Thematic function:** The outside world continuing to spin while Persefoni sits in silence. The contrast between La's frantic activity and Persefoni's stillness. The irony that the people who love her are suffering because she's healing.
+**Thematic function:** The outside world continuing to spin while Persefoni sits in silence. The contrast between La's frantic activity and Persefoni's stillness. The irony that the people who love her are suffering because she's healing. La and Rosemary split into two responses to helplessness: La retreats to function (Orlando, work, the machinery); Rosemary holds the ground (the house, the waiting, the vigil).
 
 ---
 

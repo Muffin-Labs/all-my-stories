@@ -1,0 +1,121 @@
+/* Literary fiction styling — All My Stories */
+
+:root {
+    --content-max-width: 700px;
+}
+
+/* Body text — serif for prose */
+.content main {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 1.45rem;
+    line-height: 1.9;
+    letter-spacing: 0.01em;
+}
+
+/* Chapter titles */
+.content main h1 {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-weight: normal;
+    font-size: 2.2rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    border-bottom: none;
+}
+
+/* Epigraph styling — override all default blockquote theming */
+.content main blockquote {
+    font-style: italic;
+    border: none !important;
+    border-left: none !important;
+    background: none !important;
+    padding: 0 2rem;
+    margin: 0 auto 1rem auto;
+    max-width: 85%;
+    text-align: center;
+    opacity: 0.75;
+    font-size: 1.35rem;
+    line-height: 1.7;
+    color: inherit !important;
+}
+
+.content main blockquote p {
+    text-indent: 0 !important;
+    margin-bottom: 0.3rem;
+}
+
+/* First hr = epigraph-to-prose separator: subtle, no asterisks */
+.content main hr:first-of-type {
+    border: none;
+    margin: 2.5rem 0;
+}
+
+.content main hr:first-of-type::after {
+    content: "";
+}
+
+/* Scene break hrs: centered asterisks */
+.content main hr {
+    border: none;
+    text-align: center;
+    margin: 2.5rem 0;
+}
+
+.content main hr::after {
+    content: "\2022  \2022  \2022";
+    font-size: 0.7rem;
+    opacity: 0.35;
+    display: block;
+}
+
+/* Prose paragraphs — indent continuation, not first */
+.content main p {
+    margin-bottom: 0.15rem;
+    margin-top: 0;
+    text-indent: 1.5em;
+}
+
+/* Don't indent the first paragraph after headings, hrs, or blockquotes */
+.content main h1 + p,
+.content main h2 + p,
+.content main hr + p,
+.content main blockquote + p,
+.content main blockquote + hr + p {
+    text-indent: 0;
+}
+
+/* Sidebar */
+.sidebar .chapter li a {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 0.9rem;
+}
+
+/* Act headings in sidebar */
+.sidebar .chapter li.part-title {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    opacity: 0.6;
+    margin-top: 1.2rem;
+    padding-top: 0.8rem;
+}
+
+/* Hide the navigation section labels (Chapter 1, Chapter 2, etc.) */
+.sidebar .chapter li.chapter-item {
+    padding-left: 0.5rem;
+}
+
+/* Print view tweaks */
+@media print {
+    .content main {
+        font-size: 11pt;
+        line-height: 1.6;
+    }
+
+    .content main h1 {
+        page-break-before: always;
+    }
+}
