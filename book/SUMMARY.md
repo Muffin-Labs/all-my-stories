@@ -1,8 +1,6 @@
 # You (&) All My Stories
 
----
-
-## Act I: The Triangle
+# Act I: The Triangle
 
 - [Sheepey](1.01_sheepey.md)
 - [Drive](1.02_drive.md)
@@ -16,9 +14,7 @@
 - [The Updated Model](1.10_the_updated_model.md)
 - [The Hollowness](1.11_the_hollowness.md)
 
----
-
-## Act II: The Personality
+# Act II: The Personality
 
 - [Hurricane Season](2.01_hurricane_season.md)
 - [Peerless](2.02_peerless.md)
@@ -32,9 +28,7 @@
 - [The Same Hands](2.10_the_same_hands.md)
 - [The Death of a Hero](2.11_the_death_of_a_hero.md)
 
----
-
-## Act III: The Crack
+# Act III: The Crack
 
 - [The Tip of the Nose](3.01_the_tip_of_the_nose.md)
 - [Freeplay Life](3.02_freeplay_life.md)

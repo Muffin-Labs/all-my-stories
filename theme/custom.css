@@ -89,13 +89,13 @@
 /* Sidebar */
 .sidebar .chapter li a {
     font-family: "Georgia", "Times New Roman", serif;
-    font-size: 0.9rem;
+    font-size: 1.45rem;
 }
 
 /* Act headings in sidebar */
 .sidebar .chapter li.part-title {
     font-family: "Georgia", "Times New Roman", serif;
-    font-size: 0.75rem;
+    font-size: 1.1rem;
     letter-spacing: 0.1em;
     text-transform: uppercase;
     opacity: 0.6;
