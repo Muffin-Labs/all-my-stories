@@ -1,5 +1,7 @@
 # You (&) All My Stories
 
+[Cover](index.md)
+
 # Act I: The Triangle
 
 - [Sheepey](1.01_sheepey.md)
