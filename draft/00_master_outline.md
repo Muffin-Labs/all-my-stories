@@ -286,7 +286,7 @@
 - **Rosemary nearly dies the same day:**
   - Broken heart — one of those tragedies where losing someone so pivotal nearly kills the survivor
   - Persefoni has to rush to the hospital in Florida
-  - With her cousin **Lauria** (Gloria's daughter? — relationship TBD)
+  - With her cousin **Lauria** (Rosemary's sister's daughter — surname Wilson from her father's side)
   - They have to navigate the healthcare system — which is also a shit show
   - Rosemary is on the brink of death
   - She survives, but barely

@@ -105,6 +105,17 @@ Persefoni and Kathleen are the band's biggest genuine fans — they think it's t
 
 ---
 
+## La (Lauria Wilson) — Persefoni's Manager
+
+**Role:** Persefoni's brand manager and professional fixer. Hired in late May 2021, three days after the St. Pete condo closes.
+**Family:** Persefoni's maternal cousin — Rosemary's sister's daughter. Surname Wilson from her father's side.
+**Base:** Orlando
+**Age:** Mid-thirties during Act 2
+**Physical description:** TBD
+**Overall:** Sharp, professional, three phones. The kind of manager who never confuses professional devotion with the other kind. She replaces Alejandro's strategic function without the entanglement — a professional who happens to be family, or family who happens to be professional, the line drawn clean either way. In crisis (George's death, Act 3 legal battle), the family shows through the professionalism — she's not just managing a client, she's protecting her cousin.
+
+---
+
 ## Gaia (Act 4)
 
 **Role:** Runs Inan Itah, the eco village on Ometepe Island. Close friends with Erica.
