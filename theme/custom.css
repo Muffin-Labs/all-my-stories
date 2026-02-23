@@ -1,14 +1,19 @@
 /* Literary fiction styling — All My Stories */
 
 :root {
-    --content-max-width: 700px;
+    --content-max-width: 680px;
+}
+
+/* Content area — breathing room from sidebar */
+.content {
+    padding: 0 4rem;
 }
 
 /* Body text — serif for prose */
 .content main {
     font-family: "Georgia", "Times New Roman", serif;
-    font-size: 1.45rem;
-    line-height: 1.9;
+    font-size: 1.4rem;
+    line-height: 2.2;
     letter-spacing: 0.01em;
 }
 
@@ -72,7 +77,7 @@
 
 /* Prose paragraphs — indent continuation, not first */
 .content main p {
-    margin-bottom: 0.15rem;
+    margin-bottom: 0.6rem;
     margin-top: 0;
     text-indent: 1.5em;
 }
