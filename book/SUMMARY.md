@@ -36,3 +36,7 @@
 - [The Tip of the Nose](3.01_the_tip_of_the_nose.md)
 - [Freeplay Life](3.02_freeplay_life.md)
 - [The Other Half](3.03_the_other_half.md)
+
+---
+
+[About the Author](about.md)

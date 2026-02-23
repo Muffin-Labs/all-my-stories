@@ -13,7 +13,7 @@
 /* Body text — serif for prose */
 .content main {
     font-family: "Georgia", "Times New Roman", serif;
-    font-size: 1.4rem;
+    font-size: 1.55rem;
     line-height: 2.2;
     letter-spacing: 0.01em;
 }
@@ -42,7 +42,7 @@
     max-width: 85%;
     text-align: center;
     opacity: 0.75;
-    font-size: 1.35rem;
+    font-size: 1.7rem;
     line-height: 1.7;
     color: inherit !important;
 }
@@ -50,6 +50,10 @@
 .content main blockquote p {
     text-indent: 0 !important;
     margin-bottom: 0.3rem;
+}
+
+.content main blockquote p:last-child {
+    margin-top: 1.2rem;
 }
 
 /* First hr = epigraph-to-prose separator: subtle, no asterisks */
@@ -137,7 +141,7 @@
     min-height: 70vh;
     text-align: center;
     font-style: italic;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     line-height: 2;
     opacity: 0.8;
 }
@@ -155,6 +159,48 @@
     text-decoration: none;
     font-style: italic;
     opacity: 0.35;
+}
+
+/* About the author page */
+.about-author {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
+    text-align: center;
+}
+
+.about-author .author-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1.5rem;
+}
+
+.about-author h2 {
+    font-family: "Playfair Display", "Georgia", serif;
+    font-weight: 400;
+    font-size: 1.8rem;
+    margin: 0 0 0.5rem 0;
+    border-bottom: none;
+}
+
+.about-author .author-bio {
+    font-family: "Georgia", serif;
+    font-size: 1.7rem;
+    line-height: 1.9;
+    max-width: 480px;
+    text-indent: 0 !important;
+    opacity: 0.85;
+    margin-bottom: 1.5rem;
+}
+
+.about-author a {
+    font-family: "Georgia", serif;
+    font-size: 1.1rem;
+    opacity: 0.7;
 }
 
 /* Print view tweaks */

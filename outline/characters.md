@@ -6,7 +6,7 @@ Single source of truth for how characters look. Reference this when writing scen
 
 ## Persefoni Minton
 
-**Age in Act 1:** 16 (born November 2002, Pensacola, Florida)
+**Age in Act 1:** 16 (born November 7, 2002, Pensacola, Florida)
 **Height:** 5'8"
 **Build:** Stunning. The kind of beautiful that reorganizes a room.
 **Skin:** Golden brown — biracial (Black father, white mother)
@@ -22,7 +22,7 @@ Single source of truth for how characters look. Reference this when writing scen
 
 ## George Minton
 
-**Age in Act 1:** Mid-40s
+**Age in Act 1:** 45 (born 1974)
 **Height:** 6'4"
 **Build:** Handsome. Commanding. Looks like Idris Elba — that same easy, magnetic physicality.
 **Skin:** Black
@@ -36,7 +36,7 @@ Single source of truth for how characters look. Reference this when writing scen
 
 ## Rosemary Minton
 
-**Age in Act 1:** Early 40s
+**Age in Act 1:** 42 (born 1977)
 **Height:** 5'2"
 **Build:** Petite. Thin but shapely. Breast implants. The classic blonde trophy wife — and she knows it, and George makes sure everyone else knows it too.
 **Hair:** Blonde
@@ -88,7 +88,7 @@ Persefoni and Kathleen are the band's biggest genuine fans — they think it's t
 
 ## Démion Reyes (Act 2)
 
-**Age when drafted:** 20 (born 2001). Freshman starting QB at Alabama, won the National Championship — basically single-handedly. Drafted by Tampa Bay Buccaneers, April 29, 2021 (first overall pick).
+**Age when drafted:** 20 (born May 5, 2001). Freshman starting QB at Alabama, won the National Championship — basically single-handedly. Drafted by Tampa Bay Buccaneers, April 29, 2021 (first overall pick).
 **Height:** 6'6"
 **Weight:** 250 lbs
 **Build:** Classically handsome, super buff, athletic in a way that makes other professional athletes look small. Think Saquon Barkley's physicality with Patrick Mahomes's improvisational genius and Tom Brady's competitive ruthlessness. A dominant runner and passer — improvisational on a level never seen before. Seems to know what will happen before it happens, always one step ahead. The body is a weapon and a monument.
@@ -110,7 +110,7 @@ Persefoni and Kathleen are the band's biggest genuine fans — they think it's t
 **Role:** Persefoni's brand manager and professional fixer. Hired in late May 2021, three days after the St. Pete condo closes.
 **Family:** Persefoni's maternal cousin — Rosemary's sister's daughter. Surname Wilson from her father's side.
 **Base:** Orlando
-**Age:** Mid-thirties during Act 2
+**Age:** Born 1996 (~6 years older than Persefoni). 25 when hired in 2021; early thirties by end of Act 2
 **Physical description:** TBD
 **Overall:** Sharp, professional, three phones. The kind of manager who never confuses professional devotion with the other kind. She replaces Alejandro's strategic function without the entanglement — a professional who happens to be family, or family who happens to be professional, the line drawn clean either way. In crisis (George's death, Act 3 legal battle), the family shows through the professionalism — she's not just managing a client, she's protecting her cousin.
 

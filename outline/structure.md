@@ -23,7 +23,7 @@
 
 ---
 
-## ACT 2: THE PERSONALITY (Ages 18-26, St. Pete/LA)
+## ACT 2: THE PERSONALITY (Ages 18-25, St. Pete/LA)
 **POV: Persefoni & Démion (strict alternation)**
 *Démion mirrors her personality*
 
@@ -41,7 +41,7 @@
 
 ---
 
-## ACT 3: THE CRACK (Age 26, Desert/Santa Monica)
+## ACT 3: THE CRACK (Age 25, Desert/Santa Monica)
 **POV: Persefoni (odd chapters) & rotating POV (even chapters)**
 *Each even chapter shows the crisis through a different outside perspective*
 
@@ -59,7 +59,7 @@
 
 ---
 
-## ACT 4: THE SCIENTIST (Ages 26-27, Nicaragua/Mexico/Washington/LA)
+## ACT 4: THE SCIENTIST (Ages 25-26, Nicaragua/Mexico/Washington/LA)
 **POV: Persefoni & Eric (strict alternation)**
 *Eric mirrors her awakening*
 

@@ -131,7 +131,7 @@
 - ~2026: George dies of a heart attack. Rosemary nearly dies of broken heart. George & Rosemary don't follow to LA.
 - 2026–2029: LA years — brand at full power, power couple at peak, the emptiness.
 - Late 2028/early 2029: Démion proposes again after her 26th birthday. She says yes.
-- September 2029: Wedding in Joshua Tree. Persefoni is 26. Wedding night. Retreat. Everything falls apart.
+- December 28, 2027: Wedding in Joshua Tree. Persefoni is 25. Wedding night. Retreat starts December 29. Everything falls apart.
 - Coming-of-age / Harry Potter-ish quality but grounded — not deep magic
 - Story IS the book — philosophy and tools woven into narrative
 - Book-within-a-book: Persefoni writes "Science and the Cult of Personality" in Act 3
@@ -398,7 +398,7 @@
 - Persefoni moves to St. Pete at 18 — leaves Alejandro (he goes to Stanford)
 - **Ends with:** the separation. Two paths diverge.
 
-**Act 2: The Personality (Ages 18-26, St. Pete/LA)**
+**Act 2: The Personality (Ages 18-25, St. Pete/LA)**
 - **POV alternates: Persefoni & Démion**
 - Démion mirrors her personality — the Cult of Personality at full power
 - → See `act2_the_personality.md`
@@ -414,7 +414,7 @@
   - We see Démion as a full person, not just a villain, before the betrayal is revealed
 - **Ends with:** the wedding night. The crack.
 
-**Act 3: The Crack (Age 26, Desert/Santa Monica)**
+**Act 3: The Crack (Age 25, Desert/Santa Monica)**
 - **POV alternates: Persefoni & Rosemary**
 - Rosemary mirrors her blindness — the gaslighting chain comes full circle
 - → See `act3_the_crack.md`
@@ -434,7 +434,7 @@
 - Character references (Alejandro returns, English teacher returns)
 - **Ends with:** Persefoni free but alone. Ready to run.
 
-**Act 4: The Scientist (Age 26-27, Nicaragua/Mexico/Washington/LA)**
+**Act 4: The Scientist (Ages 25-26, Nicaragua/Mexico/Washington/LA)**
 - **POV alternates: Persefoni & Eric**
 - Eric mirrors her awakening — the Scientist figure
 - → See `act4_the_scientist.md`
