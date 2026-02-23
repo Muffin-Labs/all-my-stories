@@ -100,6 +100,7 @@ Persefoni and Kathleen are the band's biggest genuine fans — they think it's t
 
 ## Eric (Act 4)
 
+**Age in Act 4:** 45 (born September 12, 1982)
 **Physical description:** TBD
 **Background:** AI researcher and consultant. Can work from anywhere with a laptop.
 
@@ -120,6 +121,7 @@ Persefoni and Kathleen are the band's biggest genuine fans — they think it's t
 
 **Role:** Runs Inan Itah, the eco village on Ometepe Island. Close friends with Erica.
 **Background:** Former stripper in NYC. Knows the sex work industry — the economics, the platforms, the psychology of selling desire. Left New York for the island. Built the eco village. Has her own cob building on site.
+**Age in Act 4:** ~50 (born late 1977, Sagittarius)
 **With Persefoni:** Gets her started on Fanvue. Shows her the infrastructure — how to set up subscriptions, how to price content, how the business works. Not a mentor in some gentle spiritual sense. A practical woman who knows what men will pay for and how to make that work for you.
 **Physical description:** TBD
 
