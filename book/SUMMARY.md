@@ -1,6 +1,7 @@
 # You (&) All My Stories
 
 [Cover](index.md)
+[Epigraph](epigraph.md)
 
 # Act I: The Triangle
 

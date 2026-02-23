@@ -1,5 +1,5 @@
 [book]
-title = "You (&) All My Stories"
+title = "You & All My Stories"
 authors = ["E.L. Muffin"]
 language = "en"
 src = "book"
@@ -12,4 +12,5 @@ default-theme = "navy"
 preferred-dark-theme = "navy"
 git-repository-url = "https://github.com/ericg/all-my-stories"
 additional-css = ["theme/custom.css"]
+additional-js = ["theme/title-fix.js"]
 no-section-label = true

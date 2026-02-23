@@ -1,4 +1,5 @@
 /* Literary fiction styling — All My Stories */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap');
 
 :root {
     --content-max-width: 680px;
@@ -91,6 +92,20 @@
     text-indent: 0;
 }
 
+/* Faded ampersand in title */
+.faded-amp {
+    opacity: 0.35;
+}
+
+/* Site title in header */
+.menu-title {
+    font-family: "Playfair Display", "Georgia", serif !important;
+    font-size: 1.6rem !important;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    font-style: normal;
+}
+
 /* Sidebar */
 .sidebar .chapter li a {
     font-family: "Georgia", "Times New Roman", serif;
@@ -111,6 +126,35 @@
 /* Hide the navigation section labels (Chapter 1, Chapter 2, etc.) */
 .sidebar .chapter li.chapter-item {
     padding-left: 0.5rem;
+}
+
+/* Book epigraph page */
+.book-epigraph {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
+    text-align: center;
+    font-style: italic;
+    font-size: 1.5rem;
+    line-height: 2;
+    opacity: 0.8;
+}
+
+.book-epigraph p {
+    text-indent: 0 !important;
+    margin: 0;
+}
+
+.book-epigraph .epigraph-gap {
+    height: 2rem;
+}
+
+.book-epigraph s {
+    text-decoration: none;
+    font-style: italic;
+    opacity: 0.35;
 }
 
 /* Print view tweaks */
